@@ -1,0 +1,45 @@
+{
+  "name": "Luigi de Aruanda",
+  "version": "0.1.0",
+  "description": "🌿 Ecossistema criativo — posts, imagens, loja de ervas e design",
+  "agents": {
+    "orchestrator": {
+      "name": "luigi-core",
+      "model": "devsan",
+      "description": "Orquestra todos os agentes do ecossistema"
+    },
+    "subagents": [
+      {
+        "name": "design-agent",
+        "description": "Design visual — skill map, brand, cores, tipografia",
+        "instructions": "src/agents/design-agent.md"
+      },
+      {
+        "name": "content-agent",
+        "description": "Copywriting e conteúdo espiritual",
+        "instructions": "src/agents/content-agent.md"
+      },
+      {
+        "name": "social-agent",
+        "description": "Gestão de Instagram e redes sociais",
+        "instructions": "src/agents/social-agent.md"
+      },
+      {
+        "name": "store-agent",
+        "description": "Loja, catálogo, checkout e pedidos",
+        "instructions": "src/agents/store-agent.md"
+      }
+    ]
+  },
+  "mcpServers": {
+    "mem0": { "description": "Memória do ecossistema" },
+    "composio": { "description": "Integrações Gmail, Sheets, Notion, Discord, Instagram" },
+    "browseros": { "description": "Automação de navegador" },
+    "firecrawl": { "description": "Scraping avançado" }
+  },
+  "skills": {
+    "design": "src/design/skill-map.md",
+    "instagram": "src/instagram/image-generation.md",
+    "store": "src/loja/checkout-flow.md"
+  }
+}
