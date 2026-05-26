@@ -1,6 +1,6 @@
-# 🗺️ Skill Map — Design Aruanda
+# 🗺️ Skill Map — Design do Projeto
 
-Mapa de habilidades e competências visuais do ecossistema Luigi de Aruanda.
+Mapa de habilidades e competências visuais do ecossistema.
 
 ---
 
@@ -8,8 +8,8 @@ Mapa de habilidades e competências visuais do ecossistema Luigi de Aruanda.
 
 ```
                 ┌──────────────┐
-                │  ARUANDA     │
-                │  ESSENCE     │
+                │  ESSÊNCIA    │
+                │  DO PROJETO  │
                 └──────┬───────┘
                        │
         ┌──────────────┼──────────────┐

@@ -36,7 +36,7 @@ Estrutura padrão para posts do feed.
 
 🔗 Encontre na loja — link na bio
 
-#luigidearuanda #ervasnaturais #banhodeervas #[categoria]
+#[HASHTAG_PROJETO] #ervasnaturais #banhodeervas #[categoria]
 ```
 
 ---

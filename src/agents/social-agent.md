@@ -1,4 +1,4 @@
-# 📸 Aruanda Social Agent
+# 📸 Agente Social
 
 Agente especializado em gestão de redes sociais.
 

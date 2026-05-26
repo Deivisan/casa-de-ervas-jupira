@@ -1,4 +1,4 @@
-# 🔤 Tipografia — Luigi de Aruanda
+# 🔤 Tipografia — [NOME_DO_PROJETO]
 
 Voz visual através das fontes.
 

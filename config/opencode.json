@@ -1,10 +1,10 @@
 {
-  "name": "Luigi de Aruanda",
+  "name": "[NOME_DO_PROJETO]",
   "version": "0.1.0",
   "description": "🌿 Ecossistema criativo — posts, imagens, loja de ervas e design",
   "agents": {
     "orchestrator": {
-      "name": "luigi-core",
+      "name": "core",
       "model": "devsan",
       "description": "Orquestra todos os agentes do ecossistema"
     },

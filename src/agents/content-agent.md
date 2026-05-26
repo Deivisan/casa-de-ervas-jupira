@@ -1,4 +1,4 @@
-# 📝 Aruanda Content Agent
+# 📝 Agente de Conteúdo
 
 Agente especializado em copywriting e conteúdo espiritual.
 

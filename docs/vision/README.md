@@ -1,4 +1,4 @@
-# 📖 Visão — Luigi de Aruanda
+# 📖 Visão — [NOME_DO_PROJETO]
 
 > Documentos de visão, manifesto e propósito do ecossistema.
 

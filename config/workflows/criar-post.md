@@ -24,7 +24,7 @@ Fluxo completo de criação de um post.
 - Ajusta tom de voz
 
 ### 4. Revisão ✅
-- `luigi-core` valida:
+- `core` valida:
   - Imagem dentro das diretrizes de cor
   - Legenda com tom de voz correto
   - Hashtags apropriadas
@@ -42,5 +42,5 @@ Fluxo completo de criação de um post.
 ```bash
 # "Criar post sobre arruda para proteção"
 # O core orquestra automaticamente:
-# design-agent → content-agent → luigi-core → social-agent
+# design-agent → content-agent → core → social-agent
 ```

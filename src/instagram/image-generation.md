@@ -1,4 +1,4 @@
-# 🖼️ Geração de Imagens — Luigi de Aruanda
+# 🖼️ Geração de Imagens — [NOME_DO_PROJETO]
 
 Sistema de prompts e estilo para geração de imagens com IA (Midjourney / DALL·E / Stable Diffusion).
 
@@ -31,7 +31,7 @@ product photography of a handmade candle in terracota container, dried herbs aro
 
 ### 📖 Posts Citacionais
 ```
-minimalist composition, dried palm leaf background, elegant serif text overlay "Aruanda", soft earthy tones, poetic mood, golden light rays, sacred geometry subtle watermark --ar 4:5
+minimalist composition, dried palm leaf background, elegant serif text overlay "[NOME_DO_PROJETO]", soft earthy tones, poetic mood, golden light rays, sacred geometry subtle watermark --ar 4:5
 ```
 
 ### 🌅 Banner Site / Capa

@@ -1,4 +1,4 @@
-# 🏗️ Estrutura do Site — Luigi de Aruanda
+# 🏗️ Estrutura do Site — [NOME_DO_PROJETO]
 
 Arquitetura de informações e páginas.
 
@@ -25,7 +25,7 @@ Arquitetura de informações e páginas.
 │   ├── Preço + variações (50g/100g)
 │   └── Botão comprar
 ├── /sobre
-│   ├── História do Luigi de Aruanda
+│   ├── História do [NOME_DO_PROJETO]
 │   ├── Missão, visão e valores
 │   └── Fotos do espaço
 ├── /blog

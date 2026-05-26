@@ -1,4 +1,4 @@
-# 📅 Calendário Editorial — Instagram @luigidearuanda
+# 📅 Calendário Editorial — Instagram @[INSTAGRAM]
 
 Estratégia de conteúdo para o perfil.
 
@@ -11,10 +11,10 @@ Estratégia de conteúdo para o perfil.
 | Seg       | Carrossel          | Erva da Semana                | #ervasnaturais #banho de ervas          |
 | Ter       | Foto               | Dia de defumação              | #defumacao #energização                |
 | Qua       | Reels              | Como preparar um banho         | #banhodeervas #espiritualidade          |
-| Qui       | Story interativo   | Qual erva você precisa hoje?  | #aruanda #cuidadoespiritual             |
+| Qui       | Story interativo   | Qual erva você precisa hoje?  | #[HASHTAG_PROJETO] #cuidadoespiritual   |
 | Sex       | Post estático      | Produto em destaque           | #lojaesoterica #incensos                |
 | Sab       | Carrossel ou Reels | Mito vs Verdade sobre ervas   | #curiosidades #plantassagradas          |
-| Dom       | Citação / Reflexão | Frase espiritual com arte     | #reflexao #paz #aruanda                 |
+| Dom       | Citação / Reflexão | Frase espiritual com arte     | #reflexao #paz #[HASHTAG_PROJETO]       |
 
 ---
 

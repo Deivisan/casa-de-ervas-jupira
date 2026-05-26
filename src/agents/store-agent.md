@@ -1,4 +1,4 @@
-# 🌿 Aruanda Store Agent
+# 🌿 Agente da Loja
 
 Agente especializado na loja e gestão de produtos.
 

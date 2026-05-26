@@ -1,8 +1,8 @@
-# 🌿 Luigi de Aruanda
+# 🌿 [NOME_DO_PROJETO]
 
 **Ecossistema criativo — posts, imagens, loja de ervas e design.**
 
-Luigi de Aruanda é um projeto vivo que une espiritualidade, design e tecnologia. Aqui criamos:
+[NOME_DO_PROJETO] é um projeto vivo que une espiritualidade, design e tecnologia. Aqui criamos:
 
 - 📸 **Posts e stories para Instagram** com identidade visual mística
 - 🎨 **Geração de imagens** com IA e curadoria artesanal
@@ -32,4 +32,4 @@ Em construção ativa. Tudo será adicionado e reatualizado conforme o ecossiste
 
 ---
 
-> _"Aruanda é onde a terra encontra o céu — e o design encontra a alma."_
+> _"[FRASE_DO_PROJETO] — onde a terra encontra o céu, e o design encontra a alma."_

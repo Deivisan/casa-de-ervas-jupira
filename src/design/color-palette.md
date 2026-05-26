@@ -1,6 +1,6 @@
-# 🎨 Paleta de Cores — Luigi de Aruanda
+# 🎨 Paleta de Cores — [NOME_DO_PROJETO]
 
-Cores extraídas da terra, das folhas e do céu de Aruanda.
+Cores extraídas da terra, das folhas e do céu.
 
 ---
 

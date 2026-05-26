@@ -1,4 +1,4 @@
-# 📖 Brand Guidelines — Luigi de Aruanda
+# 📖 Brand Guidelines — [NOME_DO_PROJETO]
 
 Diretrizes completas da marca.
 
@@ -16,7 +16,7 @@ Diretrizes completas da marca.
 
 ## 🖼️ Logotipo
 
-**Principal:** Símbolo + logotipo "Luigi de Aruanda" em tipografia serifada.
+**Principal:** Símbolo + logotipo "[NOME_DO_PROJETO]" em tipografia serifada.
 **Variações:**
 - Horizontal (padrão)
 - Vertical (ícone + texto empilhado)
@@ -47,3 +47,4 @@ Diretrizes completas da marca.
 | Blog       | Educativo, espiritual, pessoal       |
 
 **Palavras proibidas:** "venda", "compra", "promoção" (substituir por "encontre", "acolha", "presente")
+**Nome do projeto:** [NOME_DO_PROJETO] (nome temporário — aguardando confirmação do cliente)

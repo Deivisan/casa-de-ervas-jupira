@@ -1,4 +1,4 @@
-# 🤖 Agentes — Luigi de Aruanda
+# 🤖 Agentes — [NOME_DO_PROJETO]
 
 Sistema de agentes autônomos para orquestrar o ecossistema criativo.
 
@@ -6,7 +6,7 @@ Sistema de agentes autônomos para orquestrar o ecossistema criativo.
 
 ## 🧠 Orquestrador Principal
 
-**Nome:** Luigi Core
+**Nome:** Core Agent
 **Função:** Coordena todos os agentes, mantém a visão do projeto e distribui tarefas.
 **Stack:** CLI-First · Bun · Arch Linux
 **Modelo:** DevSan (AGI pessoal)
@@ -17,7 +17,7 @@ Sistema de agentes autônomos para orquestrar o ecossistema criativo.
 
 | Campo       | Detalhe                                 |
 |-------------|-----------------------------------------|
-| Nome        | Aruanda Design                         |
+| Nome        | Agente de Design                       |
 | Skill Map   | `src/design/skill-map.md`              |
 | Competências| Brand identity, color palette, tipografia, UI/UX |
 | Outputs     | Diretrizes visuais, assets, protótipos |
@@ -26,7 +26,7 @@ Sistema de agentes autônomos para orquestrar o ecossistema criativo.
 
 | Campo       | Detalhe                                 |
 |-------------|-----------------------------------------|
-| Nome        | Aruanda Content                        |
+| Nome        | Agente de Conteúdo                     |
 | Competências| Copywriting espiritual, legendas, blogs |
 | Outputs     | Posts, stories, descrições de produtos |
 
@@ -34,7 +34,7 @@ Sistema de agentes autônomos para orquestrar o ecossistema criativo.
 
 | Campo       | Detalhe                                 |
 |-------------|-----------------------------------------|
-| Nome        | Aruanda Social                         |
+| Nome        | Agente Social                          |
 | Competências| Calendário editorial, agendamento, engajamento |
 | Outputs     | Cronograma de posts, analytics, réguas |
 
@@ -42,7 +42,7 @@ Sistema de agentes autônomos para orquestrar o ecossistema criativo.
 
 | Campo       | Detalhe                                 |
 |-------------|-----------------------------------------|
-| Nome        | Aruanda Store                          |
+| Nome        | Agente da Loja                         |
 | Competências| Catálogo, ervas, checkout, inventário  |
 | Outputs     | Páginas de produto, carrinho, pedidos  |
 
@@ -51,7 +51,7 @@ Sistema de agentes autônomos para orquestrar o ecossistema criativo.
 ## 🔄 Fluxo de Trabalho
 
 ```
-Usuário → Luigi Core → Design Agent (briefing visual)
+Usuário → Core Agent → Design Agent (briefing visual)
                      → Content Agent (copy + conceito)
                      → Social Agent (formato + agenda)
                      → Store Agent (produto + loja)

@@ -1,4 +1,4 @@
-# 🛒 Fluxo de Checkout — Casa de Ervas Aruanda
+# 🛒 Fluxo de Checkout — [NOME_LOJA]
 
 ---
 

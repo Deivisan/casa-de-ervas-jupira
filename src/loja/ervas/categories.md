@@ -1,11 +1,11 @@
-# 🏷️ Categorias — Casa de Ervas Aruanda
+# 🏷️ Categorias — [NOME_LOJA]
 
 ---
 
 ## 📂 Estrutura de Categorias
 
 ```
-Luigi de Aruanda
+[NOME_DO_PROJETO]
 ├── 🌿 Ervas Naturais
 │   ├── Banho de Ervas
 │   ├── Defumação

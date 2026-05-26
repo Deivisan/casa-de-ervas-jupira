@@ -1,4 +1,4 @@
-# 📦 Catálogo de Ervas — Casa de Ervas Aruanda
+# 📦 Catálogo de Ervas — [NOME_LOJA]
 
 ---
 

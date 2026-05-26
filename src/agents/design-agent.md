@@ -1,4 +1,4 @@
-# 🎨 Aruanda Design Agent
+# 🎨 Agente de Design
 
 Agente especializado em design visual do ecossistema.
 
