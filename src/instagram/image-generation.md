@@ -1,14 +1,16 @@
-# 🖼️ Geração de Imagens — [NOME_DO_PROJETO]
+# 🖼️ Geração de Imagens — Casa de Ervas Jupira
 
 Sistema de prompts e estilo para geração de imagens com IA (Midjourney / DALL·E / Stable Diffusion).
+Inspirado na Cabocla Jupira — guerreira flecheira, princesa das matas.
 
 ---
 
 ## 🎯 Diretrizes de Estilo
 
-**Palavras-chave:** mystical, earthy, warm tones, soft bokeh, natural light, brazilian herbs, rustic, sacred, organic textures, golden hour.
+**Palavras-chave:** cabocla, indigenous brazilian woman, headdress, amazon forest, yellow green red color palette, brazilian herbs, mystical, ancestral, sacred, warrior, feminine power, golden hour, feather, archery.
 
-**Evitar:** cenários muito escuros, tons fluorescentes, elementos genéricos, fundos urbanos.
+**Cores dominantes:** Amarelo (coroa de Jupira), Verde (mata), Vermelho (força), Azul Anil (espiritualidade)
+**Evitar:** cenários urbanos, tons fluorescentes, elementos genéricos, estética européia.
 
 ---
 
@@ -16,27 +18,32 @@ Sistema de prompts e estilo para geração de imagens com IA (Midjourney / DALL�
 
 ### 🌿 Ervas e Banhos
 ```
-flat lay composition of fresh green herbs (arruda, alecrim, guiné) and dried flowers on a wooden surface, soft morning light, terracota bowl, white linen cloth, mystical brazilian spirituality, earthy color palette, depth of field --ar 4:5 --v 6
+flat lay composition of fresh brazilian herbs (arruda, alecrim, guiné, folhas de jurema) on a wooden surface, yellow and green color scheme, terracota bowl with herbs, indigenous textile, soft golden hour light, mystical protection ritual, depth of field --ar 4:5 --v 6
 ```
 
 ### 🕯️ Defumação e Incensos
 ```
-smoke from a sage bundle swirling in warm golden light, dark background, moody atmosphere, sacred ritual, close-up photography, brazilian spiritual ambiance, texture of smoke visible --ar 4:5
+smoke from sage bundle swirling in warm golden light, dark forest background, cabocla ritual, feather headdress silhouette in background, yellow and red tones, sacred atmosphere, brazilian spiritual ceremony, texture of smoke visible --ar 4:5
+```
+
+### 🏹 Referência à Cabocla Jupira
+```
+brazilian indigenous warrior woman with feather headdress (yellow and red feathers), holding a spear, standing firmly in the forest, golden sunlight piercing through trees, strong posture, eyes slightly closed, mystical atmosphere, green and yellow color palette, ancestral feminine power --ar 4:5
 ```
 
 ### 🧴 Produtos (Velas, Óleos)
 ```
-product photography of a handmade candle in terracota container, dried herbs around it, soft window light, natural bokeh background, cozy spiritual vibe, brazilian natural products --ar 1:1
+product photography of handmade candle in terracota container, dried herbs and yellow flowers around it, warm window light, natural bokeh forest background, yellow and green tones, spiritual handmade products, cozy cabocla ritual vibe --ar 1:1
 ```
 
 ### 📖 Posts Citacionais
 ```
-minimalist composition, dried palm leaf background, elegant serif text overlay "[NOME_DO_PROJETO]", soft earthy tones, poetic mood, golden light rays, sacred geometry subtle watermark --ar 4:5
+minimalist composition with palm leaves and yellow feather, elegant serif text overlay "Okê Jupira", golden light rays, earthy tones, poetic spiritual mood, warrior feminine energy, subtle sacred geometry --ar 4:5
 ```
 
 ### 🌅 Banner Site / Capa
 ```
-wide panoramic view of a mystical garden path leading to a white house with red roof, lush green vegetation, golden sunrise, birds in the sky, peaceful energy, brazilian countryside --ar 16:9
+wide panoramic view of a sacred forest path, golden sunrise filtering through trees, jurema tree in foreground, mystical atmosphere, yellow and green color palette, birds flying, brazilian ancestral land, peaceful but powerful energy --ar 16:9
 ```
 
 ---
@@ -56,9 +63,9 @@ wide panoramic view of a mystical garden path leading to a white house with red 
 
 ## ✅ Fluxo de Criação
 
-1. Briefing → Definir tipo de post (produto, educativo, citação)
-2. Prompt → Selecionar template acima + ajustar detalhes
-3. Geração → Rodar 4 variações
-4. Curadoria → Escolher melhor, ajustar tom/cor
-5. Pós → Adicionar texto (se for post) no Canva ou Figma
-6. Publicação → Agendar no Instagram
+1. **Briefing** → Definir tipo de post (produto, educativo, citação, cabocla)
+2. **Prompt** → Selecionar template acima + ajustar detalhes
+3. **Geração** → Rodar 4 variações
+4. **Curadoria** → Escolher melhor, ajustar tom/cor no amarelo-verde-vermelho
+5. **Pós** → Adicionar texto (se for post) no Canva ou Figma
+6. **Publicação** → Agendar no Instagram @casadeervasjupira

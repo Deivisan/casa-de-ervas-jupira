@@ -1,10 +1,10 @@
-# 🌿 [NOME_DO_PROJETO]
+# 🌿 Casa de Ervas Jupira
 
-**Ecossistema criativo — posts, imagens, loja de ervas e design.**
+**Ervas, design e espiritualidade — uma casa com alma de cabocla.**
 
-[NOME_DO_PROJETO] é um projeto vivo que une espiritualidade, design e tecnologia. Aqui criamos:
+A Casa de Ervas Jupira é um projeto vivo que une o conhecimento ancestral das plantas à potência do design contemporâneo. Inspirado na Cabocla Jupira — princesa das matas, guerreira flecheira, filha de Jurema — cada produto, cada post e cada pixel carrega a força da mata e o frescor das folhas.
 
-- 📸 **Posts e stories para Instagram** com identidade visual mística
+- 📸 **Posts e stories para Instagram** com identidade visual mística e indígena
 - 🎨 **Geração de imagens** com IA e curadoria artesanal
 - 🌱 **Casa de Ervas** — loja online com banho, defumação, incenso e velas
 - 🛒 **Site completo** com perfil visual, catálogo e checkout
@@ -32,4 +32,5 @@ Em construção ativa. Tudo será adicionado e reatualizado conforme o ecossiste
 
 ---
 
-> _"[FRASE_DO_PROJETO] — onde a terra encontra o céu, e o design encontra a alma."_
+> _Jupira é a princesa das matas, guerreira que mora no Jacutá — onde a terra encontra o céu, e o design encontra a alma._
+> `@casadeervasjupira`

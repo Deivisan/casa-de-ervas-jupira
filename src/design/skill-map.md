@@ -1,4 +1,4 @@
-# 🗺️ Skill Map — Design do Projeto
+# 🗺️ Skill Map — Design Casa de Ervas Jupira
 
 Mapa de habilidades e competências visuais do ecossistema.
 
@@ -8,8 +8,8 @@ Mapa de habilidades e competências visuais do ecossistema.
 
 ```
                 ┌──────────────┐
-                │  ESSÊNCIA    │
-                │  DO PROJETO  │
+                │   CABOCLA    │
+                │   JUPIRA     │
                 └──────┬───────┘
                        │
         ┌──────────────┼──────────────┐
@@ -25,16 +25,16 @@ Mapa de habilidades e competências visuais do ecossistema.
 ## 🎨 Habilidades de Design
 
 ### 1. Identidade Visual (Brand Identity)
-- [x] Paleta de cores mística-terrestre
-- [x] Tipografia sagrada + moderna
-- [x] Logotipo e variações
-- [x] Iconografia de ervas e elementos
-- [x] Padrões e texturas orgânicas
+- [x] Paleta amarelo-verde-vermelho (cores de Jupira)
+- [x] Tipografia serifada + moderna
+- [x] Logotipo com ilustração de cabocla
+- [x] Iconografia de ervas, flechas e penas
+- [x] Padrões e texturas orgânicas da mata
 
 ### 2. Design Editorial
 - [x] Templates de posts para Instagram (feed)
 - [x] Templates de stories
-- [x] Capas de destaque
+- [x] Capas de destaque com penacho
 - [x] Layouts para catálogo de ervas
 
 ### 3. UI/UX para Loja
@@ -45,8 +45,8 @@ Mapa de habilidades e competências visuais do ecossistema.
 - [x] Mobile-first
 
 ### 4. Geração de Imagens (IA)
-- [x] Prompts estratégicos por categoria
-- [x] Estilo visual consistente
+- [x] Prompts estratégicos por categoria (ervas, cabocla, produtos)
+- [x] Estilo visual cabocla consistente
 - [x] Curadoria e pós-produção
 - [x] Variações sazonais
 
@@ -60,9 +60,9 @@ Mapa de habilidades e competências visuais do ecossistema.
 ## 🔗 Dependências entre Skills
 
 ```
-Brand Identity → Design Editorial → Templates Instagram
+Brand Identity (Jupira) → Design Editorial → Templates Instagram
 Brand Identity → UI/UX → Site da Loja
-Imagem IA → Design Editorial → Posts
+Imagem IA (cabocla) → Design Editorial → Posts
 Imagem IA → UI/UX → Banner de Produtos
 ```
 

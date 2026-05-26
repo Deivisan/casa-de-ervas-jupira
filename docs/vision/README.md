@@ -1,7 +1,7 @@
-# 📖 Visão — [NOME_DO_PROJETO]
+# 📖 Visão — Casa de Ervas Jupira
 
 > Documentos de visão, manifesto e propósito do ecossistema.
 
 | Documento        | Descrição                                 |
 |------------------|-------------------------------------------|
-| `manifesto.md`   | Manifesto completo do projeto             |
+| `manifesto.md`   | Manifesto — história da Cabocla Jupira    |

@@ -21,17 +21,18 @@
 │  👆 Arraste pra      │
 │     mais infos       │
 │                      │
+│  Okê Jupira!         │
 └──────────────────────┘
 ```
 
-## Template: Caixinha de Perguntas
+## Template: Caixinha de Perguntas (Cabocla)
 
 ```
 ┌──────────────────────┐
 │                      │
-│   🤔 QUAL ERVA      │
-│   VOCÊ PRECISA      │
-│   HOJE?              │
+│   🏹 QUAL ENERGIA   │
+│   CABOCLA JUPIRA    │
+│   PRECISA HOJE?     │
 │                      │
 │   Me conta aqui 👇   │
 │                      │
@@ -42,13 +43,14 @@
 └──────────────────────┘
 ```
 
-## Template: Enquete Rápida
+## Template: Enquete
 
 ```
 ┌──────────────────────┐
 │                      │
 │   Banho de ervas     │
-│   ou defumação?      │
+│   ou defumação       │
+│   com Jupira?        │
 │                      │
 │   🛁 Banho     🔥   │
 │   [______]  [______] │

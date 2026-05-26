@@ -1,4 +1,4 @@
-# 🛒 Fluxo de Checkout — [NOME_LOJA]
+# 🛒 Fluxo de Checkout — Casa de Ervas Jupira
 
 ---
 
@@ -6,7 +6,7 @@
 
 ```
 Home → Categoria → Produto → Carrinho → Checkout → Confirmação
-  │                                                      
+  │
   └── WhatsApp (suporte humano) ←──────────────────────────┘
 ```
 
@@ -19,7 +19,7 @@ Home → Categoria → Produto → Carrinho → Checkout → Confirmação
 - Botão "Adicionar mais ervas"
 - Cupom de desconto
 - Total + frete (calcular no CEP)
-- Botão "Finalizar Pedido"
+- Botão "Finalizar Pedido — Okê Jupira!"
 
 ### 2. Identificação
 - Cliente já cadastrado? Login rápido (CPF ou email)
@@ -43,13 +43,13 @@ Home → Categoria → Produto → Carrinho → Checkout → Confirmação
 - Resumo da compra
 - Chave Pix (se aplicável)
 - Link de rastreio (após envio)
-- "Enquanto espera, que tal um banho de ervas?" → sugestão de conteúdo
+- Mensagem: "Que Jupira proteja esse banho que chega até você! 🌿"
 
 ---
 
 ## 🧘 Pós-Compra
 
-- Email de agradecimento com instruções de uso das ervas
+- Email de agradecimento com saudação "Okê Jupira!"
 - WhatsApp de confirmação com número do pedido
-- Convite para grupo VIP de receitas espirituais
-- Lembrete: "Seu banho de ervas chegou! 🍃"
+- Convite para grupo VIP de banhos e ervas
+- Lembrete: "Suas ervas chegaram! Que tal um banho com a proteção de Jupira? 🍃"

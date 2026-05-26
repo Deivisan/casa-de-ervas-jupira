@@ -1,11 +1,11 @@
-# 🏷️ Categorias — [NOME_LOJA]
+# 🏷️ Categorias — Casa de Ervas Jupira
 
 ---
 
 ## 📂 Estrutura de Categorias
 
 ```
-[NOME_DO_PROJETO]
+Casa de Ervas Jupira
 ├── 🌿 Ervas Naturais
 │   ├── Banho de Ervas
 │   ├── Defumação
@@ -13,14 +13,16 @@
 ├── 🕯️ Velas Artesanais
 │   ├── Proteção
 │   ├── Prosperidade
-│   └── Paz e Equilíbrio
+│   ├── Paz e Equilíbrio
+│   └── Linha Jupira (cura espiritual)
 ├── 🧴 Incensos e Óleos
 │   ├── Incensos Naturais
 │   └── Óleos Essenciais
 ├── 🎁 Kits Especiais
 │   ├── Kit Banho (3 ervas)
 │   ├── Kit Defumação Completo
-│   ├── Kit Bem-Estar
+│   ├── Kit Bem-Estar Cabocla
+│   ├── Kit Jupira (ervas + vela + defumação)
 │   └── Kits Sazonais
 └── 📖 Conhecimento
     ├── E-books
@@ -36,6 +38,7 @@
 - `paz` — tranquilidade, harmonia
 - `amor-proprio` — autoestima, autocuidado
 - `descarga` — limpeza energética pesada
-- `equilibrio` — banhos equilibradores
+- `jupira` — produtos da linha especial Cabocla Jupira
+- `cura` — ervas de cura espiritual
 - `iniciante` — para quem está começando
 - `presente` — opções para presentear

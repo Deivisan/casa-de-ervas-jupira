@@ -1,7 +1,7 @@
 {
-  "name": "[NOME_DO_PROJETO]",
+  "name": "Casa de Ervas Jupira",
   "version": "0.1.0",
-  "description": "🌿 Ecossistema criativo — posts, imagens, loja de ervas e design",
+  "description": "🌿 Ervas, design e espiritualidade — uma casa com alma de cabocla",
   "agents": {
     "orchestrator": {
       "name": "core",
@@ -11,12 +11,12 @@
     "subagents": [
       {
         "name": "design-agent",
-        "description": "Design visual — skill map, brand, cores, tipografia",
+        "description": "Design visual — skill map, brand cabocla, cores Jupira, tipografia",
         "instructions": "src/agents/design-agent.md"
       },
       {
         "name": "content-agent",
-        "description": "Copywriting e conteúdo espiritual",
+        "description": "Copywriting espiritual com tom de cabocla",
         "instructions": "src/agents/content-agent.md"
       },
       {
@@ -26,7 +26,7 @@
       },
       {
         "name": "store-agent",
-        "description": "Loja, catálogo, checkout e pedidos",
+        "description": "Loja, catálogo de ervas, checkout e pedidos",
         "instructions": "src/agents/store-agent.md"
       }
     ]

@@ -12,7 +12,9 @@ Estrutura padrão para posts do feed.
 │   ┌──────────────┐   │
 │   │   IMAGEM DO   │   │
 │   │   PRODUTO     │   │
-│   │   (flat lay)  │   │
+│   │   (flat lay   │   │
+│   │    amarelo +  │   │
+│   │    verde)     │   │
 │   └──────────────┘   │
 │                      │
 │   Nome do Produto    │
@@ -34,19 +36,20 @@ Estrutura padrão para posts do feed.
 
 💚 [Benefício espiritual]
 
+🙏 Okê Jupira!
+
 🔗 Encontre na loja — link na bio
 
-#[HASHTAG_PROJETO] #ervasnaturais #banhodeervas #[categoria]
+#casadeervasjupira #banhodeervas #ervasnaturais #[categoria] #okejupira
 ```
 
 ---
 
-## Template 2: Carrossel Educativo
+## Template 2: Carrossel da Cabocla Jupira
 
-**Slide 1:** Título chamativo + imagem de fundo
-**Slide 2:** O que é? (explicação)
-**Slide 3:** Para que serve? (benefícios)
-**Slide 4:** Como usar? (passo a passo)
-**Slide 5:** CTA + aviso de produto na loja
-
-**Legenda:** Explicação completa nos slides + CTA no final.
+**Slide 1:** Ilustração da cabocla + "Okê Jupira!" em amarelo
+**Slide 2:** Quem foi Cabocla Jupira? (resumo)
+**Slide 3:** Suas cores (amarelo, verde, vermelho)
+**Slide 4:** Como trabalha (descarregos, limpeza de ambientes)
+**Slide 5:** Como homenagear com ervas
+**Slide 6:** Produtos da linha Jupira + CTA

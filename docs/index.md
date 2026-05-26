@@ -1,4 +1,4 @@
-# 📚 Documentação — [NOME_DO_PROJETO]
+# 📚 Documentação — Casa de Ervas Jupira
 
 Centro de documentação do ecossistema.
 
@@ -13,7 +13,7 @@ Centro de documentação do ecossistema.
 | Instagram       | `src/instagram/`            | Calendário e geração de imagens    |
 | Loja            | `src/loja/`                 | Catálogo, site, checkout           |
 | Agentes Detalhe | `src/agents/`               | Configuração de cada agente        |
-| Visão           | `docs/vision/manifesto.md`  | Manifesto do projeto (nome a confirmar) |
+| Visão           | `docs/vision/manifesto.md`  | Manifesto — história da Cabocla Jupira |
 | Templates       | `templates/`                | Modelos de post e página           |
 | Config          | `config/`                   | Workflows e automações             |
 
@@ -23,10 +23,10 @@ Centro de documentação do ecossistema.
 
 ```bash
 # Clone o repositório
-git clone https://github.com/Deivisan/loja-ervas-design.git
+git clone https://github.com/Deivisan/casa-de-ervas-jupira.git
 
 # Explore a estrutura
-eza --tree -L 3 loja-ervas-design
+eza --tree -L 3 casa-de-ervas-jupira
 
 # Leia o manifesto
 bat docs/vision/manifesto.md

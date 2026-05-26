@@ -1,4 +1,4 @@
-# 🤖 Agentes — [NOME_DO_PROJETO]
+# 🤖 Agentes — Casa de Ervas Jupira
 
 Sistema de agentes autônomos para orquestrar o ecossistema criativo.
 
@@ -19,7 +19,7 @@ Sistema de agentes autônomos para orquestrar o ecossistema criativo.
 |-------------|-----------------------------------------|
 | Nome        | Agente de Design                       |
 | Skill Map   | `src/design/skill-map.md`              |
-| Competências| Brand identity, color palette, tipografia, UI/UX |
+| Competências| Brand identity (cabocla), color palette, tipografia, UI/UX |
 | Outputs     | Diretrizes visuais, assets, protótipos |
 
 ## 📝 Agente de Conteúdo
@@ -27,7 +27,7 @@ Sistema de agentes autônomos para orquestrar o ecossistema criativo.
 | Campo       | Detalhe                                 |
 |-------------|-----------------------------------------|
 | Nome        | Agente de Conteúdo                     |
-| Competências| Copywriting espiritual, legendas, blogs |
+| Competências| Copywriting espiritual com tom de cabocla, legendas, blogs |
 | Outputs     | Posts, stories, descrições de produtos |
 
 ## 📸 Agente Social

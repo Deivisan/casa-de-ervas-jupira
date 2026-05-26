@@ -1,4 +1,4 @@
-# 📅 Calendário Editorial — Instagram @[INSTAGRAM]
+# 📅 Calendário Editorial — Instagram @casadeervasjupira
 
 Estratégia de conteúdo para o perfil.
 
@@ -6,43 +6,46 @@ Estratégia de conteúdo para o perfil.
 
 ## 🗓️ Estrutura Semanal
 
-| Dia       | Tipo de Post       | Tema                          | Hashtags principais                     |
-|-----------|--------------------|-------------------------------|-----------------------------------------|
-| Seg       | Carrossel          | Erva da Semana                | #ervasnaturais #banho de ervas          |
-| Ter       | Foto               | Dia de defumação              | #defumacao #energização                |
-| Qua       | Reels              | Como preparar um banho         | #banhodeervas #espiritualidade          |
-| Qui       | Story interativo   | Qual erva você precisa hoje?  | #[HASHTAG_PROJETO] #cuidadoespiritual   |
-| Sex       | Post estático      | Produto em destaque           | #lojaesoterica #incensos                |
-| Sab       | Carrossel ou Reels | Mito vs Verdade sobre ervas   | #curiosidades #plantassagradas          |
-| Dom       | Citação / Reflexão | Frase espiritual com arte     | #reflexao #paz #[HASHTAG_PROJETO]       |
+| Dia       | Tipo de Post       | Tema                          | Hashtags principais                             |
+|-----------|--------------------|-------------------------------|-------------------------------------------------|
+| Seg       | Carrossel          | Erva da Semana                | #casadeervasjupira #banhodeervas                |
+| Ter       | Foto               | Dia de defumação              | #defumacao #energizacao #caboclajupira          |
+| Qua       | Reels              | Como preparar um banho         | #banhodeervas #espiritualidade #okejupira       |
+| Qui       | Story interativo   | Qual erva você precisa hoje?  | #casadeervasjupira #cuidadoespiritual           |
+| Sex       | Post estático      | Produto em destaque           | #lojaesoterica #incensos #ervassagradas         |
+| Sab       | Carrossel ou Reels | História da Cabocla Jupira    | #caboclajupira #jurema #okecaboclo              |
+| Dom       | Citação / Reflexão | Frase com Okê Jupira          | #reflexao #paz #casadeervasjupira               |
 
 ---
 
 ## 📦 Formatos
 
 ### Post de Produto
-- Imagem: flat lay com ervas + produto + elemento natural
+- Imagem: flat lay com ervas + produto + elemento amarelo
 - Texto: nome do produto, benefício espiritual, modo de uso
 - CTA: "Encontre essa erva na nossa loja — link na bio"
+- Hashtag fixa: `#casadeervasjupira`
 
-### Carrossel Educativo
-- Slide 1: Título + imagem chamativa
-- Slide 2-4: Informações (benefícios, como usar)
-- Slide 5: CTA + link
+### Carrossel da Cabocla Jupira
+- Slide 1: Ilustração da cabocla + título "Okê Jupira!"
+- Slide 2-4: História resumida (quem foi, o que faz, como trabalha)
+- Slide 5: Como homenagear com ervas
+- Slide 6: CTA + link
 
 ### Story
 - Enquete: "Você prefere banho de ervas ou defumação?"
 - Caixinha: "Qual energia você quer atrair hoje?"
-- Quiz: "Qual erva combina com seu signo?"
+- Quiz: "Qual erva combinaria com Cabocla Jupira?"
 
 ---
 
-## 🚀 Temas Mensais Sugeridos
+## 🚀 Temas Mensais
 
 | Mês     | Tema                                    |
 |---------|-----------------------------------------|
-| Janeiro | Renovação — banhos de abertura          |
+| Janeiro | Ano novo com proteção de Jupira — banhos de abertura |
 | Março   | Equilíbrio — ervas para o outono        |
 | Junho   | Proteção — defumação e arruda           |
-| Setembro | Florescimento — ervas da primavera      |
-| Dezembro | Gratidão — presentes naturais           |
+| Julho   | Mês de Jupira (20/01 não, mas junho é forte para caboclas) |
+| Setembro| Florescimento — ervas da primavera      |
+| Dezembro| Gratidão — presentes naturais           |

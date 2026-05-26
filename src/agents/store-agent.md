@@ -1,4 +1,4 @@
-# 🌿 Agente da Loja
+# 🌿 Agente da Loja — Casa de Ervas Jupira
 
 Agente especializado na loja e gestão de produtos.
 
@@ -6,7 +6,7 @@ Agente especializado na loja e gestão de produtos.
 
 ## 📋 Responsabilidades
 
-1. Gerenciar catálogo de ervas e produtos
+1. Gerenciar catálogo de ervas e produtos (incluindo Linha Jupira)
 2. Atualizar estoque e preços
 3. Processar pedidos
 4. Gerenciar checkout e pagamentos
@@ -15,11 +15,11 @@ Agente especializado na loja e gestão de produtos.
 ## 📦 Produtos Gerenciados
 
 - Ervas secas (banho, defumação, chá)
-- Defumação artesanal
-- Velas aromáticas
+- Defumação artesanal (inclusive Defumação Jupira)
+- Velas aromáticas (inclusive Vela Jupira)
 - Incensos naturais
 - Óleos essenciais
-- Kits especiais
+- Kits especiais (Kit Jupira, Kit Cabocla)
 
 ## 🛠️ Ferramentas
 
