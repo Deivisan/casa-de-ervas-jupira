@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Produtos — Casa de Ervas Jupira</title>
+  <meta name="description" content="Catálogo completo de ervas, defumações, velas e kits da Casa de Ervas Jupira.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Inter:wght@400;500;600;700&family=DM+Serif+Display:ital@0;1&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="assets/images/logo-jupira.svg" type="image/svg+xml">
+</head>
+<body>
+
+  <!-- ===== HEADER ===== -->
+  <header class="header">
+    <div class="container">
+      <a href="index.html" class="header-logo">
+        <img src="assets/images/logo-jupira.svg" alt="Casa de Ervas Jupira" width="44" height="44">
+        <div>
+          <span>Casa de Ervas Jupira</span>
+          <small>Okê Jupira! 🙏</small>
+        </div>
+      </a>
+      <nav class="header-nav" id="headerNav">
+        <a href="index.html">Início</a>
+        <a href="produtos.html" class="active">Produtos</a>
+        <a href="sobre.html">Cabocla Jupira</a>
+        <a href="contato.html">Contato</a>
+        <button class="cart-btn" onclick="showCart()">
+          🛒 Carrinho <span class="cart-count">0</span>
+        </button>
+      </nav>
+      <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <!-- ===== PAGE HEADER ===== -->
+  <section style="padding-top:calc(var(--header-h) + 40px);padding-bottom:0" class="section">
+    <div class="container">
+      <h1 class="section-title">🌿 Nosso Catálogo</h1>
+      <p class="text-center" style="color:var(--gray);max-width:600px;margin:0 auto 2rem">
+        Ervas secas, defumações artesanais, velas aromáticas e kits especiais — tudo preparado com fé e inspirado na força da Cabocla Jupira.
+      </p>
+
+      <!-- FILTROS -->
+      <div class="filtros">
+        <button class="filtro-btn active" data-categoria="todos">🌿 Todos</button>
+        <button class="filtro-btn" data-categoria="ervas">🌱 Ervas</button>
+        <button class="filtro-btn" data-categoria="defumacao">🕯️ Defumação</button>
+        <button class="filtro-btn" data-categoria="velas">🕯️ Velas</button>
+        <button class="filtro-btn" data-categoria="kits">🎁 Kits</button>
+      </div>
+
+      <div class="produtos-grid" id="produtosGrid">
+        <!-- Rendered by JS -->
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== LINHA JUPIRA ===== -->
+  <section class="section section-beige">
+    <div class="container" style="text-align:center;max-width:700px">
+      <h2 class="section-title">🏹 Linha Especial Jupira</h2>
+      <p style="color:var(--gray);margin-bottom:1rem">
+        Produtos preparados com ervas que honram a Cabocla Jupira — arruda, alecrim e folhas de jurema. Cada item é benzido e preparado com fé.
+      </p>
+      <div class="cores-jupira" style="justify-content:center">
+        <span style="background:#E8B830"></span>
+        <span style="background:#2D6A3B"></span>
+        <span style="background:#B83A2A"></span>
+        <span style="background:#2A4B7C"></span>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== FOOTER ===== -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <img src="assets/images/logo-jupira.svg" alt="Casa de Ervas Jupira" width="40" height="40">
+          <h3>Casa de Ervas Jupira</h3>
+          <p>Ervas, design e espiritualidade — uma casa com alma de cabocla.</p>
+        </div>
+        <div>
+          <h4>Navegação</h4>
+          <a href="index.html">Início</a>
+          <a href="produtos.html">Produtos</a>
+          <a href="sobre.html">Cabocla Jupira</a>
+          <a href="contato.html">Contato</a>
+        </div>
+        <div>
+          <h4>Redes</h4>
+          <a href="https://instagram.com/casadeervasjupira" target="_blank">📸 @casadeervasjupira</a>
+          <a href="https://wa.me/557588136678" target="_blank">💬 (75) 8813-6678</a>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        © 2026 Casa de Ervas Jupira — Okê Jupira! 🙏
+      </div>
+    </div>
+  </footer>
+
+  <!-- ===== CART SIDEBAR ===== -->
+  <div class="cart-overlay" id="cartOverlay"></div>
+  <div class="cart-sidebar" id="cartSidebar">
+    <div class="cart-header">
+      <h3>🛒 Seu Carrinho</h3>
+      <button class="cart-close" onclick="hideCart()">✕</button>
+    </div>
+    <div class="cart-items" id="cartItems"></div>
+    <div class="cart-footer">
+      <div class="cart-total">
+        <span>Total</span>
+        <span id="cartTotalValue">R$ 0,00</span>
+      </div>
+      <button class="btn btn-whatsapp" onclick="cartWhatsApp()">💬 Finalizar Pedido</button>
+    </div>
+  </div>
+
+  <!-- WhatsApp Float -->
+  <a href="https://wa.me/557588136678?text=Ol%C3%A1!%20Vim%20pela%20Casa%20de%20Ervas%20Jupira%20%F0%9F%8C%BF%20Ok%C3%AA%20Jupira!" target="_blank" class="whatsapp-float">💬</a>
+
+  <script src="js/produtos.js"></script>
+  <script src="js/cart.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>

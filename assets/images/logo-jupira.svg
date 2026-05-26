@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1C1C1C"/>
+      <stop offset="100%" stop-color="#2A1F0E"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#E8B830"/>
+      <stop offset="100%" stop-color="#C99A1F"/>
+    </linearGradient>
+    <linearGradient id="featherGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#E8B830"/>
+      <stop offset="50%" stop-color="#B83A2A"/>
+      <stop offset="100%" stop-color="#E8B830"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background circle -->
+  <circle cx="200" cy="200" r="190" fill="url(#bgGrad)" stroke="url(#gold)" stroke-width="2"/>
+
+  <!-- Cabocla face -->
+  <!-- Hair -->
+  <path d="M140 120 Q150 95 175 100 Q190 80 210 85 Q230 80 250 100 Q270 95 260 130
+           Q270 150 268 180 Q265 200 260 220
+           Q250 240 240 250 Q220 260 200 260 Q180 260 160 250
+           Q150 240 140 220 Q135 200 132 180 Q130 150 140 120Z"
+        fill="#2A1A0A"/>
+
+  <!-- Face -->
+  <ellipse cx="200" cy="180" rx="55" ry="65" fill="#C4956A"/>
+
+  <!-- Eyes (closed - Jupira works with eyes closed) -->
+  <path d="M170 165 Q180 158 190 165" stroke="#1C1C1C" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M210 165 Q220 158 230 165" stroke="#1C1C1C" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+
+  <!-- Eyebrows -->
+  <path d="M168 158 Q178 152 192 156" stroke="#1C1C1C" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M208 156 Q222 152 232 158" stroke="#1C1C1C" stroke-width="2" fill="none" stroke-linecap="round"/>
+
+  <!-- Nose -->
+  <path d="M198 170 Q202 185 195 192" stroke="#A07050" stroke-width="2" fill="none" stroke-linecap="round"/>
+
+  <!-- Mouth (firm expression) -->
+  <path d="M185 200 Q195 195 200 198 Q205 195 215 200" stroke="#8B5E3C" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+
+  <!-- Cheek marks (indigenous painting) -->
+  <circle cx="168" cy="185" r="4" fill="#B83A2A" opacity="0.6"/>
+  <circle cx="232" cy="185" r="4" fill="#B83A2A" opacity="0.6"/>
+
+  <!-- Feather headdress (penacho) -->
+  <!-- Main feathers -->
+  <path d="M155 110 Q150 60 165 30 Q170 50 168 80 Q172 65 175 95Z" fill="url(#featherGrad)" opacity="0.9"/>
+  <path d="M175 100 Q175 50 190 20 Q190 50 185 80 Q188 60 183 98Z" fill="url(#featherGrad)" opacity="0.9"/>
+  <path d="M195 95 Q200 40 210 15 Q208 50 205 80 Q210 55 200 95Z" fill="url(#gold)" opacity="0.9"/>
+  <path d="M215 100 Q220 45 230 20 Q225 55 222 85 Q228 60 218 100Z" fill="url(#featherGrad)" opacity="0.9"/>
+  <path d="M235 105 Q240 55 250 30 Q245 60 240 90 Q248 65 238 105Z" fill="url(#featherGrad)" opacity="0.9"/>
+  <path d="M252 115 Q258 70 265 45 Q260 75 255 100 Q262 80 254 115Z" fill="url(#featherGrad)" opacity="0.9"/>
+
+  <!-- Headband -->
+  <path d="M145 115 Q150 108 160 105 Q175 100 200 98 Q225 100 240 105 Q250 108 255 115"
+        stroke="url(#gold)" stroke-width="4" fill="none"/>
+
+  <!-- Neck -->
+  <rect x="185" y="240" width="30" height="20" rx="5" fill="#C4956A"/>
+
+  <!-- Body suggestion -->
+  <path d="M160 255 Q200 270 240 255 L250 300 Q200 320 150 300Z" fill="#2D6A3B" opacity="0.8"/>
+
+  <!-- Arrow (Jupira's symbol) -->
+  <line x1="260" y1="90" x2="330" y2="60" stroke="url(#gold)" stroke-width="3" stroke-linecap="round"/>
+  <polygon points="330,60 335,50 340,65 330,60" fill="#B83A2A"/>
+  <path d="M260 90 L265 84 L268 92Z" fill="#E8B830"/>
+
+  <!-- Stars/spiritual dots -->
+  <circle cx="130" cy="80" r="2" fill="#E8B830" opacity="0.6"/>
+  <circle cx="270" cy="130" r="2" fill="#E8B830" opacity="0.6"/>
+  <circle cx="300" cy="100" r="1.5" fill="#E8B830" opacity="0.4"/>
+  <circle cx="120" cy="150" r="1.5" fill="#E8B830" opacity="0.4"/>
+
+  <!-- Text -->
+  <text x="200" y="340" text-anchor="middle" font-family="Georgia,serif" font-size="22" font-weight="700" fill="#E8B830">
+    Casa de Ervas
+  </text>
+  <text x="200" y="368" text-anchor="middle" font-family="Georgia,serif" font-size="28" font-weight="700" fill="#E8B830">
+    JUPIRA
+  </text>
+</svg>

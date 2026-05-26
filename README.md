@@ -60,58 +60,66 @@ A marca é construída sobre as **cores da Cabocla Jupira**:
 ```
 casa-de-ervas-jupira/
 │
+│   🏠 SITE (GitHub Pages — estático)
+├── 📄 index.html                  # Home — hero, destaques, sobre Jupira
+├── 📄 produtos.html               # Catálogo completo com filtros
+├── 📄 produto.html                # Página dinâmica de cada produto
+├── 📄 sobre.html                  # História completa da Cabocla Jupira
+├── 📄 contato.html                # WhatsApp, Instagram, mensagens rápidas
+├── 📄 .nojekyll                   # Otimização GH Pages
+├── 📁 css/
+│   └── 📄 style.css               # Estilo completo (cores cabocla)
+├── 📁 js/
+│   ├── 📄 produtos.js             # Catálogo com 17 produtos
+│   ├── 📄 cart.js                 # Carrinho + WhatsApp integration
+│   └── 📄 main.js                 # Navegação, filtros, renderização
+├── 📁 assets/
+│   ├── 📁 images/
+│   │   ├── 📄 logo-jupira.svg     #   Logotipo com cabocla
+│   │   └── 📄 cabocla-jupira.svg  #   Ilustração completa da Cabocla
+│   ├── 📁 fonts/                  #   Fontes
+│   └── 📁 icons/                  #   Ícones
+│
+│   📚 DOCUMENTAÇÃO DO PROJETO
 ├── 📄 README.md                   # → Você está aqui
 ├── 📄 agentes.md                  # Orquestração dos 4 agentes IA
-├── 📄 .gitignore
-│
 ├── 📁 src/
 │   ├── 📁 design/                 # Identidade visual completa
-│   │   ├── 📄 skill-map.md        #   Mapa de habilidades de design
+│   │   ├── 📄 skill-map.md        #   Mapa de habilidades
 │   │   ├── 📄 brand-guidelines.md #   Diretrizes da marca cabocla
 │   │   ├── 📄 color-palette.md    #   Paleta amarelo-verde-vermelho-anil
 │   │   └── 📄 typography.md       #   Hierarquia tipográfica
-│   │
 │   ├── 📁 instagram/              # Estratégia de conteúdo
-│   │   ├── 📄 content-calendar.md #   Calendário editorial semanal
-│   │   ├── 📄 image-generation.md #   Prompts para geração de imagens IA
-│   │   └── 📁 post-templates/     #   Templates visuais (em breve)
-│   │
+│   │   ├── 📄 content-calendar.md #   Calendário editorial
+│   │   ├── 📄 image-generation.md #   Prompts para geração de imagens
+│   │   └── 📁 post-templates/
 │   ├── 📁 loja/                   # E-commerce e produtos
-│   │   ├── 📄 checkout-flow.md    #   Fluxo completo de compra
+│   │   ├── 📄 checkout-flow.md    #   Fluxo de compra
 │   │   ├── 📁 ervas/
-│   │   │   ├── 📄 catalog.md      #   Catálogo com preços e Linha Jupira
+│   │   │   ├── 📄 catalog.md      #   Catálogo com preços
 │   │   │   ├── 📄 categories.md   #   Categorias e tags
-│   │   │   └── 📁 descricoes/     #   Descrições sensoriais (em breve)
+│   │   │   └── 📁 descricoes/
 │   │   └── 📁 site/
-│   │       └── 📄 structure.md    #   Sitemap e arquitetura do site
-│   │
+│   │       └── 📄 structure.md    #   Sitemap
 │   └── 📁 agents/                 # Agentes especializados
 │       ├── 📄 design-agent.md     #   🎨 Agente de Design
 │       ├── 📄 content-agent.md    #   📝 Agente de Conteúdo
 │       ├── 📄 social-agent.md     #   📸 Agente Social
 │       └── 📄 store-agent.md      #   🌿 Agente da Loja
-│
 ├── 📁 docs/
 │   ├── 📄 index.md                # Central de documentação
 │   └── 📁 vision/
 │       ├── 📄 manifesto.md        # Manifesto — história da Cabocla Jupira
-│       └── 📄 README.md           # Índice da visão
-│
-├── 📁 templates/                  # Modelos prontos
-│   ├── 📄 post-instagram.md       #   Template de post para feed
-│   ├── 📄 story-instagram.md      #   Template de story interativo
-│   └── 📄 product-card.md         #   Card de produto para catálogo
-│
-├── 📁 assets/                     # Recursos estáticos
-│   ├── 📁 images/                 #   Imagens e ilustrações
-│   ├── 📁 fonts/                  #   Fontes do projeto
-│   └── 📁 icons/                  #   Ícones e favicon
-│
+│       └── 📄 README.md
+├── 📁 templates/                  # Modelos de posts
+│   ├── 📄 post-instagram.md
+│   ├── 📄 story-instagram.md
+│   └── 📄 product-card.md
 └── 📁 config/                     # Configuração e automação
-    ├── 📄 opencode.json           #   Configuração do ecossistema de agentes
+    ├── 📄 opencode.json
     └── 📁 workflows/
-        ├── 📄 criar-post.md       #   Workflow: criar post no Instagram
-        └── 📄 cadastrar-produto.md #   Workflow: cadastrar produto na loja
+        ├── 📄 criar-post.md
+        └── 📄 cadastrar-produto.md
 ```
 
 ---
@@ -169,23 +177,26 @@ bat docs/vision/manifesto.md
 # Conheça os agentes
 bat agentes.md
 
-# Veja a paleta de cores
-bat src/design/color-palette.md
+# Veja o site (abra no navegador)
+xdg-open index.html
 ```
 
 ---
 
 ## 📊 Status do Projeto
 
-| Área              | Status          | Observação                       |
-|-------------------|-----------------|----------------------------------|
-| Identidade Visual | ✅ Estruturado  | Cores, tipografia, brand definidos |
-| Instagram         | ✅ Estruturado  | Calendário e prompts prontos      |
-| Loja              | ✅ Estruturado  | Catálogo, categorias, checkout    |
-| Site              | ✅ Estruturado  | Sitemap e arquitetura definidos   |
-| Agentes           | ✅ Estruturado  | 4 agentes documentados           |
-| Assets Visuais    | ⏳ Pendente     | Aguardando logo e imagens finais  |
-| Desenvolvimento   | ⏳ Pendente     | Site e automações a implementar   |
+| Área              | Status            | Observação                                |
+|-------------------|-------------------|-------------------------------------------|
+| Identidade Visual | ✅ Concluído      | Cores, tipografia, brand definidos       |
+| Instagram         | ✅ Concluído      | Calendário e prompts prontos              |
+| Loja              | ✅ Concluído      | Catálogo, categorias, checkout definidos |
+| Site              | ✅ **No AR**      | GitHub Pages — 5 páginas HTML completas   |
+| Agentes           | ✅ Concluído      | 4 agentes documentados                    |
+| Logotipo          | ✅ Concluído      | SVG com cabocla + penacho                 |
+| Ilustração        | ✅ Concluído      | SVG corpo inteiro da Cabocla Jupira       |
+| Catálogo Digital  | ✅ Concluído      | 17 produtos com carrinho + WhatsApp       |
+| Fotos de Produtos | ⏳ Cliente        | Placeholder Unsplash (cliente substitui)  |
+| Domínio Próprio   | ⏳ Futuro         | Se o cliente quiser um domínio .com       |
 
 ---
 
@@ -195,6 +206,7 @@ bat src/design/color-palette.md
 
 <p align="center">
   <a href="https://instagram.com/casadeervasjupira">📸 Instagram</a> &nbsp;·&nbsp;
+  <a href="https://wa.me/557588136678?text=Olá! Vim pela Casa de Ervas Jupira 🌿 Okê Jupira!">📱 WhatsApp</a> &nbsp;·&nbsp;
   <a href="docs/vision/manifesto.md">📖 Manifesto</a> &nbsp;·&nbsp;
   <a href="agentes.md">🤖 Agentes</a> &nbsp;·&nbsp;
   <a href="https://github.com/Deivisan/casa-de-ervas-jupira/issues">🐛 Reportar Issue</a>

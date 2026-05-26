@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Casa de Ervas Jupira — Ervas, Design & Espiritualidade</title>
+  <meta name="description" content="Ervas, defumações, velas e rituais inspirados na Cabocla Jupira. Sua casa de ervas com alma de cabocla.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Inter:wght@400;500;600;700&family=DM+Serif+Display:ital@0;1&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="assets/images/logo-jupira.svg" type="image/svg+xml">
+</head>
+<body>
+
+  <!-- ===== HEADER ===== -->
+  <header class="header" id="header">
+    <div class="container">
+      <a href="index.html" class="header-logo">
+        <img src="assets/images/logo-jupira.svg" alt="Casa de Ervas Jupira" width="44" height="44">
+        <div>
+          <span>Casa de Ervas Jupira</span>
+          <small>Okê Jupira! 🙏</small>
+        </div>
+      </a>
+
+      <nav class="header-nav" id="headerNav">
+        <a href="index.html" class="active">Início</a>
+        <a href="produtos.html">Produtos</a>
+        <a href="sobre.html">Cabocla Jupira</a>
+        <a href="contato.html">Contato</a>
+        <button class="cart-btn" onclick="showCart()">
+          🛒 Carrinho <span class="cart-count">0</span>
+        </button>
+      </nav>
+
+      <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <!-- ===== HERO ===== -->
+  <section class="hero">
+    <div class="container">
+      <div class="hero-content">
+        <h1 class="animate">Casa de Ervas<br>Jupira</h1>
+        <p class="subtitle animate delay-1">"Princesa das matas, guerreira flecheira"</p>
+        <p class="animate delay-2">Ervas, defumações, velas e rituais inspirados na força da Cabocla Jupira — filha de Jurema, guardiã das matas. Cada produto é preparado com fé e ancestralidade.</p>
+        <div class="hero-buttons animate delay-3">
+          <a href="produtos.html" class="btn btn-primary">🌿 Ver Produtos</a>
+          <a href="sobre.html" class="btn btn-secondary">📖 Conhecer Jupira</a>
+        </div>
+      </div>
+      <div class="hero-visual">
+        <img src="assets/images/cabocla-jupira.svg" alt="Cabocla Jupira — guerreira flecheira" width="400">
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== FEATURES ===== -->
+  <section class="section" id="ervas">
+    <div class="container">
+      <h2 class="section-title">Nossas Energias</h2>
+      <div class="features-grid">
+        <div class="feature-card animate">
+          <div class="icon">🛡️</div>
+          <h3>Proteção</h3>
+          <p>Arruda, Guiné e defumações poderosas para limpar e proteger sua energia e seu lar.</p>
+        </div>
+        <div class="feature-card animate delay-1">
+          <div class="icon">💰</div>
+          <h3>Prosperidade</h3>
+          <p>Manjericão, Alecrim e velas especiais para abrir caminhos e atrair fartura.</p>
+        </div>
+        <div class="feature-card animate delay-2">
+          <div class="icon">🕊️</div>
+          <h3>Paz & Equilíbrio</h3>
+          <p>Alfazema, Camomila e Rosa Branca para acalmar o coração e trazer serenidade.</p>
+        </div>
+        <div class="feature-card animate delay-3">
+          <div class="icon">🏹</div>
+          <h3>Linha Jupira</h3>
+          <p>Produtos especiais preparados com ervas que honram a força da Cabocla Jupira.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== SOBRE JUPIRA (RESUMO) ===== -->
+  <section class="section section-beige">
+    <div class="container">
+      <div class="sobre-grid">
+        <div class="sobre-visual animate">
+          <img src="assets/images/logo-jupira.svg" alt="Símbolo da Cabocla Jupira" width="320" style="margin:0 auto">
+        </div>
+        <div class="sobre-texto animate delay-1">
+          <h2>🏹 Okê Jupira!</h2>
+          <p>Cabocla Jupira é a <strong>princesa das matas</strong>, guerreira flecheira, filha primogênita da Cabocla Jurema com o Caboclo Sete Flechas. Veloz, inquieta e destemida — nunca fugiu de uma batalha.</p>
+          <p>Hoje, trabalha na Umbanda realizando <strong>descarregos e limpeza de ambientes</strong>. Sua postura é firme, seus olhos quase não se abrem — mas sua força é imensa.</p>
+          <div class="quote">
+            "Jupira é a princesa das matas, guerreira que mora no Jacutá — ponto de força de Iansã."
+          </div>
+          <div class="cores-jupira">
+            <span style="background:#E8B830" title="Amarelo — coroa de Jurema"></span>
+            <span style="background:#2D6A3B" title="Verde — a mata"></span>
+            <span style="background:#B83A2A" title="Vermelho — a guerra"></span>
+            <span style="background:#2A4B7C" title="Azul Anil — espiritualidade"></span>
+          </div>
+          <a href="sobre.html" class="btn btn-primary mt-1">📖 História completa</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== PRODUTOS EM DESTAQUE ===== -->
+  <section class="section" id="destaques">
+    <div class="container">
+      <h2 class="section-title">🌿 Produtos em Destaque</h2>
+      <div class="produtos-grid" id="produtosGrid">
+        <!-- Rendered by JS -->
+      </div>
+      <div class="text-center mt-2">
+        <a href="produtos.html" class="btn btn-primary">Ver Catálogo Completo</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== DEPOIMENTO ===== -->
+  <section class="section section-dark">
+    <div class="container" style="text-align:center;max-width:700px">
+      <p style="font-family:var(--font-quote);font-size:1.3rem;font-style:italic;margin-bottom:16px">
+        "A Casa de Ervas Jupira chegou na minha vida como um banho de axé. Cada erva vem com uma energia que sinto no corpo todo. Okê Jupira!"
+      </p>
+      <p style="font-weight:600;color:var(--yellow)">— Maria E., Cliente</p>
+      <div class="cores-jupira" style="justify-content:center;margin-top:16px">
+        <span style="background:#E8B830"></span>
+        <span style="background:#2D6A3B"></span>
+        <span style="background:#B83A2A"></span>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== WHATSAPP ===== -->
+  <section class="section" id="whatsapp">
+    <div class="container" style="text-align:center;max-width:600px">
+      <h2 class="section-title">💬 Fale Conosco</h2>
+      <p style="color:var(--gray);margin-bottom:24px;font-size:1.05rem">
+        Tem dúvidas sobre nossos produtos ou quer um atendimento personalizado?<br>
+        Chame a gente no WhatsApp!
+      </p>
+      <a href="https://wa.me/557588136678?text=Ol%C3%A1!%20Vim%20pela%20Casa%20de%20Ervas%20Jupira%20%F0%9F%8C%BF%20Ok%C3%AA%20Jupira!" target="_blank" class="btn btn-whatsapp" style="font-size:1.1rem;padding:16px 40px">
+        💬 (75) 8813-6678
+      </a>
+    </div>
+  </section>
+
+  <!-- ===== FOOTER ===== -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <img src="assets/images/logo-jupira.svg" alt="Casa de Ervas Jupira" width="40" height="40">
+          <h3>Casa de Ervas Jupira</h3>
+          <p>Ervas, design e espiritualidade — uma casa com alma de cabocla.</p>
+        </div>
+        <div>
+          <h4>Navegação</h4>
+          <a href="index.html">Início</a>
+          <a href="produtos.html">Produtos</a>
+          <a href="sobre.html">Cabocla Jupira</a>
+          <a href="contato.html">Contato</a>
+        </div>
+        <div>
+          <h4>Redes</h4>
+          <a href="https://instagram.com/casadeervasjupira" target="_blank">📸 @casadeervasjupira</a>
+          <a href="https://wa.me/557588136678" target="_blank">💬 (75) 8813-6678</a>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        © 2026 Casa de Ervas Jupira — Todos os direitos reservados. 🙏 Okê Jupira!
+      </div>
+    </div>
+  </footer>
+
+  <!-- ===== CART SIDEBAR ===== -->
+  <div class="cart-overlay" id="cartOverlay"></div>
+  <div class="cart-sidebar" id="cartSidebar">
+    <div class="cart-header">
+      <h3>🛒 Seu Carrinho</h3>
+      <button class="cart-close" onclick="hideCart()">✕</button>
+    </div>
+    <div class="cart-items" id="cartItems">
+      <!-- Rendered by JS -->
+    </div>
+    <div class="cart-footer">
+      <div class="cart-total">
+        <span>Total</span>
+        <span id="cartTotalValue">R$ 0,00</span>
+      </div>
+      <button class="btn btn-whatsapp" onclick="cartWhatsApp()">
+        💬 Finalizar Pedido
+      </button>
+    </div>
+  </div>
+
+  <!-- WhatsApp Float -->
+  <a href="https://wa.me/557588136678?text=Ol%C3%A1!%20Vim%20pela%20Casa%20de%20Ervas%20Jupira%20%F0%9F%8C%BF%20Ok%C3%AA%20Jupira!" target="_blank" class="whatsapp-float" aria-label="WhatsApp">
+    💬
+  </a>
+
+  <!-- ===== SCRIPTS ===== -->
+  <script src="js/produtos.js"></script>
+  <script src="js/cart.js"></script>
+  <script src="js/main.js"></script>
+  <script>
+    // Show featured products on home (show first 4)
+    document.addEventListener('DOMContentLoaded', () => {
+      const grid = document.getElementById('produtosGrid');
+      if (grid) {
+        const destaques = CATALOGO.slice(0, 4);
+        grid.innerHTML = destaques.map(prod => {
+          const badgeClass = prod.badge === 'Linha Jupira' ? 'badge-jupira' : '';
+          return `
+            <div class="produto-card animate">
+              <div class="img-wrap">
+                <img src="${prod.img}" alt="${prod.nome}" loading="lazy">
+                ${prod.badge ? `<span class="badge ${badgeClass}">${prod.badge}</span>` : ''}
+              </div>
+              <div class="info">
+                <h3>${prod.nome}</h3>
+                <div class="energia">🏹 ${prod.energia}</div>
+                <div class="desc">${prod.desc}</div>
+                <div class="preco">${formatPreco(prod.preco)}</div>
+                <div class="actions">
+                  <button class="btn btn-primary btn-sm" onclick="cartAdd('${prod.id}')">🛒 Adicionar</button>
+                  <button class="btn btn-whatsapp btn-sm" onclick="buyWhatsApp('${prod.id}')">💬 Comprar</button>
+                </div>
+              </div>
+            </div>
+          `;
+        }).join('');
+      }
+    });
+  </script>
+</body>
+</html>

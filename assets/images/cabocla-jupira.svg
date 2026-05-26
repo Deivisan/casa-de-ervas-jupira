@@ -1,0 +1,158 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 600" fill="none">
+  <defs>
+    <linearGradient id="featherGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#E8B830"/>
+      <stop offset="50%" stop-color="#B83A2A"/>
+      <stop offset="100%" stop-color="#E8B830"/>
+    </linearGradient>
+    <linearGradient id="bodyGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2D6A3B"/>
+      <stop offset="100%" stop-color="#1E4A28"/>
+    </linearGradient>
+    <linearGradient id="goldLight" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F5D86E"/>
+      <stop offset="100%" stop-color="#C99A1F"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background glow -->
+  <circle cx="250" cy="300" r="240" fill="#E8B830" opacity="0.05"/>
+
+  <!-- === FEATHER HEADDRESS (PENACHO) === -->
+  <!-- Top feathers -->
+  <path d="M220 120 Q200 50 230 20 Q235 60 232 100Z" fill="url(#featherGrad)" opacity="0.9"/>
+  <path d="M240 110 Q235 30 255 10 Q252 55 245 90Z" fill="url(#goldLight)" opacity="0.95"/>
+  <path d="M260 115 Q265 40 280 20 Q272 60 265 95Z" fill="url(#featherGrad)" opacity="0.9"/>
+  <path d="M200 130 Q180 70 195 40 Q198 80 200 110Z" fill="url(#featherGrad)" opacity="0.85"/>
+  <path d="M280 125 Q295 65 305 40 Q295 80 285 110Z" fill="url(#featherGrad)" opacity="0.85"/>
+  <path d="M180 145 Q155 90 165 65 Q172 100 178 130Z" fill="url(#goldLight)" opacity="0.8"/>
+  <path d="M300 140 Q320 85 330 60 Q318 100 305 125Z" fill="url(#goldLight)" opacity="0.8"/>
+
+  <!-- Headband -->
+  <path d="M170 155 Q180 148 200 142 Q230 135 260 142 Q280 148 290 155 L285 165 Q260 158 230 155 Q200 153 175 158Z"
+        fill="url(#goldLight)" stroke="#B83A2A" stroke-width="1"/>
+
+  <!-- === HEAD === -->
+  <!-- Hair -->
+  <path d="M175 160 Q185 138 210 140 Q220 130 240 132 Q260 130 275 145
+           Q290 160 285 185 Q290 205 288 220 Q280 240 270 250
+           Q250 260 230 262 Q210 263 195 258 Q175 248 168 235
+           Q160 220 158 200 Q155 180 175 160Z"
+        fill="#1A0E05"/>
+
+  <!-- Face -->
+  <ellipse cx="230" cy="195" rx="48" ry="58" fill="#C4956A"/>
+
+  <!-- Eyes (closed) -->
+  <path d="M205 185 Q213 179 221 185" stroke="#1C1C1C" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M239 185 Q247 179 255 185" stroke="#1C1C1C" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+
+  <!-- Eyebrows -->
+  <path d="M203 178 Q212 172 223 176" stroke="#1C1C1C" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M237 176 Q248 172 257 178" stroke="#1C1C1C" stroke-width="2" fill="none" stroke-linecap="round"/>
+
+  <!-- Nose -->
+  <path d="M228 188 Q232 200 225 207" stroke="#A07050" stroke-width="2" fill="none" stroke-linecap="round"/>
+
+  <!-- Mouth -->
+  <path d="M215 215 Q225 210 230 212 Q235 210 245 215" stroke="#8B5E3C" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+
+  <!-- Face paint (indigenous markings) -->
+  <path d="M195 200 Q190 195 188 190" stroke="#B83A2A" stroke-width="2" fill="none" opacity="0.5"/>
+  <path d="M265 200 Q270 195 272 190" stroke="#B83A2A" stroke-width="2" fill="none" opacity="0.5"/>
+  <circle cx="195" cy="205" r="3" fill="#B83A2A" opacity="0.4"/>
+  <circle cx="265" cy="205" r="3" fill="#B83A2A" opacity="0.4"/>
+
+  <!-- Neck -->
+  <rect x="218" y="250" width="24" height="18" rx="4" fill="#C4956A"/>
+
+  <!-- Necklace (indigenous) -->
+  <path d="M200 260 Q215 275 230 278 Q245 275 260 260" stroke="url(#goldLight)" stroke-width="3" fill="none"/>
+  <circle cx="215" cy="268" r="3" fill="#B83A2A"/>
+  <circle cx="230" cy="274" r="3.5" fill="#E8B830"/>
+  <circle cx="245" cy="268" r="3" fill="#B83A2A"/>
+
+  <!-- === BODY === -->
+  <!-- Torso -->
+  <path d="M195 265 Q200 280 210 300 Q220 340 225 380 Q230 400 235 420
+           L225 420 Q220 400 215 380 Q210 340 200 300 Q190 280 188 265Z"
+        fill="url(#bodyGrad)"/>
+
+  <path d="M265 265 Q260 280 250 300 Q240 340 235 380 Q230 400 225 420
+           L235 420 Q240 400 245 380 Q250 340 260 300 Q270 280 272 265Z"
+        fill="url(#bodyGrad)"/>
+
+  <!-- Dress/body -->
+  <path d="M188 265 Q195 260 210 258 Q230 256 250 258 Q265 260 272 265
+           Q280 290 278 350 Q275 400 270 440
+           Q265 460 255 470 Q245 475 230 476 Q215 475 205 470
+           Q195 460 190 440 Q185 400 182 350 Q180 290 188 265Z"
+        fill="url(#bodyGrad)"/>
+
+  <!-- Dress decoration (yellow border) -->
+  <path d="M188 265 Q195 260 210 258 Q230 256 250 258 Q265 260 272 265"
+        stroke="url(#goldLight)" stroke-width="3" fill="none"/>
+  <path d="M185 350 Q200 355 230 358 Q260 355 275 350"
+        stroke="url(#goldLight)" stroke-width="2" fill="none"/>
+  <path d="M187 400 Q205 405 230 407 Q255 405 273 400"
+        stroke="url(#goldLight)" stroke-width="2" fill="none"/>
+
+  <!-- === ARMS === -->
+  <!-- Left arm (holding bow) -->
+  <path d="M188 280 Q170 300 155 320 Q145 335 140 350 Q138 355 142 358 Q148 355 150 345 Q155 330 165 315 Q175 300 190 285Z"
+        fill="#2D6A3B"/>
+
+  <!-- Right arm (holding arrow) -->
+  <path d="M272 280 Q290 300 305 320 Q315 335 320 350 Q322 355 318 358 Q312 355 310 345 Q305 330 295 315 Q285 300 270 285Z"
+        fill="#2D6A3B"/>
+
+  <!-- Hands -->
+  <circle cx="145" cy="350" r="10" fill="#C4956A"/>
+  <circle cx="315" cy="350" r="10" fill="#C4956A"/>
+
+  <!-- === BOW (ARCO) === -->
+  <path d="M150 280 Q130 330 140 400 Q145 430 155 450"
+        stroke="#8B4513" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M148 280 Q125 330 138 400 Q142 430 153 450"
+        stroke="#A0522D" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- Bowstring -->
+  <line x1="150" y1="280" x2="155" y2="450" stroke="#EDE0D4" stroke-width="1.5"/>
+
+  <!-- === ARROW (FLECHA) === -->
+  <line x1="320" y1="340" x2="400" y2="290" stroke="#8B4513" stroke-width="3" stroke-linecap="round"/>
+  <line x1="320" y1="340" x2="400" y2="290" stroke="url(#goldLight)" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Arrow tip -->
+  <polygon points="400,290 395,280 410,285 400,290" fill="#B83A2A"/>
+  <!-- Arrow feathers -->
+  <path d="M320 340 L310 335 L315 345Z" fill="#E8B830" opacity="0.8"/>
+  <path d="M318 338 L308 330 L312 342Z" fill="#B83A2A" opacity="0.8"/>
+
+  <!-- === LEGS === -->
+  <path d="M215 470 L210 510 Q208 520 210 525 Q214 528 218 525 Q220 520 218 510 L220 470Z"
+        fill="#2D6A3B"/>
+  <path d="M240 470 L245 510 Q247 520 245 525 Q241 528 237 525 Q235 520 237 510 L235 470Z"
+        fill="#2D6A3B"/>
+
+  <!-- Feet -->
+  <ellipse cx="214" cy="528" rx="16" ry="5" fill="#C4956A"/>
+  <ellipse cx="241" cy="528" rx="16" ry="5" fill="#C4956A"/>
+
+  <!-- === GROUND / SACRED ELEMENTS === -->
+  <!-- Herbs at feet -->
+  <path d="M170 530 Q165 520 175 515 Q180 520 178 530Z" fill="#2D6A3B" opacity="0.6"/>
+  <path d="M185 532 Q182 518 192 512 Q197 518 193 532Z" fill="#3D8A4E" opacity="0.6"/>
+  <path d="M260 530 Q265 518 255 515 Q250 520 252 530Z" fill="#2D6A3B" opacity="0.6"/>
+  <path d="M275 532 Q278 520 288 514 Q293 520 288 532Z" fill="#3D8A4E" opacity="0.6"/>
+
+  <!-- Sacred glow dots -->
+  <circle cx="150" cy="280" r="3" fill="#E8B830" opacity="0.6"/>
+  <circle cx="340" cy="310" r="2" fill="#E8B830" opacity="0.5"/>
+  <circle cx="130" cy="390" r="2" fill="#F5D86E" opacity="0.4"/>
+  <circle cx="360" cy="270" r="2" fill="#F5D86E" opacity="0.4"/>
+  <circle cx="170" cy="480" r="2" fill="#E8B830" opacity="0.3"/>
+  <circle cx="290" cy="480" r="2" fill="#E8B830" opacity="0.3"/>
+
+  <!-- === AMULET / PROTECTION SYMBOL === -->
+  <circle cx="230" cy="310" r="12" fill="none" stroke="url(#goldLight)" stroke-width="2" opacity="0.6"/>
+  <circle cx="230" cy="310" r="6" fill="none" stroke="url(#goldLight)" stroke-width="1.5" opacity="0.4"/>
+</svg>
