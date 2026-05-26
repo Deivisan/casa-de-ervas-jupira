@@ -211,12 +211,33 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   }
 
-  // ==========================================================
-  // 6. INITIAL RENDER (if on produtos page)
+// ==========================================================
+  // 8. INITIAL RENDER (if on produtos page)
   // ==========================================================
   if (grid) {
     const activeFilter = document.querySelector('.filtro-btn.active');
     renderProdutos(activeFilter ? activeFilter.dataset.categoria : 'todos');
+    setTimeout(initScrollReveal, 200);
+  }
+
+  // ==========================================================
+  // 9. CATEGORY PAGE RENDER (ervas.html, velas.html, etc.)
+  // ==========================================================
+  // Check if we're on a category page (has produtosGrid but no filtros)
+  const produtosGrid = document.getElementById('produtosGrid');
+  const filtrosContainer = document.querySelector('.filtros');
+
+  if (produtosGrid && !filtrosContainer) {
+    // Determine category from URL or page context
+    const path = window.location.pathname;
+    let categoria = 'todos';
+
+    if (path.includes('ervas.html')) categoria = 'ervas';
+    else if (path.includes('defumadores.html') || path.includes('velas.html')) categoria = 'defumacao';
+    else if (path.includes('kits.html')) categoria = 'kits';
+    else if (path.includes('acessorios.html')) categoria = 'acessorios';
+
+    renderProdutos(categoria);
     setTimeout(initScrollReveal, 200);
   }
 
