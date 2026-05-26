@@ -62,6 +62,11 @@ casa-de-ervas-jupira/
 │   🏠 SITE (GitHub Pages — estático)
 ├── 📄 index.html                  # Home — hero, destaques, sobre Jupira
 ├── 📄 produtos.html               # Catálogo completo com filtros
+├── 📄 velas.html                  # Velas aromáticas (12 produtos)
+├── 📄 defumadores.html            # Incensos & Defumadores (14 produtos)
+├── 📄 ervas.html                  # Ervas secas (24 produtos)
+├── 📄 kits.html                   # Kits espirituais (12 produtos)
+├── 📄 acessorios.html             # Acessórios espirituais (8 produtos)
 ├── 📄 produto.html                # Página dinâmica de cada produto
 ├── 📄 sobre.html                  # História completa da Cabocla Jupira
 ├── 📄 contato.html                # WhatsApp, Instagram, mensagens rápidas
@@ -73,11 +78,7 @@ casa-de-ervas-jupira/
 │   ├── 📄 cart.js                 # Carrinho + WhatsApp integration
 │   └── 📄 main.js                 # Navegação, filtros, renderização
 ├── 📁 assets/
-│   ├── 📁 images/
-│   │   ├── 📄 logo-jupira.svg     #   Logotipo com cabocla
-│   │   └── 📄 cabocla-jupira.svg  #   Ilustração completa da Cabocla
-│   ├── 📁 fonts/                  #   Fontes
-│   └── 📁 icons/                  #   Ícones
+│   └── 📄 jupira.jpeg             # Logotipo oficial RPA
 │
 │   📚 DOCUMENTAÇÃO DO PROJETO
 ├── 📄 README.md                   # → Você está aqui
@@ -189,12 +190,12 @@ xdg-open index.html
 | Identidade Visual | ✅ Concluído      | Cores, tipografia, brand definidos       |
 | Instagram         | ✅ Concluído      | Calendário e prompts prontos              |
 | Loja              | ✅ Concluído      | Catálogo, categorias, checkout definidos |
-| Site              | ✅ **No AR**      | GitHub Pages — 5 páginas HTML completas   |
+| Site              | ✅ **No AR**      | GitHub Pages — 9 páginas HTML completas   |
 | Agentes           | ✅ Concluído      | 4 agentes documentados                    |
-| Logotipo          | ✅ Concluído      | SVG com cabocla + penacho                 |
-| Ilustração        | ✅ Concluído      | SVG corpo inteiro da Cabocla Jupira       |
-| Catálogo Digital  | ✅ Concluído      | 17 produtos com carrinho + WhatsApp       |
-| Fotos de Produtos | ⏳ Cliente        | Placeholder Unsplash (cliente substitui)  |
+| Logotipo          | ✅ Concluído      | Imagem oficial `jupira.jpeg` (RPA)       |
+| Ilustração        | ❌ Removido       | SVGs removidos para foco no logo central  |
+| Catálogo Digital  | ✅ Concluído      | 84 produtos com carrinho + WhatsApp       |
+| Fotos de Produtos | ✅ Concluído      | Imagens reais de ervas do Pexels          |
 | Domínio Próprio   | ⏳ Futuro         | Se o cliente quiser um domínio .com       |
 
 ---
