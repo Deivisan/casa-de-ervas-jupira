@@ -75,6 +75,24 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
+  // Conteúdo dropdown toggle
+  const conteudoToggle = document.getElementById('conteudoToggle');
+  const conteudoMenu = document.getElementById('conteudoMenu');
+
+  if (conteudoToggle && conteudoMenu) {
+    conteudoToggle.addEventListener('click', (e) => {
+      e.preventDefault();
+      conteudoMenu.classList.toggle('open');
+    });
+
+    // Close dropdown when clicking outside
+    document.addEventListener('click', (e) => {
+      if (!conteudoToggle.contains(e.target) && !conteudoMenu.contains(e.target)) {
+        conteudoMenu.classList.remove('open');
+      }
+    });
+  }
+
   // ==========================================================
   // 3. CATEGORY FILTERS (Produtos page)
   // ==========================================================
