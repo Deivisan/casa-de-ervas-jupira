@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/logo-placeholder.svg" alt="Casa de Ervas Jupira" width="120"/>
+  <img src="assets/jupira.jpeg" alt="Casa de Ervas Jupira" width="120"/>
 </p>
 
 <h1 align="center">🌿 Casa de Ervas Jupira</h1>
@@ -12,9 +12,8 @@
 
 <p align="center">
   <a href="https://github.com/Deivisan/casa-de-ervas-jupira"><img src="https://img.shields.io/badge/repo-casa--de--ervas--jupira-2D6A3B?style=flat&logo=github" alt="GitHub"></a>
-  <a href="#"><img src="https://img.shields.io/badge/status-em%20construção-E8B830?style=flat" alt="Status"></a>
-  <a href="docs/vision/manifesto.md"><img src="https://img.shields.io/badge/leia-manifesto-B83A2A?style=flat" alt="Manifesto"></a>
-  <a href="agentes.md"><img src="https://img.shields.io/badge/agentes-4%20agentes-2A4B7C?style=flat" alt="Agentes"></a>
+  <a href="https://deivisan.github.io/casa-de-ervas-jupira"><img src="https://img.shields.io/badge/site-no-ar-E8B830?style=flat&labelColor=1C1C1C" alt="Site"></a>
+  <a href="https://wa.me/557588136678"><img src="https://img.shields.io/badge/whatsapp-25D366?style=flat&labelColor=1C1C1C" alt="WhatsApp"></a>
 </p>
 
 ---
@@ -70,7 +69,7 @@ casa-de-ervas-jupira/
 ├── 📁 css/
 │   └── 📄 style.css               # Estilo completo (cores cabocla)
 ├── 📁 js/
-│   ├── 📄 produtos.js             # Catálogo com 17 produtos
+│   ├── 📄 produtos.js             # Catálogo com 84+ produtos
 │   ├── 📄 cart.js                 # Carrinho + WhatsApp integration
 │   └── 📄 main.js                 # Navegação, filtros, renderização
 ├── 📁 assets/
