@@ -109,6 +109,10 @@ function renderCartItems() {
         <div class="cart-item-info">
           <h4>${prod.nome}</h4>
           <div class="preco">${formatPreco(prod.preco)}</div>
+          <div class="cart-meta">
+            <span class="cart-sku">SKU: ${prod.sku}</span>
+            <span class="cart-validade">⏳ ${prod.validade}</span>
+          </div>
         </div>
         <div class="cart-item-qty">
           <button onclick="cartChangeQty('${prod.id}', -1)">−</button>
@@ -132,6 +136,7 @@ function cartWhatsApp() {
     const prod = getProduto(item.id);
     if (prod) {
       msg += `• ${item.qty}x ${prod.nome} — ${formatPreco(prod.preco * item.qty)}\n`;
+      msg += `  SKU: ${prod.sku} | ⏳ ${prod.validade}\n`;
     }
   });
   msg += `\n*Total: ${formatPreco(cartTotal())}*`;
@@ -146,7 +151,7 @@ function buyWhatsApp(produtoId) {
   const prod = getProduto(produtoId);
   if (!prod) return;
 
-  const msg = `🛒 *Pedido - Casa de Ervas Jupira* 🏹\n\nQuero comprar:\n• 1x ${prod.nome} — ${formatPreco(prod.preco)}\n\nEnergia: ${prod.energia}\n\nOkê Jupira! 🙏`;
+  const msg = `🛒 *Pedido - Casa de Ervas Jupira* 🏹\n\nQuero comprar:\n• 1x ${prod.nome} — ${formatPreco(prod.preco)}\nSKU: ${prod.sku} | ⏳ ${prod.validade}\n\nEnergia: ${prod.energia}\n\nOkê Jupira! 🙏`;
 
   const url = `https://wa.me/${WHATSAPP_NUM}?text=${encodeURIComponent(msg)}`;
   window.open(url, '_blank');
@@ -158,7 +163,8 @@ document.addEventListener('DOMContentLoaded', () => {
   cartUpdateUI();
 
   // Cart overlay click
-  document.getElementById('cartOverlay').addEventListener('click', hideCart);
+  const overlay = document.getElementById('cartOverlay');
+  if (overlay) overlay.addEventListener('click', hideCart);
 
   // Render if on page with cart
   if (document.getElementById('cartItems')) {

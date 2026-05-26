@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Produtos — Casa de Ervas Jupira</title>
-  <meta name="description" content="Catálogo completo de ervas, defumações, velas, incensos, banhos, oferendas e acessórios da Casa de Ervas Jupira.">
+  <title>Ervas — Casa de Ervas Jupira</title>
+  <meta name="description" content="Ervas secas artesanais: arruda, alecrim, jurema, orégano e mais. Ervas para defumação, banhos e trabalhos espirituais.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Inter:wght@400;500;600;700&family=DM+Serif+Display:ital@0;1&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/style.css">
@@ -25,7 +25,7 @@
       <nav class="header-nav" id="headerNav">
         <a href="index.html">Início</a>
         <div class="nav-dropdown">
-          <a href="produtos.html" id="produtosToggle" class="active">Produtos ▼</a>
+          <a href="produtos.html" id="produtosToggle">Produtos ▼</a>
           <div class="dropdown-menu" id="produtosMenu">
             <a href="ervas.html">🌱 Ervas</a>
             <a href="defumadores.html">🕯️ Defumadores</a>
@@ -49,23 +49,10 @@
   <!-- ===== PAGE HEADER ===== -->
   <section style="padding-top:calc(var(--header-h) + 40px);padding-bottom:0" class="section">
     <div class="container">
-      <h1 class="section-title reveal">🌿 Nosso Catálogo</h1>
+      <h1 class="section-title reveal">🌱 Ervas Secas</h1>
       <p class="text-center reveal" style="color:var(--gray);max-width:600px;margin:0 auto 2rem">
-        Ervas secas, defumações artesanais, velas aromáticas, incensos naturais, banhos prontos, oferendas e acessórios — tudo preparado com fé e inspirado na força da Cabocla Jupira.
+        Ervas secas artesanais de alta qualidade. Cada erva é colhida com respeito e secada ao sol para preservar suas propriedades espirituais.
       </p>
-
-      <!-- FILTROS -->
-      <div class="filtros reveal">
-        <button class="filtro-btn active" data-categoria="todos">🌿 Todos</button>
-        <button class="filtro-btn" data-categoria="ervas">🌱 Ervas</button>
-        <button class="filtro-btn" data-categoria="defumacao">🕯️ Defumação</button>
-        <button class="filtro-btn" data-categoria="velas">🕯️ Velas</button>
-        <button class="filtro-btn" data-categoria="kits">🎁 Kits</button>
-        <button class="filtro-btn" data-categoria="incensos">🪔 Incensos</button>
-        <button class="filtro-btn" data-categoria="banhos">🚿 Banhos</button>
-        <button class="filtro-btn" data-categoria="oferendas">🍽️ Oferendas</button>
-        <button class="filtro-btn" data-categoria="acessorios">🔮 Acessórios</button>
-      </div>
 
       <div class="produtos-grid" id="produtosGrid">
         <!-- Rendered by JS -->
@@ -78,7 +65,7 @@
     <div class="container reveal" style="text-align:center;max-width:700px">
       <h2 class="section-title">🏹 Linha Especial Jupira</h2>
       <p style="color:var(--gray);margin-bottom:1rem">
-        Produtos preparados com ervas que honram a Cabocla Jupira — arruda, alecrim e folhas de jurema. Cada item é benzido e preparado com fé.
+        Ervas selecionadas para honrar a Cabocla Jupira — arruda, alecrim e folhas de jurema.
       </p>
       <div class="cores-jupira" style="justify-content:center">
         <span style="background:#E8B830"></span>
@@ -140,5 +127,11 @@
   <script src="js/produtos.js"></script>
   <script src="js/cart.js"></script>
   <script src="js/main.js"></script>
+  <script>
+    // Filter products for ervas category
+    document.addEventListener('DOMContentLoaded', function() {
+      renderProdutos('ervas');
+    });
+  </script>
 </body>
 </html>

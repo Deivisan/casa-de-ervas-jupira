@@ -9,18 +9,6 @@
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Inter:wght@400;500;600;700&family=DM+Serif+Display:ital@0;1&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/style.css">
   <link rel="icon" href="assets/images/logo-jupira.svg" type="image/svg+xml">
-  <style>
-    .timeline { position: relative; padding-left: 32px; }
-    .timeline::before { content: ''; position: absolute; left: 8px; top: 0; bottom: 0; width: 3px; background: var(--yellow); border-radius: 2px; }
-    .timeline-item { position: relative; margin-bottom: 28px; padding-left: 20px; }
-    .timeline-item::before { content: '🏹'; position: absolute; left: -24px; top: 0; font-size: 1rem; }
-    .timeline-item h3 { font-size: 1.1rem; color: var(--green); margin-bottom: 6px; }
-    .timeline-item p { color: var(--gray); font-size: 0.95rem; line-height: 1.7; }
-    .atributos-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 16px; }
-    .atributo-card { background: var(--white); padding: 20px; border-radius: var(--radius-sm); text-align: center; box-shadow: var(--shadow-sm); border: 1px solid var(--sand); }
-    .atributo-card .valor { font-size: 1rem; font-weight: 700; color: var(--green); }
-    .atributo-card .label { font-size: 0.8rem; color: var(--gray); margin-top: 4px; }
-  </style>
 </head>
 <body>
 
@@ -51,9 +39,9 @@
   <!-- ===== HERO INTERNO ===== -->
   <section style="padding-top:calc(var(--header-h) + 40px);background:var(--dark);text-align:center" class="section">
     <div class="container">
-      <img src="assets/images/cabocla-jupira.svg" alt="Cabocla Jupira" style="max-width:280px;margin:0 auto 24px">
-      <h1 style="color:var(--yellow);margin-bottom:8px">Cabocla Jupira</h1>
-      <p style="color:var(--sand);font-family:var(--font-quote);font-style:italic;font-size:1.2rem">
+      <img src="assets/images/cabocla-jupira.svg" alt="Cabocla Jupira" style="max-width:280px;margin:0 auto 24px" class="reveal">
+      <h1 style="color:var(--yellow);margin-bottom:8px" class="reveal">Cabocla Jupira</h1>
+      <p style="color:var(--sand);font-family:var(--font-quote);font-style:italic;font-size:1.2rem" class="reveal">
         "Princesa das matas, guerreira flecheira — Okê Jupira!"
       </p>
     </div>
@@ -62,18 +50,18 @@
   <!-- ===== HISTÓRIA ===== -->
   <section class="section">
     <div class="container">
-      <h2 class="section-title">🏹 Quem foi Cabocla Jupira</h2>
+      <h2 class="section-title reveal">🏹 Quem foi Cabocla Jupira</h2>
       <div style="max-width:800px;margin:0 auto">
-        <p style="margin-bottom:1rem;line-height:1.8">
+        <p class="reveal" style="margin-bottom:1rem;line-height:1.8">
           Cabocla <strong>Jupira</strong> é uma entidade espiritual da Umbanda, conhecida como <strong>guerreira flecheira</strong> e <strong>princesa das matas</strong>. Sua história é de força, coragem e devoção à sua gente.
         </p>
-        <p style="margin-bottom:1rem;line-height:1.8">
+        <p class="reveal" style="margin-bottom:1rem;line-height:1.8">
           Filha <strong>primogênita</strong> da Cabocla <strong>Jurema</strong> com o Caboclo <strong>Sete Flechas</strong>, Jupira é irmã de Jaciara, Jacira e Jandira. Seus Orixás regentes são <strong>Iansã</strong> e <strong>Oxóssi</strong> — herdados de seus pais.
         </p>
-        <p style="margin-bottom:1rem;line-height:1.8">
+        <p class="reveal" style="margin-bottom:1rem;line-height:1.8">
           Viveu entre os índios <strong>Caetés</strong>, onde era conhecida por sua velocidade, inquietude e habilidade excepcional com a lança. Diferente das outras caboclas, <strong>quase não dança</strong> — sua postura é firme, com olhos cerrados, trabalhando em silêncio e profundidade.
         </p>
-        <p style="margin-bottom:1rem;line-height:1.8">
+        <p class="reveal" style="margin-bottom:1rem;line-height:1.8">
           Jupira é <strong>a única cabocla que usa penacho</strong> — uma homenagem à sua mãe Jurema, a Rainha das Matas. Mora no <strong>Jacutá</strong>, ponto de força de Iansã, e trabalha realizando descarregos e limpeza de ambientes.
         </p>
       </div>
@@ -83,26 +71,26 @@
   <!-- ===== TIMELINE ===== -->
   <section class="section section-beige">
     <div class="container">
-      <h2 class="section-title">📜 Sua Jornada</h2>
+      <h2 class="section-title reveal">📜 Sua Jornada</h2>
       <div style="max-width:700px;margin:0 auto">
         <div class="timeline">
-          <div class="timeline-item">
+          <div class="timeline-item reveal-left">
             <h3>🌿 Nascimento e linhagem</h3>
             <p>Primeira filha da Cabocla Jurema com o Caboclo Sete Flechas. Nasce com a energia de Iansã e a mira de Oxóssi.</p>
           </div>
-          <div class="timeline-item">
+          <div class="timeline-item reveal-left">
             <h3>🏹 Juventude entre os Caetés</h3>
             <p>Cresce na tribo dos índios Caetés. Veloz, inquieta, aprende a manejar a lança como ninguém. Envolve-se em disputas entre os guerreiros — seu pai não aprovava, mas era seu jeito.</p>
           </div>
-          <div class="timeline-item">
+          <div class="timeline-item reveal-left">
             <h3>💍 Noivado com Juperê</h3>
             <p>Fica noiva de Juperê, um índio de sua tribo. Planeja seu futuro, mas o destino tinha outros planos.</p>
           </div>
-          <div class="timeline-item">
+          <div class="timeline-item reveal-left">
             <h3>⚔️ A batalha contra os invasores</h3>
             <p>Com a invasão portuguesa, as tribos se unem para defender suas terras. Jupira não corre — fica na batalha. Morre como guerreira ao lado de seu povo e de seu noivo.</p>
           </div>
-          <div class="timeline-item">
+          <div class="timeline-item reveal-left">
             <h3>✨ Vida espiritual</h3>
             <p>Hoje, Cabocla Jupira é uma entidade de luz. Trabalha nos terreiros de Umbanda realizando descarregos, limpando ambientes e protegendo aqueles que a invocam com fé.</p>
           </div>
@@ -114,37 +102,37 @@
   <!-- ===== ATRIBUTOS ===== -->
   <section class="section">
     <div class="container">
-      <h2 class="section-title">🌟 Características</h2>
+      <h2 class="section-title reveal">🌟 Características</h2>
       <div class="atributos-grid" style="max-width:800px;margin:0 auto">
-        <div class="atributo-card">
+        <div class="atributo-card reveal-scale">
           <div class="valor">Amarelo, Verde, Vermelho, Anil</div>
           <div class="label">🎨 Cores</div>
         </div>
-        <div class="atributo-card">
+        <div class="atributo-card reveal-scale" style="transition-delay:0.05s">
           <div class="valor">Quinta-feira</div>
           <div class="label">📅 Dia da semana</div>
         </div>
-        <div class="atributo-card">
+        <div class="atributo-card reveal-scale" style="transition-delay:0.1s">
           <div class="valor">20 de janeiro</div>
           <div class="label">🎉 Dia de celebração</div>
         </div>
-        <div class="atributo-card">
+        <div class="atributo-card reveal-scale" style="transition-delay:0.15s">
           <div class="valor">Iansã e Oxóssi</div>
           <div class="label">🙏 Orixás regentes</div>
         </div>
-        <div class="atributo-card">
+        <div class="atributo-card reveal-scale" style="transition-delay:0.2s">
           <div class="valor">Frutas, batata doce, raízes, milho</div>
           <div class="label">🍽️ Comida</div>
         </div>
-        <div class="atributo-card">
+        <div class="atributo-card reveal-scale" style="transition-delay:0.25s">
           <div class="valor">Charutos</div>
           <div class="label">💨 Fumo</div>
         </div>
-        <div class="atributo-card">
+        <div class="atributo-card reveal-scale" style="transition-delay:0.3s">
           <div class="valor">Cerveja branca, água ou vinho</div>
           <div class="label">🥤 Bebida</div>
         </div>
-        <div class="atributo-card">
+        <div class="atributo-card reveal-scale" style="transition-delay:0.35s">
           <div class="valor">Descarregos e limpeza de ambientes</div>
           <div class="label">🏹 Trabalho espiritual</div>
         </div>
@@ -154,7 +142,7 @@
 
   <!-- ===== COMO HOMENAGEAR ===== -->
   <section class="section section-beige">
-    <div class="container" style="max-width:700px;text-align:center">
+    <div class="container reveal" style="max-width:700px;text-align:center">
       <h2 class="section-title">🙏 Como Homenagear</h2>
       <p style="color:var(--gray);margin-bottom:1.5rem;line-height:1.8">
         Para homenagear a Cabocla Jupira, acenda uma vela amarela ou verde, ofereça frutas e ervas como arruda e alecrim, e faça uma defumação no ambiente. Sua saudação é <strong>"Okê Jupira!"</strong>.
@@ -168,7 +156,7 @@
 
   <!-- ===== PONTO ===== -->
   <section class="section section-dark">
-    <div class="container" style="max-width:600px;text-align:center">
+    <div class="container reveal" style="max-width:600px;text-align:center">
       <h2 style="color:var(--yellow);margin-bottom:1rem">🎵 Ponto Cantado</h2>
       <p style="font-family:var(--font-quote);font-style:italic;font-size:1.2rem;line-height:2;color:var(--sand)">
         "Passarinho cantou lá na mata da Jurema<br>

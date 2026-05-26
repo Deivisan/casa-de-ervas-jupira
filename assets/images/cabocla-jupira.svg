@@ -1,158 +1,367 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 600" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 800" fill="none" role="img" aria-label="Cabocla Jupira jovem guerreira com onça-pintada na floresta">
   <defs>
     <linearGradient id="featherGrad" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#E8B830"/>
-      <stop offset="50%" stop-color="#B83A2A"/>
+      <stop offset="30%" stop-color="#B83A2A"/>
+      <stop offset="60%" stop-color="#2D6A3B"/>
       <stop offset="100%" stop-color="#E8B830"/>
-    </linearGradient>
-    <linearGradient id="bodyGrad" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#2D6A3B"/>
-      <stop offset="100%" stop-color="#1E4A28"/>
     </linearGradient>
     <linearGradient id="goldLight" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#F5D86E"/>
       <stop offset="100%" stop-color="#C99A1F"/>
     </linearGradient>
+    <linearGradient id="bodyGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2D6A3B"/>
+      <stop offset="100%" stop-color="#1E4A28"/>
+    </linearGradient>
+    <linearGradient id="jaguarBody" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#D4A017"/>
+      <stop offset="100%" stop-color="#B8860B"/>
+    </linearGradient>
+    <linearGradient id="skyGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1A1A2E"/>
+      <stop offset="100%" stop-color="#2A1F0E"/>
+    </linearGradient>
+    <radialGradient id="moonGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#E8B830" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#E8B830" stop-opacity="0"/>
+    </radialGradient>
   </defs>
 
-  <!-- Background glow -->
-  <circle cx="250" cy="300" r="240" fill="#E8B830" opacity="0.05"/>
+  <!-- Background -->
+  <rect width="700" height="800" fill="url(#skyGrad)"/>
 
-  <!-- === FEATHER HEADDRESS (PENACHO) === -->
-  <!-- Top feathers -->
-  <path d="M220 120 Q200 50 230 20 Q235 60 232 100Z" fill="url(#featherGrad)" opacity="0.9"/>
-  <path d="M240 110 Q235 30 255 10 Q252 55 245 90Z" fill="url(#goldLight)" opacity="0.95"/>
-  <path d="M260 115 Q265 40 280 20 Q272 60 265 95Z" fill="url(#featherGrad)" opacity="0.9"/>
-  <path d="M200 130 Q180 70 195 40 Q198 80 200 110Z" fill="url(#featherGrad)" opacity="0.85"/>
-  <path d="M280 125 Q295 65 305 40 Q295 80 285 110Z" fill="url(#featherGrad)" opacity="0.85"/>
-  <path d="M180 145 Q155 90 165 65 Q172 100 178 130Z" fill="url(#goldLight)" opacity="0.8"/>
-  <path d="M300 140 Q320 85 330 60 Q318 100 305 125Z" fill="url(#goldLight)" opacity="0.8"/>
+  <!-- Moon glow -->
+  <circle cx="350" cy="200" r="280" fill="url(#moonGlow)"/>
 
-  <!-- Headband -->
-  <path d="M170 155 Q180 148 200 142 Q230 135 260 142 Q280 148 290 155 L285 165 Q260 158 230 155 Q200 153 175 158Z"
-        fill="url(#goldLight)" stroke="#B83A2A" stroke-width="1"/>
+  <!-- Moon crescent -->
+  <path d="M300 150 Q320 100 360 90 Q340 130 340 170 Q340 210 360 250 Q320 240 300 190 Q285 170 300 150Z" fill="#E8B830" opacity="0.15"/>
 
-  <!-- === HEAD === -->
-  <!-- Hair -->
-  <path d="M175 160 Q185 138 210 140 Q220 130 240 132 Q260 130 275 145
-           Q290 160 285 185 Q290 205 288 220 Q280 240 270 250
-           Q250 260 230 262 Q210 263 195 258 Q175 248 168 235
-           Q160 220 158 200 Q155 180 175 160Z"
-        fill="#1A0E05"/>
+  <!-- Forest background - stylized trees -->
+  <g opacity="0.12">
+    <path d="M0 600 L40 400 L80 600Z" fill="#2D6A3B"/>
+    <path d="M60 650 L110 350 L160 650Z" fill="#1E4A28"/>
+    <path d="M140 620 L180 380 L220 620Z" fill="#2D6A3B"/>
+    <path d="M500 650 L550 350 L600 650Z" fill="#1E4A28"/>
+    <path d="M580 600 L630 400 L680 600Z" fill="#2D6A3B"/>
+    <path d="M640 650 L680 450 L720 650Z" fill="#1E4A28"/>
+  </g>
 
-  <!-- Face -->
-  <ellipse cx="230" cy="195" rx="48" ry="58" fill="#C4956A"/>
+  <!-- Ground -->
+  <ellipse cx="350" cy="730" rx="350" ry="60" fill="#1E4A28" opacity="0.3"/>
 
-  <!-- Eyes (closed) -->
-  <path d="M205 185 Q213 179 221 185" stroke="#1C1C1C" stroke-width="2.5" fill="none" stroke-linecap="round"/>
-  <path d="M239 185 Q247 179 255 185" stroke="#1C1C1C" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <!-- ===== ONÇA-PINTADA (Left side, guarding) ===== -->
+  <g transform="translate(30, 20)">
+    <!-- Tail -->
+    <path d="M230 490 Q260 470 280 450 Q290 440 285 430 Q278 425 273 432" stroke="#D4A017" stroke-width="9" fill="none" stroke-linecap="round"/>
+    <path d="M230 490 Q260 470 280 450 Q290 440 285 430 Q278 425 273 432" stroke="#1A1A1A" stroke-width="2" fill="none" stroke-linecap="round" stroke-dasharray="4 18" opacity="0.4"/>
 
-  <!-- Eyebrows -->
-  <path d="M203 178 Q212 172 223 176" stroke="#1C1C1C" stroke-width="2" fill="none" stroke-linecap="round"/>
-  <path d="M237 176 Q248 172 257 178" stroke="#1C1C1C" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <!-- Back body -->
+    <ellipse cx="190" cy="500" rx="60" ry="35" fill="url(#jaguarBody)" transform="rotate(-8, 190, 500)"/>
 
-  <!-- Nose -->
-  <path d="M228 188 Q232 200 225 207" stroke="#A07050" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <!-- Rosetas (geometric jaguar spots) -->
+    <circle cx="175" cy="490" r="6" fill="none" stroke="#1A1A2E" stroke-width="2"/>
+    <circle cx="175" cy="490" r="2" fill="#1A1A2E"/>
+    <circle cx="200" cy="485" r="5.5" fill="none" stroke="#1A1A2E" stroke-width="2"/>
+    <circle cx="200" cy="485" r="2" fill="#1A1A2E"/>
+    <circle cx="220" cy="498" r="5" fill="none" stroke="#1A1A2E" stroke-width="2"/>
+    <circle cx="220" cy="498" r="2" fill="#1A1A2E"/>
+    <circle cx="160" cy="502" r="4.5" fill="none" stroke="#1A1A2E" stroke-width="2"/>
+    <circle cx="160" cy="502" r="1.5" fill="#1A1A2E"/>
+    <circle cx="190" cy="515" r="5" fill="none" stroke="#1A1A2E" stroke-width="2"/>
+    <circle cx="190" cy="515" r="2" fill="#1A1A2E"/>
+    <circle cx="215" cy="512" r="4" fill="none" stroke="#1A1A2E" stroke-width="1.5"/>
+    <circle cx="215" cy="512" r="1.5" fill="#1A1A2E"/>
+    <circle cx="240" cy="495" r="4" fill="none" stroke="#1A1A2E" stroke-width="1.5"/>
+    <circle cx="240" cy="495" r="1.5" fill="#1A1A2E"/>
 
-  <!-- Mouth -->
-  <path d="M215 215 Q225 210 230 212 Q235 210 245 215" stroke="#8B5E3C" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <!-- Back legs -->
+    <path d="M160 520 Q158 550 155 568 Q154 576 160 578 Q166 576 165 568 Q166 550 168 520Z" fill="url(#jaguarBody)"/>
+    <path d="M185 525 Q183 555 182 572 Q181 580 187 582 Q193 580 192 572 Q191 555 193 525Z" fill="url(#jaguarBody)"/>
 
-  <!-- Face paint (indigenous markings) -->
-  <path d="M195 200 Q190 195 188 190" stroke="#B83A2A" stroke-width="2" fill="none" opacity="0.5"/>
-  <path d="M265 200 Q270 195 272 190" stroke="#B83A2A" stroke-width="2" fill="none" opacity="0.5"/>
-  <circle cx="195" cy="205" r="3" fill="#B83A2A" opacity="0.4"/>
-  <circle cx="265" cy="205" r="3" fill="#B83A2A" opacity="0.4"/>
+    <!-- Back paws -->
+    <ellipse cx="158" cy="580" rx="10" ry="5" fill="#D4A017"/>
+    <ellipse cx="187" cy="583" rx="10" ry="5" fill="#D4A017"/>
 
-  <!-- Neck -->
-  <rect x="218" y="250" width="24" height="18" rx="4" fill="#C4956A"/>
+    <!-- Front body/chest -->
+    <ellipse cx="140" cy="470" rx="30" ry="40" fill="url(#jaguarBody)" transform="rotate(-5, 140, 470)"/>
+    <circle cx="130" cy="462" r="4" fill="none" stroke="#1A1A2E" stroke-width="1.5"/>
+    <circle cx="130" cy="462" r="1.5" fill="#1A1A2E"/>
+    <circle cx="148" cy="460" r="4" fill="none" stroke="#1A1A2E" stroke-width="1.5"/>
+    <circle cx="148" cy="460" r="1.5" fill="#1A1A2E"/>
 
-  <!-- Necklace (indigenous) -->
-  <path d="M200 260 Q215 275 230 278 Q245 275 260 260" stroke="url(#goldLight)" stroke-width="3" fill="none"/>
-  <circle cx="215" cy="268" r="3" fill="#B83A2A"/>
-  <circle cx="230" cy="274" r="3.5" fill="#E8B830"/>
-  <circle cx="245" cy="268" r="3" fill="#B83A2A"/>
+    <!-- Front legs (guarding posture) -->
+    <path d="M125 500 Q120 530 118 548 Q117 556 123 558 Q129 556 128 548 Q130 530 133 500Z" fill="url(#jaguarBody)"/>
+    <path d="M148 505 Q145 535 144 552 Q143 560 149 562 Q155 560 154 552 Q155 535 156 505Z" fill="url(#jaguarBody)"/>
 
-  <!-- === BODY === -->
-  <!-- Torso -->
-  <path d="M195 265 Q200 280 210 300 Q220 340 225 380 Q230 400 235 420
-           L225 420 Q220 400 215 380 Q210 340 200 300 Q190 280 188 265Z"
-        fill="url(#bodyGrad)"/>
+    <!-- Front paws -->
+    <ellipse cx="123" cy="560" rx="10" ry="5" fill="#D4A017"/>
+    <ellipse cx="149" cy="563" rx="10" ry="5" fill="#D4A017"/>
 
-  <path d="M265 265 Q260 280 250 300 Q240 340 235 380 Q230 400 225 420
-           L235 420 Q240 400 245 380 Q250 340 260 300 Q270 280 272 265Z"
-        fill="url(#bodyGrad)"/>
+    <!-- Head -->
+    <ellipse cx="120" cy="420" rx="28" ry="24" fill="url(#jaguarBody)"/>
 
-  <!-- Dress/body -->
-  <path d="M188 265 Q195 260 210 258 Q230 256 250 258 Q265 260 272 265
-           Q280 290 278 350 Q275 400 270 440
-           Q265 460 255 470 Q245 475 230 476 Q215 475 205 470
-           Q195 460 190 440 Q185 400 182 350 Q180 290 188 265Z"
-        fill="url(#bodyGrad)"/>
+    <!-- Ears -->
+    <ellipse cx="102" cy="400" rx="9" ry="7" fill="#D4A017" transform="rotate(-15, 102, 400)"/>
+    <ellipse cx="138" cy="400" rx="9" ry="7" fill="#D4A017" transform="rotate(15, 138, 400)"/>
+    <ellipse cx="104" cy="401" rx="5" ry="4" fill="#1A1A2E" opacity="0.4" transform="rotate(-15, 104, 401)"/>
+    <ellipse cx="136" cy="401" rx="5" ry="4" fill="#1A1A2E" opacity="0.4" transform="rotate(15, 136, 401)"/>
 
-  <!-- Dress decoration (yellow border) -->
-  <path d="M188 265 Q195 260 210 258 Q230 256 250 258 Q265 260 272 265"
-        stroke="url(#goldLight)" stroke-width="3" fill="none"/>
-  <path d="M185 350 Q200 355 230 358 Q260 355 275 350"
-        stroke="url(#goldLight)" stroke-width="2" fill="none"/>
-  <path d="M187 400 Q205 405 230 407 Q255 405 273 400"
-        stroke="url(#goldLight)" stroke-width="2" fill="none"/>
+    <!-- Eyes (sharp, glowing) -->
+    <ellipse cx="110" cy="420" rx="5" ry="4" fill="#1A1A2E"/>
+    <ellipse cx="130" cy="420" rx="5" ry="4" fill="#1A1A2E"/>
+    <circle cx="111" cy="419" r="2" fill="#F5D86E"/>
+    <circle cx="131" cy="419" r="2" fill="#F5D86E"/>
 
-  <!-- === ARMS === -->
-  <!-- Left arm (holding bow) -->
-  <path d="M188 280 Q170 300 155 320 Q145 335 140 350 Q138 355 142 358 Q148 355 150 345 Q155 330 165 315 Q175 300 190 285Z"
-        fill="#2D6A3B"/>
+    <!-- Nose -->
+    <ellipse cx="120" cy="432" rx="5" ry="3" fill="#1A1A2E"/>
 
-  <!-- Right arm (holding arrow) -->
-  <path d="M272 280 Q290 300 305 320 Q315 335 320 350 Q322 355 318 358 Q312 355 310 345 Q305 330 295 315 Q285 300 270 285Z"
-        fill="#2D6A3B"/>
+    <!-- Mouth + fangs -->
+    <path d="M116 436 Q120 440 124 436" stroke="#1A1A2E" stroke-width="1.5" fill="none"/>
+    <polygon points="117,436 119,440 121,436" fill="white" opacity="0.9"/>
+    <polygon points="123,436 125,440 127,436" fill="white" opacity="0.9"/>
 
-  <!-- Hands -->
-  <circle cx="145" cy="350" r="10" fill="#C4956A"/>
-  <circle cx="315" cy="350" r="10" fill="#C4956A"/>
+    <!-- Face spots -->
+    <circle cx="106" cy="426" r="2.5" fill="none" stroke="#1A1A2E" stroke-width="1"/>
+    <circle cx="106" cy="426" r="1" fill="#1A1A2E"/>
+    <circle cx="134" cy="426" r="2.5" fill="none" stroke="#1A1A2E" stroke-width="1"/>
+    <circle cx="134" cy="426" r="1" fill="#1A1A2E"/>
 
-  <!-- === BOW (ARCO) === -->
-  <path d="M150 280 Q130 330 140 400 Q145 430 155 450"
-        stroke="#8B4513" stroke-width="5" fill="none" stroke-linecap="round"/>
-  <path d="M148 280 Q125 330 138 400 Q142 430 153 450"
-        stroke="#A0522D" stroke-width="3" fill="none" stroke-linecap="round"/>
-  <!-- Bowstring -->
-  <line x1="150" y1="280" x2="155" y2="450" stroke="#EDE0D4" stroke-width="1.5"/>
+    <!-- Whiskers -->
+    <line x1="96" y1="428" x2="82" y2="424" stroke="#1A1A2E" stroke-width="0.8" opacity="0.4"/>
+    <line x1="96" y1="434" x2="80" y2="434" stroke="#1A1A2E" stroke-width="0.8" opacity="0.4"/>
+    <line x1="144" y1="428" x2="158" y2="424" stroke="#1A1A2E" stroke-width="0.8" opacity="0.4"/>
+    <line x1="144" y1="434" x2="160" y2="434" stroke="#1A1A2E" stroke-width="0.8" opacity="0.4"/>
 
-  <!-- === ARROW (FLECHA) === -->
-  <line x1="320" y1="340" x2="400" y2="290" stroke="#8B4513" stroke-width="3" stroke-linecap="round"/>
-  <line x1="320" y1="340" x2="400" y2="290" stroke="url(#goldLight)" stroke-width="1.5" stroke-linecap="round"/>
-  <!-- Arrow tip -->
-  <polygon points="400,290 395,280 410,285 400,290" fill="#B83A2A"/>
-  <!-- Arrow feathers -->
-  <path d="M320 340 L310 335 L315 345Z" fill="#E8B830" opacity="0.8"/>
-  <path d="M318 338 L308 330 L312 342Z" fill="#B83A2A" opacity="0.8"/>
+    <!-- Growl -->
+    <path d="M110 440 Q116 444 120 442 Q124 444 130 440" stroke="#1A1A2E" stroke-width="1" fill="none" opacity="0.3"/>
+  </g>
 
-  <!-- === LEGS === -->
-  <path d="M215 470 L210 510 Q208 520 210 525 Q214 528 218 525 Q220 520 218 510 L220 470Z"
-        fill="#2D6A3B"/>
-  <path d="M240 470 L245 510 Q247 520 245 525 Q241 528 237 525 Q235 520 237 510 L235 470Z"
-        fill="#2D6A3B"/>
+  <!-- ===== CABOCLA JUPIRA (Center, young warrior) ===== -->
+  <g transform="translate(300, 20)">
+    <!-- === FEATHER HEADDRESS - PENACHO (youthful, majestic) === -->
+    <path d="M160 200 Q150 130 170 90 Q178 130 175 170Q180 140 182 190Z" fill="url(#featherGrad)" opacity="0.9"/>
+    <path d="M182 185 Q180 110 200 70 Q200 115 195 155 Q200 125 192 182Z" fill="url(#goldLight)" opacity="0.95"/>
+    <path d="M205 180 Q210 100 230 65 Q225 110 218 150 Q224 120 210 178Z" fill="url(#featherGrad)" opacity="0.9"/>
+    <path d="M230 182 Q238 115 255 80 Q248 120 240 155 Q246 130 235 180Z" fill="url(#featherGrad)" opacity="0.9"/>
+    <path d="M255 188 Q265 130 278 100 Q270 135 262 165 Q268 140 258 188Z" fill="url(#goldLight)" opacity="0.85"/>
 
-  <!-- Feet -->
-  <ellipse cx="214" cy="528" rx="16" ry="5" fill="#C4956A"/>
-  <ellipse cx="241" cy="528" rx="16" ry="5" fill="#C4956A"/>
+    <!-- Center crest feather (tallest - Jupira's signature) -->
+    <path d="M190 175 Q195 60 220 30 Q215 80 210 130 Q216 85 198 175Z" fill="#E8B830" opacity="0.95"/>
+    <path d="M198 175 Q205 65 230 35 Q224 85 218 130 Q224 88 205 175Z" fill="#F5D86E" opacity="0.85"/>
 
-  <!-- === GROUND / SACRED ELEMENTS === -->
-  <!-- Herbs at feet -->
-  <path d="M170 530 Q165 520 175 515 Q180 520 178 530Z" fill="#2D6A3B" opacity="0.6"/>
-  <path d="M185 532 Q182 518 192 512 Q197 518 193 532Z" fill="#3D8A4E" opacity="0.6"/>
-  <path d="M260 530 Q265 518 255 515 Q250 520 252 530Z" fill="#2D6A3B" opacity="0.6"/>
-  <path d="M275 532 Q278 520 288 514 Q293 520 288 532Z" fill="#3D8A4E" opacity="0.6"/>
+    <!-- Headband -->
+    <path d="M150 208 Q160 198 185 192 Q210 188 235 192 Q255 198 268 208"
+          stroke="url(#goldLight)" stroke-width="4" fill="none"/>
+    <!-- Headband ornaments -->
+    <circle cx="210" cy="193" r="4" fill="#B83A2A"/>
+    <circle cx="192" cy="196" r="2.5" fill="#2D6A3B"/>
+    <circle cx="228" cy="196" r="2.5" fill="#2D6A3B"/>
+    <circle cx="172" cy="201" r="2.5" fill="#E8B830"/>
+    <circle cx="248" cy="201" r="2.5" fill="#E8B830"/>
 
-  <!-- Sacred glow dots -->
-  <circle cx="150" cy="280" r="3" fill="#E8B830" opacity="0.6"/>
-  <circle cx="340" cy="310" r="2" fill="#E8B830" opacity="0.5"/>
-  <circle cx="130" cy="390" r="2" fill="#F5D86E" opacity="0.4"/>
-  <circle cx="360" cy="270" r="2" fill="#F5D86E" opacity="0.4"/>
-  <circle cx="170" cy="480" r="2" fill="#E8B830" opacity="0.3"/>
-  <circle cx="290" cy="480" r="2" fill="#E8B830" opacity="0.3"/>
+    <!-- === HEAD === -->
+    <!-- Hair -->
+    <path d="M155 215 Q165 188 195 190 Q210 178 235 182 Q260 180 272 200
+             Q288 220 282 248 Q286 270 280 290
+             Q268 312 252 322 Q232 332 212 335 Q192 336 172 328
+             Q152 316 142 298 Q132 275 130 252 Q128 228 155 215Z"
+          fill="#1A0E05"/>
 
-  <!-- === AMULET / PROTECTION SYMBOL === -->
-  <circle cx="230" cy="310" r="12" fill="none" stroke="url(#goldLight)" stroke-width="2" opacity="0.6"/>
-  <circle cx="230" cy="310" r="6" fill="none" stroke="url(#goldLight)" stroke-width="1.5" opacity="0.4"/>
+    <!-- Face -->
+    <ellipse cx="215" cy="260" rx="55" ry="68" fill="#C4956A"/>
+
+    <!-- Eyes (semi-closed - Jupira characteristic) -->
+    <path d="M188 248 Q200 240 212 248" stroke="#1C1C1C" stroke-width="2.8" fill="none" stroke-linecap="round"/>
+    <path d="M228 248 Q240 240 252 248" stroke="#1C1C1C" stroke-width="2.8" fill="none" stroke-linecap="round"/>
+
+    <!-- Eyebrows (firm warrior) -->
+    <path d="M185 240 Q198 233 214 238" stroke="#1C1C1C" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <path d="M226 238 Q242 233 255 240" stroke="#1C1C1C" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+
+    <!-- Nose -->
+    <path d="M212 252 Q218 268 210 278" stroke="#A07050" stroke-width="2" fill="none" stroke-linecap="round"/>
+
+    <!-- Mouth (young, firm but with slight feminine curve) -->
+    <path d="M200 285 Q212 280 218 282 Q224 280 236 285" stroke="#8B5E3C" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+
+    <!-- ===== INDIGENOUS FACE PAINT (Young warrior markings) ===== -->
+    <!-- Red pigment marks on cheeks -->
+    <path d="M175 260 Q170 252 168 246" stroke="#B83A2A" stroke-width="3" fill="none" opacity="0.5" stroke-linecap="round"/>
+    <path d="M255 260 Q260 252 262 246" stroke="#B83A2A" stroke-width="3" fill="none" opacity="0.5" stroke-linecap="round"/>
+    <circle cx="172" cy="270" r="4" fill="#B83A2A" opacity="0.4"/>
+    <circle cx="258" cy="270" r="4" fill="#B83A2A" opacity="0.4"/>
+
+    <!-- Geometric face patterns (Ashaninka triangles) -->
+    <polygon points="173,256 178,250 183,256" fill="#B83A2A" opacity="0.35"/>
+    <polygon points="247,256 252,250 257,256" fill="#B83A2A" opacity="0.35"/>
+
+    <!-- === NECK === -->
+    <rect x="203" y="325" width="24" height="20" rx="5" fill="#C4956A"/>
+
+    <!-- === NECKLACE (Indigenous seed collar) === -->
+    <path d="M185 338 Q210 360 215 362 Q220 360 245 338" stroke="url(#goldLight)" stroke-width="2.5" fill="none"/>
+    <!-- Seed beads -->
+    <circle cx="195" cy="350" r="3.5" fill="#B83A2A"/>
+    <circle cx="205" cy="356" r="3" fill="#E8B830"/>
+    <circle cx="215" cy="360" r="4" fill="#B83A2A"/>
+    <circle cx="225" cy="356" r="3" fill="#E8B830"/>
+    <circle cx="235" cy="350" r="3.5" fill="#B83A2A"/>
+
+    <!-- === BODY / DRESS === -->
+    <!-- Left arm -->
+    <path d="M175 340 Q160 370 155 400 Q150 420 148 435 Q146 445 150 448 Q156 445 157 435 Q160 415 165 395 Q170 375 180 345Z" fill="url(#bodyGrad)"/>
+
+    <!-- Right arm (raised with arrow) -->
+    <path d="M255 340 Q268 360 275 380 Q280 395 282 410 Q283 420 278 422 Q273 420 272 410 Q268 395 262 380 Q258 365 250 345Z" fill="url(#bodyGrad)"/>
+
+    <!-- Hands -->
+    <circle cx="152" cy="448" r="11" fill="#C4956A"/>
+    <circle cx="276" cy="418" r="11" fill="#C4956A"/>
+
+    <!-- Torso -->
+    <path d="M180 340 Q185 368 195 400 Q205 432 210 460 Q212 475 215 490
+             L205 490 Q200 475 195 460 Q185 432 178 400 Q172 368 172 340Z"
+          fill="url(#bodyGrad)"/>
+    <path d="M250 340 Q245 368 235 400 Q225 432 220 460 Q218 475 215 490
+             L225 490 Q230 475 235 460 Q245 432 252 400 Q258 368 258 340Z"
+          fill="url(#bodyGrad)"/>
+
+    <!-- Dress body -->
+    <path d="M172 340 Q180 335 195 332 Q215 328 235 332 Q250 335 258 340
+             Q268 370 270 420 Q272 480 268 530
+             Q262 560 250 575 Q238 585 215 588 Q192 585 180 575
+             Q168 560 162 530 Q158 480 160 420 Q162 370 172 340Z"
+          fill="url(#bodyGrad)"/>
+
+    <!-- === DRESS DECORATIONS - Geometric patterns === -->
+    <!-- Yellow border at top -->
+    <path d="M172 340 Q180 335 195 332 Q215 328 235 332 Q250 335 258 340"
+          stroke="url(#goldLight)" stroke-width="3" fill="none"/>
+
+    <!-- Ashaninka-inspired triangle pattern on dress -->
+    <g opacity="0.7">
+      <polygon points="178,390 185,378 192,390" fill="#E8B830" opacity="0.6"/>
+      <polygon points="198,390 205,378 212,390" fill="#B83A2A" opacity="0.6"/>
+      <polygon points="218,390 225,378 232,390" fill="#E8B830" opacity="0.6"/>
+      <polygon points="238,390 245,378 252,390" fill="#B83A2A" opacity="0.6"/>
+    </g>
+
+    <path d="M175 420 Q195 426 215 428 Q235 426 255 420"
+          stroke="url(#goldLight)" stroke-width="2" fill="none" opacity="0.8"/>
+
+    <g opacity="0.7">
+      <polygon points="178,460 185,448 192,460" fill="#B83A2A" opacity="0.6"/>
+      <polygon points="198,460 205,448 212,460" fill="#E8B830" opacity="0.6"/>
+      <polygon points="218,460 225,448 232,460" fill="#B83A2A" opacity="0.6"/>
+      <polygon points="238,460 245,448 252,460" fill="#E8B830" opacity="0.6"/>
+    </g>
+
+    <path d="M175 490 Q195 496 215 498 Q235 496 255 490"
+          stroke="url(#goldLight)" stroke-width="2" fill="none" opacity="0.8"/>
+
+    <!-- === LEGS === -->
+    <path d="M195 585 L188 640 Q186 655 190 660 Q196 662 200 658 Q202 650 200 640 L205 585Z" fill="#2D6A3B"/>
+    <path d="M230 585 L237 640 Q239 655 235 660 Q229 662 225 658 Q223 650 225 640 L220 585Z" fill="#2D6A3B"/>
+
+    <!-- Feet -->
+    <ellipse cx="194" cy="665" rx="18" ry="6" fill="#C4956A"/>
+    <ellipse cx="231" cy="665" rx="18" ry="6" fill="#C4956A"/>
+
+    <!-- === ARM BANDS (braçadeiras) === -->
+    <!-- Left arm band -->
+    <path d="M156 410 Q158 405 166 405 Q170 405 172 410 Q170 415 166 416 Q158 416 156 410Z" fill="url(#goldLight)"/>
+    <path d="M156 410 Q158 407 166 407 Q170 407 172 410" stroke="#B83A2A" stroke-width="1" fill="none"/>
+
+    <!-- Right arm band -->
+    <path d="M260 378 Q258 373 250 373 Q246 373 244 378 Q246 383 250 384 Q258 384 260 378Z" fill="url(#goldLight)"/>
+    <path d="M260 378 Q258 375 250 375 Q246 375 244 378" stroke="#B83A2A" stroke-width="1" fill="none"/>
+
+    <!-- === BOW (ARCO) - On left side === -->
+    <path d="M145 380 Q120 440 132 520 Q138 560 148 590"
+          stroke="#8B4513" stroke-width="6" fill="none" stroke-linecap="round"/>
+    <path d="M143 380 Q115 440 130 520 Q136 560 146 590"
+          stroke="#A0522D" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+    <!-- Bowstring -->
+    <line x1="145" y1="380" x2="148" y2="590" stroke="#EDE0D4" stroke-width="2"/>
+
+    <!-- === ARROW (FLECHA) - In right hand === -->
+    <line x1="280" y1="410" x2="480" y2="320" stroke="#8B4513" stroke-width="3.5" stroke-linecap="round"/>
+    <line x1="280" y1="410" x2="480" y2="320" stroke="url(#goldLight)" stroke-width="1.5" stroke-linecap="round"/>
+    <!-- Arrow tip (red, aggressive) -->
+    <polygon points="480,320 473,310 490,315 480,320" fill="#B83A2A"/>
+    <!-- Arrow feathers -->
+    <path d="M280 410 L268 405 L274 418Z" fill="#E8B830" opacity="0.9"/>
+    <path d="M278 408 L266 400 L270 414Z" fill="#B83A2A" opacity="0.9"/>
+    <path d="M282 412 L272 418 L276 406Z" fill="#2D6A3B" opacity="0.9"/>
+  </g>
+
+  <!-- ===== SACRED ELEMENTS / HERBS at feet ===== -->
+  <!-- Arruda (rended) -->
+  <g transform="translate(395, 650)">
+    <path d="M0 30 Q-5 10 5 0 Q10 5 8 15 Q15 2 20 5 Q18 12 12 18 Q20 10 25 15 Q20 20 15 22 Q10 28 5 30Z" fill="#5A7D6B" opacity="0.7"/>
+    <path d="M5 30 Q0 8 8 -5 Q14 2 12 12 Q18 0 24 3 Q22 10 16 16 Q24 8 28 12 Q24 18 18 20 Q12 26 8 30Z" fill="#4A6B5A" opacity="0.6"/>
+  </g>
+
+  <!-- Aroeira (compound leaves + pink fruits) -->
+  <g transform="translate(140, 640)">
+    <path d="M0 40 Q5 25 10 20 Q8 15 12 12 Q15 10 18 15 Q16 20 12 22 Q18 18 22 20 Q20 25 15 28 Q10 32 8 40Z" fill="#3D7A4A" opacity="0.7"/>
+    <path d="M15 20 Q20 12 28 10 Q25 16 20 20" fill="#3D7A4A" opacity="0.6"/>
+    <circle cx="28" cy="8" r="3" fill="#D44D5C" opacity="0.8"/>
+    <circle cx="22" cy="12" r="2.5" fill="#D44D5C" opacity="0.7"/>
+    <circle cx="10" cy="15" r="2" fill="#D44D5C" opacity="0.6"/>
+  </g>
+
+  <!-- Guiné -->
+  <g transform="translate(460, 660)">
+    <path d="M0 20 Q8 8 15 5 Q12 12 10 18 Q16 10 22 12 Q18 18 14 22 Q10 26 5 28Z" fill="#4A7C59" opacity="0.6"/>
+  </g>
+
+  <!-- Jurema (finely divided leaves) -->
+  <g transform="translate(110, 660)">
+    <path d="M0 20 L3 12 L6 15 L9 8 L12 12 L15 5 L18 10 L15 14 L12 18 L9 22 L6 25Z" fill="#2E5A2A" opacity="0.5" stroke="#2E5A2A" stroke-width="0.5"/>
+    <path d="M3 12 L1 8 L5 10 L8 5 L11 8 L14 2 L17 6 L14 10 L11 14 L8 18 L5 20Z" fill="#2E5A2A" opacity="0.4" stroke="#2E5A2A" stroke-width="0.5"/>
+  </g>
+
+  <!-- ===== SACRED DOTS ===== -->
+  <circle cx="520" cy="180" r="3" fill="#E8B830" opacity="0.5"/>
+  <circle cx="150" cy="150" r="2.5" fill="#E8B830" opacity="0.4"/>
+  <circle cx="580" cy="300" r="2" fill="#F5D86E" opacity="0.3"/>
+  <circle cx="120" cy="300" r="2.5" fill="#F5D86E" opacity="0.3"/>
+  <circle cx="550" cy="450" r="2" fill="#E8B830" opacity="0.25"/>
+  <circle cx="100" cy="480" r="2" fill="#E8B830" opacity="0.25"/>
+  <circle cx="500" cy="550" r="1.5" fill="#F5D86E" opacity="0.2"/>
+  <circle cx="160" cy="570" r="1.5" fill="#F5D86E" opacity="0.2"/>
+
+  <!-- ===== PROTECTION AMULET (on Jupira's dress) ===== -->
+  <g transform="translate(515, 480)">
+    <circle cx="0" cy="0" r="14" fill="none" stroke="url(#goldLight)" stroke-width="2" opacity="0.6"/>
+    <circle cx="0" cy="0" r="8" fill="none" stroke="url(#goldLight)" stroke-width="1.5" opacity="0.4"/>
+    <circle cx="0" cy="0" r="2" fill="#E8B830" opacity="0.5"/>
+  </g>
+
+  <!-- ===== INDIGENOUS GEOMETRIC STRIP at bottom ===== -->
+  <g opacity="0.4">
+    <path d="M0 770 L20 755 L40 770 L60 755 L80 770 L100 755 L120 770 L140 755 L160 770 L180 755 L200 770 L220 755 L240 770 L260 755 L280 770 L300 755 L320 770 L340 755 L360 770 L380 755 L400 770 L420 755 L440 770 L460 755 L480 770 L500 755 L520 770 L540 755 L560 770 L580 755 L600 770 L620 755 L640 770 L660 755 L680 770 L700 755"
+          stroke="#E8B830" stroke-width="1.5" fill="none"/>
+    <path d="M0 780 L20 765 L40 780 L60 765 L80 780 L100 765 L120 780 L140 765 L160 780 L180 765 L200 780 L220 765 L240 780 L260 765 L280 780 L300 765 L320 780 L340 765 L360 780 L380 765 L400 780 L420 765 L440 780 L460 765 L480 780 L500 765 L520 780 L540 765 L560 780 L580 765 L600 780 L620 765 L640 780 L660 765 L680 780 L700 765"
+          stroke="#B83A2A" stroke-width="1" fill="none" opacity="0.6"/>
+  </g>
+
+  <!-- Subtle fireflies -->
+  <circle cx="200" cy="350" r="1.5" fill="#F5D86E" opacity="0.6">
+    <animate attributeName="opacity" values="0.6;0.1;0.6" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="480" cy="280" r="1.5" fill="#F5D86E" opacity="0.4">
+    <animate attributeName="opacity" values="0.4;0.05;0.4" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="300" cy="150" r="2" fill="#E8B830" opacity="0.5">
+    <animate attributeName="opacity" values="0.5;0.1;0.5" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="550" cy="400" r="1.5" fill="#F5D86E" opacity="0.3">
+    <animate attributeName="opacity" values="0.3;0.05;0.3" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="120" cy="420" r="1.5" fill="#E8B830" opacity="0.4">
+    <animate attributeName="opacity" values="0.4;0.05;0.4" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
 </svg>

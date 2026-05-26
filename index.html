@@ -25,7 +25,16 @@
 
       <nav class="header-nav" id="headerNav">
         <a href="index.html" class="active">Início</a>
-        <a href="produtos.html">Produtos</a>
+        <div class="nav-dropdown">
+          <a href="produtos.html" id="produtosToggle">Produtos ▼</a>
+          <div class="dropdown-menu" id="produtosMenu">
+            <a href="ervas.html">🌱 Ervas</a>
+            <a href="defumadores.html">🕯️ Defumadores</a>
+            <a href="velas.html">🕯️ Velas</a>
+            <a href="kits.html">🎁 Kits</a>
+            <a href="produtos.html">Ver Catálogo</a>
+          </div>
+        </div>
         <a href="sobre.html">Cabocla Jupira</a>
         <a href="contato.html">Contato</a>
         <button class="cart-btn" onclick="showCart()">
@@ -43,16 +52,40 @@
   <section class="hero">
     <div class="container">
       <div class="hero-content">
-        <h1 class="animate">Casa de Ervas<br>Jupira</h1>
-        <p class="subtitle animate delay-1">"Princesa das matas, guerreira flecheira"</p>
-        <p class="animate delay-2">Ervas, defumações, velas e rituais inspirados na força da Cabocla Jupira — filha de Jurema, guardiã das matas. Cada produto é preparado com fé e ancestralidade.</p>
-        <div class="hero-buttons animate delay-3">
+        <h1 class="reveal">Casa de Ervas<br>Jupira</h1>
+        <p class="subtitle reveal" style="transition-delay:0.15s">"Princesa das matas, guerreira flecheira"</p>
+        <p class="reveal" style="transition-delay:0.3s">Ervas, defumações, velas e rituais inspirados na força da Cabocla Jupira — filha de Jurema, guardiã das matas. Cada produto é preparado com fé e ancestralidade.</p>
+        <div class="hero-buttons reveal" style="transition-delay:0.45s">
           <a href="produtos.html" class="btn btn-primary">🌿 Ver Produtos</a>
           <a href="sobre.html" class="btn btn-secondary">📖 Conhecer Jupira</a>
         </div>
       </div>
-      <div class="hero-visual">
+      <div class="hero-visual reveal">
         <img src="assets/images/cabocla-jupira.svg" alt="Cabocla Jupira — guerreira flecheira" width="400">
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== STATS ===== -->
+  <section class="section section-beige">
+    <div class="container">
+      <div class="stats-grid" id="statsGrid">
+        <div class="stat-card reveal-scale">
+          <div class="numero" data-target="84">0</div>
+          <div class="label">🌿 Produtos</div>
+        </div>
+        <div class="stat-card reveal-scale" style="transition-delay:0.1s">
+          <div class="numero" data-target="8">0</div>
+          <div class="label">📁 Categorias</div>
+        </div>
+        <div class="stat-card reveal-scale" style="transition-delay:0.2s">
+          <div class="numero" data-target="100">0</div>
+          <div class="label">💚 Clientes Satisfeitos</div>
+        </div>
+        <div class="stat-card reveal-scale" style="transition-delay:0.3s">
+          <div class="numero" data-target="1">0</div>
+          <div class="label">🏹 Linha Jupira</div>
+        </div>
       </div>
     </div>
   </section>
@@ -60,24 +93,24 @@
   <!-- ===== FEATURES ===== -->
   <section class="section" id="ervas">
     <div class="container">
-      <h2 class="section-title">Nossas Energias</h2>
+      <h2 class="section-title reveal">Nossas Energias</h2>
       <div class="features-grid">
-        <div class="feature-card animate">
+        <div class="feature-card reveal-scale">
           <div class="icon">🛡️</div>
           <h3>Proteção</h3>
           <p>Arruda, Guiné e defumações poderosas para limpar e proteger sua energia e seu lar.</p>
         </div>
-        <div class="feature-card animate delay-1">
+        <div class="feature-card reveal-scale" style="transition-delay:0.1s">
           <div class="icon">💰</div>
           <h3>Prosperidade</h3>
           <p>Manjericão, Alecrim e velas especiais para abrir caminhos e atrair fartura.</p>
         </div>
-        <div class="feature-card animate delay-2">
+        <div class="feature-card reveal-scale" style="transition-delay:0.2s">
           <div class="icon">🕊️</div>
           <h3>Paz & Equilíbrio</h3>
           <p>Alfazema, Camomila e Rosa Branca para acalmar o coração e trazer serenidade.</p>
         </div>
-        <div class="feature-card animate delay-3">
+        <div class="feature-card reveal-scale" style="transition-delay:0.3s">
           <div class="icon">🏹</div>
           <h3>Linha Jupira</h3>
           <p>Produtos especiais preparados com ervas que honram a força da Cabocla Jupira.</p>
@@ -86,14 +119,66 @@
     </div>
   </section>
 
-  <!-- ===== SOBRE JUPIRA (RESUMO) ===== -->
+  <!-- ===== CATEGORIAS ===== -->
   <section class="section section-beige">
     <div class="container">
+      <h2 class="section-title reveal">📁 Nossas Categorias</h2>
+      <p class="text-center reveal" style="color:var(--gray);max-width:600px;margin:0 auto 2rem">
+        De ervas secas a acessórios rituais — cada produto preparado com fé e inspirado na Cabocla Jupira.
+      </p>
+      <div class="categorias-grid">
+        <a href="produtos.html?cat=ervas" class="categoria-card reveal-scale">
+          <span class="categoria-icon">🌱</span>
+          <span class="categoria-nome">Ervas</span>
+          <span class="categoria-count">24 itens</span>
+        </a>
+        <a href="produtos.html?cat=defumacao" class="categoria-card reveal-scale" style="transition-delay:0.05s">
+          <span class="categoria-icon">🕯️</span>
+          <span class="categoria-nome">Defumação</span>
+          <span class="categoria-count">14 itens</span>
+        </a>
+        <a href="produtos.html?cat=velas" class="categoria-card reveal-scale" style="transition-delay:0.1s">
+          <span class="categoria-icon">🕯️</span>
+          <span class="categoria-nome">Velas</span>
+          <span class="categoria-count">12 itens</span>
+        </a>
+        <a href="produtos.html?cat=kits" class="categoria-card reveal-scale" style="transition-delay:0.15s">
+          <span class="categoria-icon">🎁</span>
+          <span class="categoria-nome">Kits</span>
+          <span class="categoria-count">12 itens</span>
+        </a>
+        <a href="produtos.html?cat=incensos" class="categoria-card reveal-scale" style="transition-delay:0.2s">
+          <span class="categoria-icon">🪔</span>
+          <span class="categoria-nome">Incensos</span>
+          <span class="categoria-count">8 itens</span>
+        </a>
+        <a href="produtos.html?cat=banhos" class="categoria-card reveal-scale" style="transition-delay:0.25s">
+          <span class="categoria-icon">🚿</span>
+          <span class="categoria-nome">Banhos Prontos</span>
+          <span class="categoria-count">8 itens</span>
+        </a>
+        <a href="produtos.html?cat=oferendas" class="categoria-card reveal-scale" style="transition-delay:0.3s">
+          <span class="categoria-icon">🍽️</span>
+          <span class="categoria-nome">Oferendas</span>
+          <span class="categoria-count">6 itens</span>
+        </a>
+        <a href="produtos.html?cat=acessorios" class="categoria-card reveal-scale" style="transition-delay:0.35s">
+          <span class="categoria-icon">🔮</span>
+          <span class="categoria-nome">Acessórios</span>
+          <span class="categoria-count">8 itens</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== SOBRE JUPIRA (RESUMO) ===== -->
+  <section class="section">
+    <div class="container">
       <div class="sobre-grid">
-        <div class="sobre-visual animate">
+        <div class="sobre-visual reveal-left">
           <img src="assets/images/logo-jupira.svg" alt="Símbolo da Cabocla Jupira" width="320" style="margin:0 auto">
         </div>
-        <div class="sobre-texto animate delay-1">
+        <div class="sobre-texto reveal-right">
           <h2>🏹 Okê Jupira!</h2>
           <p>Cabocla Jupira é a <strong>princesa das matas</strong>, guerreira flecheira, filha primogênita da Cabocla Jurema com o Caboclo Sete Flechas. Veloz, inquieta e destemida — nunca fugiu de uma batalha.</p>
           <p>Hoje, trabalha na Umbanda realizando <strong>descarregos e limpeza de ambientes</strong>. Sua postura é firme, seus olhos quase não se abrem — mas sua força é imensa.</p>
@@ -113,13 +198,13 @@
   </section>
 
   <!-- ===== PRODUTOS EM DESTAQUE ===== -->
-  <section class="section" id="destaques">
+  <section class="section section-beige" id="destaques">
     <div class="container">
-      <h2 class="section-title">🌿 Produtos em Destaque</h2>
+      <h2 class="section-title reveal">🌿 Produtos em Destaque</h2>
       <div class="produtos-grid" id="produtosGrid">
         <!-- Rendered by JS -->
       </div>
-      <div class="text-center mt-2">
+      <div class="text-center mt-2 reveal">
         <a href="produtos.html" class="btn btn-primary">Ver Catálogo Completo</a>
       </div>
     </div>
@@ -127,7 +212,7 @@
 
   <!-- ===== DEPOIMENTO ===== -->
   <section class="section section-dark">
-    <div class="container" style="text-align:center;max-width:700px">
+    <div class="container reveal" style="text-align:center;max-width:700px">
       <p style="font-family:var(--font-quote);font-size:1.3rem;font-style:italic;margin-bottom:16px">
         "A Casa de Ervas Jupira chegou na minha vida como um banho de axé. Cada erva vem com uma energia que sinto no corpo todo. Okê Jupira!"
       </p>
@@ -142,7 +227,7 @@
 
   <!-- ===== WHATSAPP ===== -->
   <section class="section" id="whatsapp">
-    <div class="container" style="text-align:center;max-width:600px">
+    <div class="container reveal" style="text-align:center;max-width:600px">
       <h2 class="section-title">💬 Fale Conosco</h2>
       <p style="color:var(--gray);margin-bottom:24px;font-size:1.05rem">
         Tem dúvidas sobre nossos produtos ou quer um atendimento personalizado?<br>
@@ -213,15 +298,16 @@
   <script src="js/cart.js"></script>
   <script src="js/main.js"></script>
   <script>
-    // Show featured products on home (show first 4)
+    // Show featured products on home (first 4)
     document.addEventListener('DOMContentLoaded', () => {
       const grid = document.getElementById('produtosGrid');
       if (grid) {
         const destaques = CATALOGO.slice(0, 4);
         grid.innerHTML = destaques.map(prod => {
-          const badgeClass = prod.badge === 'Linha Jupira' ? 'badge-jupira' : '';
+          const badgeClass = prod.badge === 'Linha Jupira' ? 'badge-jupira' :
+                             prod.badge === '🌟 Especial' ? 'badge-especial' : '';
           return `
-            <div class="produto-card animate">
+            <div class="produto-card reveal-scale">
               <div class="img-wrap">
                 <img src="${prod.img}" alt="${prod.nome}" loading="lazy">
                 ${prod.badge ? `<span class="badge ${badgeClass}">${prod.badge}</span>` : ''}
@@ -229,8 +315,10 @@
               <div class="info">
                 <h3>${prod.nome}</h3>
                 <div class="energia">🏹 ${prod.energia}</div>
+                <div class="sku">SKU: ${prod.sku}</div>
                 <div class="desc">${prod.desc}</div>
                 <div class="preco">${formatPreco(prod.preco)}</div>
+                <div class="validade">⏳ Validade: ${prod.validade}</div>
                 <div class="actions">
                   <button class="btn btn-primary btn-sm" onclick="cartAdd('${prod.id}')">🛒 Adicionar</button>
                   <button class="btn btn-whatsapp btn-sm" onclick="buyWhatsApp('${prod.id}')">💬 Comprar</button>
