@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rituais de Ervas | Casa de Ervas Jupira</title>
+  <meta name="description" content="Rituais autênticos com ervas da Cabocla Jupira. Banhos, defumações e proteções poderosas.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Inter:wght@400;500;600;700&family=DM+Serif+Display:ital@0;1&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="assets/jupira.jpeg" type="image/svg+xml">
+</head>
+<body>
+
+  <!-- ===== HEADER ===== -->
+  <header class="header" id="header">
+    <div class="container">
+      <a href="index.html" class="header-logo">
+        <img src="assets/jupira.jpeg" alt="Casa de Ervas Jupira" width="44" height="44">
+        <div>
+          <span>Casa de Ervas Jupira</span>
+          <small>Okê Jupira! 🙏</small>
+        </div>
+      </a>
+      <nav class="header-nav" id="headerNav">
+        <a href="index.html">Início</a>
+        <div class="nav-dropdown">
+          <a href="produtos.html" id="produtosToggle">Produtos ▼</a>
+          <div class="dropdown-menu" id="produtosMenu">
+            <a href="ervas.html">🌱 Ervas</a>
+            <a href="defumadores.html">🕯️ Defumadores</a>
+            <a href="velas.html">🕯️ Velas</a>
+            <a href="kits.html">🎁 Kits</a>
+            <a href="produtos.html">Ver Catálogo</a>
+          </div>
+        </div>
+        <a href="sobre.html">Cabocla Jupira</a>
+        <a href="blog.html">Blog</a>
+        <a href="contato.html">Contato</a>
+        <button class="cart-btn" onclick="showCart()">🛒 Carrinho <span class="cart-count">0</span></button>
+      </nav>
+      <button class="mobile-toggle" id="mobileToggle"><span></span><span></span><span></span></button>
+    </div>
+  </header>
+
+  <!-- ===== RITUAIS HEADER ===== -->
+  <section class="section section-beige">
+    <div class="container">
+      <div class="section-header reveal">
+        <h1>Rituais de Ervas</h1>
+        <p class="section-subtitle">Práticas espirituais autênticas da Cabocla Jupira</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== RITUAIS CONTENT ===== -->
+  <section class="section">
+    <div class="container">
+      <div class="rituais-list">
+        <!-- Ritual 1 -->
+        <div class="ritual-card reveal">
+          <div class="ritual-header">
+            <span class="ritual-num">1</span>
+            <h2>Banho de Proteção com Arruda e Guiné</h2>
+            <span class="ritual-time">⏱️ 15 minutos</span>
+          </div>
+          <div class="ritual-content">
+            <div class="ritual-info">
+              <p><strong>Objetivo:</strong> Proteção total contra energias negativas, miasmas e ataques espirituais.</p>
+              <p><strong>Ervas necessárias:</strong> Arruda, Guiné, Alecrim, Sal de cozinha.</p>
+              <p><strong>Dias ideais:</strong> Segunda-feira, Quarta-feira, Sábado.</p>
+            </div>
+            <div class="ritual-passos">
+              <h4>Passo a passo:</h4>
+              <ol>
+                <li>Colocar 7 folhas de arruda em um pano de algodão</li>
+                <li>Adicionar 3 folhas de guiné e 1 colher de sopa de alecrim</li>
+                <li>Esquentar em água (não fervente) por 5 minutos</li>
+                <li>Fazer o banho antes de dormir</li>
+                <li>Escovar os cabelos com a água restante</li>
+              </ol>
+            </div>
+          </div>
+        </div>
+
+        <!-- Ritual 2 -->
+        <div class="ritual-card reveal">
+          <div class="ritual-header">
+            <span class="ritual-num">2</span>
+            <h2>Banho de Prosperidade com Manjericão e Alecrim</h2>
+            <span class="ritual-time">⏱️ 20 minutos</span>
+          </div>
+          <div class="ritual-content">
+            <div class="ritual-info">
+              <p><strong>Objetivo:</strong> Atrair prosperidade, fartura e oportunidades financeiras.</p>
+              <p><strong>Ervas necessárias:</strong> Manjericão, Alecrim, Canela, Açafrão.</p>
+              <p><strong>Dias ideais:</strong> Domingo, Terça-feira, Quinta-feira.</p>
+            </div>
+            <div class="ritual-passos">
+              <h4>Passo a passo:</h4>
+              <ol>
+                <li>Colocar 1 maço de manjericão em panela</li>
+                <li>Adicionar 5 folhas de alecrim e 1 pedaço de canela</li>
+                <li>Deixar ferver por 10 minutos</li>
+                <li>Filtrar e adicionar 1 colher de açafrão</li>
+                <li>Fazer o banho da manhã da manhã de domingo</li>
+              </ol>
+            </div>
+          </div>
+        </div>
+
+        <!-- Ritual 3 -->
+        <div class="ritual-card reveal">
+          <div class="ritual-header">
+            <span class="ritual-num">3</span>
+            <h2>Defumação de Limpeza Energética</h2>
+            <span class="ritual-time">⏱️ 10 minutos</span>
+          </div>
+          <div class="ritual-content">
+            <div class="ritual-info">
+              <p><strong>Objetivo:</strong> Limpar ambientes de energias negativas e criar espaço para novas oportunidades.</p>
+              <p><strong>Ervas necessárias:</strong> Alfazema, Sálvia, Eucalipto, Alecrim.</p>
+              <p><strong>Dias ideais:</strong> Todo dia, especialmente quinta-feira.</p>
+            </div>
+            <div class="ritual-passos">
+              <h4>Passo a passo:</h4>
+              <ol>
+                <li>Prender 3 ramos de alfazema com barba de cavalo</li>
+                <li>Adicionar folhas de sálvia e eucalipto</li>
+                <li>Acelerar no vapor ou fogo baixo</li>
+                <li>Circular pelo ambiente em sentido horário</li>
+                <li>Parar no canto mais distante para "apagar" as chamas</li>
+              </ol>
+            </div>
+          </div>
+        </div>
+
+        <!-- Ritual 4 -->
+        <div class="ritual-card reveal">
+          <div class="ritual-header">
+            <span class="ritual-num">4</span>
+            <h2>Ritual da Arruda para Proteção</h2>
+            <span class="ritual-time">⏱️ 7 dias</span>
+          </div>
+          <div class="ritual-content">
+            <div class="ritual-info">
+              <p><strong>Objetivo:</strong> Proteção constante por 7 dias contra qualquer tipo de energia negativa.</p>
+              <p><strong>Ervas necessárias:</strong> Arruda, Sal de cozinha, Água de coco.</p>
+              <p><strong>Dias ideais:</strong> Todo dia das 7 da manhã.</p>
+            </div>
+            <div class="ritual-passos">
+              <h4>Passo a passo:</h4>
+              <ol>
+                <li>Pegar 7 ramos de arruda</li>
+                <li>Misturar com 1 colher de sal</li>
+                <li>Colocar em um pano branco</li>
+                <li>Amarrar com barbante branco</li>
+                <li>Colocar em cada canto da casa por 7 dias</li>
+                <li>Substituir a cada 7 dias</li>
+              </ol>
+            </div>
+          </div>
+        </div>
+
+        <!-- Ritual 5 -->
+        <div class="ritual-card reveal">
+          <div class="ritual-header">
+            <span class="ritual-num">5</span>
+            <h2>Banho de Cura com Camomila e Rosa Branca</h2>
+            <span class="ritual-time">⏱️ 15 minutos</span>
+          </div>
+          <div class="ritual-content">
+            <div class="ritual-info">
+              <p><strong>Objetivo:</strong> Curar o coração, trazer paz interior e equilíbrio emocional.</p>
+              <p><strong>Ervas necessárias:</strong> Camomila, Rosa Branca, Lavanda, Mel.</p>
+              <p><strong>Dias ideais:</strong> Sexta-feira, Domingo, Dia da Lua Cheia.</p>
+            </div>
+            <div class="ritual-passos">
+              <h4>Passo a passo:</h4>
+              <ol>
+                <li>Fazer uma infusão com camomila e rosa branca</li>
+                <li>Adicionar 1 colher de mel</li>
+                <li>Deixar esfriar completamente</li>
+                <li>Fazer o banho noturno</li>
+                <li>Concluir com massagem leve no corpo</li>
+              </ol>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== WHATSAPP CTAF ===== -->
+  <section class="section section-dark">
+    <div class="container reveal" style="text-align:center;max-width:600px">
+      <h2>Quer aprender mais rituais?</h2>
+      <p style="margin-bottom:24px">Solicite nosso guia completo de rituais espirituais!</p>
+      <a href="https://wa.me/557588136678?text=Ol%C3%A1!%20Gostaria%20do%20guia%20completo%20de%20rituais%20espirituais%20da%20Cabocla%20Jupira.%20%C3%A9%20de%20[seu%20nome]%20-%20%F0%9F%8C%BF%20Ok%C3%AA%20Jupira!" target="_blank" class="btn btn-whatsapp">
+        💬 Solicitar guia completo
+      </a>
+    </div>
+  </section>
+
+  <!-- ===== FOOTER ===== -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <img src="assets/jupira.jpeg" alt="Casa de Ervas Jupira" width="40" height="40">
+          <h3>Casa de Ervas Jupira</h3>
+          <p>Ervas, design e espiritualidade — uma casa com alma de cabocla.</p>
+        </div>
+        <div>
+          <h4>Navegação</h4>
+          <a href="index.html">Início</a>
+          <a href="produtos.html">Produtos</a>
+          <a href="sobre.html">Cabocla Jupira</a>
+          <a href="contato.html">Contato</a>
+        </div>
+        <div>
+          <h4>Redes</h4>
+          <a href="https://instagram.com/casadeervasjupira" target="_blank">📸 @casadeervasjupira</a>
+          <a href="https://wa.me/557588136678" target="_blank">💬 (75) 8813-6678</a>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        © 2026 Casa de Ervas Jupira — Todos os direitos reservados. 🙏 Okê Jupira!
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/produtos.js"></script>
+  <script src="js/cart.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>

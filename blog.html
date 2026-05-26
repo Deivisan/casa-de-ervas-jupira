@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dicas & Rituais | Casa de Ervas Jupira</title>
+  <meta name="description" content="Aprenda rituais, banhos de ervas e defumações poderosas com a Cabocla Jupira. Dicas espirituais e energéticas.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Inter:wght@400;500;600;700&family=DM+Serif+Display:ital@0;1&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="assets/jupira.jpeg" type="image/svg+xml">
+</head>
+<body>
+
+  <!-- ===== HEADER ===== -->
+  <header class="header" id="header">
+    <div class="container">
+      <a href="index.html" class="header-logo">
+        <img src="assets/jupira.jpeg" alt="Casa de Ervas Jupira" width="44" height="44">
+        <div>
+          <span>Casa de Ervas Jupira</span>
+          <small>Okê Jupira! 🙏</small>
+        </div>
+      </a>
+      <nav class="header-nav" id="headerNav">
+        <a href="index.html">Início</a>
+        <div class="nav-dropdown">
+          <a href="produtos.html" id="produtosToggle">Produtos ▼</a>
+          <div class="dropdown-menu" id="produtosMenu">
+            <a href="ervas.html">🌱 Ervas</a>
+            <a href="defumadores.html">🕯️ Defumadores</a>
+            <a href="velas.html">🕯️ Velas</a>
+            <a href="kits.html">🎁 Kits</a>
+            <a href="produtos.html">Ver Catálogo</a>
+          </div>
+        </div>
+        <a href="sobre.html">Cabocla Jupira</a>
+        <a href="blog.html" class="active">Blog</a>
+        <a href="contato.html">Contato</a>
+        <button class="cart-btn" onclick="showCart()">🛒 Carrinho <span class="cart-count">0</span></button>
+      </nav>
+      <button class="mobile-toggle" id="mobileToggle"><span></span><span></span><span></span></button>
+    </div>
+  </header>
+
+  <!-- ===== BLOG HEADER ===== -->
+  <section class="section section-beige">
+    <div class="container">
+      <div class="section-header reveal">
+        <h1>Dicas & Rituais</h1>
+        <p class="section-subtitle">Conhecimento espiritual e energético da Cabocla Jupira</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== BLOG CONTENT ===== -->
+  <section class="section">
+    <div class="container">
+      <div class="blog-grid">
+        <!-- Artigo 1 -->
+        <article class="blog-card reveal">
+          <img src="assets/jupira.jpeg" alt="Banhos de Ervas" loading="lazy">
+          <div class="blog-content">
+            <span class="blog-category">Banhos Espirituais</span>
+            <h3>Como Fazer o Banho de 7 Ervas Perfeito</h3>
+            <p class="blog-excerpt">Descubra os segredos para um banho de ervas poderoso que limpa energia negativa e abre caminhos para prosperidade.</p>
+            <a href="#" class="blog-link">Ler Artigo →</a>
+          </div>
+        </article>
+
+        <!-- Artigo 2 -->
+        <article class="blog-card reveal" style="transition-delay:0.1s">
+          <img src="assets/jupira.jpeg" alt="Defumação" loading="lazy">
+          <div class="blog-content">
+            <span class="blog-category">Defumação</span>
+            <h3>7 Ervas para Defumar seu Ambiente</h3>
+            <p class="blog-excerpt">Uma guia completa das ervas mais poderosas para purificação e proteção do seu lar.</p>
+            <a href="#" class="blog-link">Ler Artigo →</a>
+          </div>
+        </article>
+
+        <!-- Artigo 3 -->
+        <article class="blog-card reveal" style="transition-delay:0.2s">
+          <img src="assets/jupira.jpeg" alt="Rituais" loading="lazy">
+          <div class="blog-content">
+            <span class="blog-category">Rituais</span>
+            <h3>Ritual da Arruda: Proteção Total</h3>
+            <p class="blog-excerpt">Aprenda o ritual clássico da arruda para proteger sua casa e sua família de energias negativas.</p>
+            <a href="#" class="blog-link">Ler Artigo →</a>
+          </div>
+        </article>
+
+        <!-- Artigo 4 -->
+        <article class="blog-card reveal">
+          <img src="assets/jupira.jpeg" alt="Velas" loading="lazy">
+          <div class="blog-content">
+            <span class="blog-category">Velas Aromáticas</span>
+            <h3>Combinações de Velas para Cada Objetivo</h3>
+            <p class="blog-excerpt">Quer atrair amor, prosperidade ou proteção? Conheça as combinações perfeitas de velas da nossa linha Jupira.</p>
+            <a href="#" class="blog-link">Ler Artigo →</a>
+          </div>
+        </article>
+
+        <!-- Artigo 5 -->
+        <article class="blog-card reveal" style="transition-delay:0.1s">
+          <img src="assets/jupira.jpeg" alt="Ervas Medicinais" loading="lazy">
+          <div class="blog-content">
+            <span class="blog-category">Ervas Medicinais</span>
+            <h3>Guia das Ervas: Propriedades e Usos</h3>
+            <p class="blog-excerpt">Conheça todas as ervas da Casa de Ervas Jupira e suas propriedades energéticas e medicinais.</p>
+            <a href="#" class="blog-link">Ler Artigo →</a>
+          </div>
+        </article>
+
+        <!-- Artigo 6 -->
+        <article class="blog-card reveal" style="transition-delay:0.2s">
+          <img src="assets/jupira.jpeg" alt="Kits" loading="lazy">
+          <div class="blog-content">
+            <span class="blog-category">Kits Espirituais</span>
+            <h3>Qual Kit Escolher para Sua Jornada?</h3>
+            <p class="blog-excerpt">Guiamos você para escolher o kit perfeito de acordo com sua intenção: proteção, prosperidade ou cura.</p>
+            <a href="#" class="blog-link">Ler Artigo →</a>
+          </div>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== WHATSAPP CTAF ===== -->
+  <section class="section section-dark">
+    <div class="container reveal" style="text-align:center;max-width:600px">
+      <h2>Quer mais dicas?</h2>
+      <p style="margin-bottom:24px">Solicite nossas recomendações personalizadas!</p>
+      <a href="https://wa.me/557588136678?text=Ol%C3%A1!%20Quero%20recomenda%C3%A7%C3%B5es%20personalizadas%20das%20ervas%20da%20Cabocla%20Jupira.%20%C3%A9%20de%20[seu%20nome]%20-%20%F0%9F%8C%BF%20Ok%C3%AA%20Jupira!" target="_blank" class="btn btn-whatsapp">
+        💬 Peça suas recomendações
+      </a>
+    </div>
+  </section>
+
+  <!-- ===== FOOTER ===== -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <img src="assets/jupira.jpeg" alt="Casa de Ervas Jupira" width="40" height="40">
+          <h3>Casa de Ervas Jupira</h3>
+          <p>Ervas, design e espiritualidade — uma casa com alma de cabocla.</p>
+        </div>
+        <div>
+          <h4>Navegação</h4>
+          <a href="index.html">Início</a>
+          <a href="produtos.html">Produtos</a>
+          <a href="sobre.html">Cabocla Jupira</a>
+          <a href="contato.html">Contato</a>
+        </div>
+        <div>
+          <h4>Redes</h4>
+          <a href="https://instagram.com/casadeervasjupira" target="_blank">📸 @casadeervasjupira</a>
+          <a href="https://wa.me/557588136678" target="_blank">💬 (75) 8813-6678</a>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        © 2026 Casa de Ervas Jupira — Todos os direitos reservados. 🙏 Okê Jupira!
+      </div>
+    </div>
+  </footer>
+
+  <!-- WhatsApp Float -->
+  <a href="https://wa.me/557588136678?text=Ol%C3%A1!%20Vim%20pela%20Casa%20de%20Ervas%20Jupira%20%F0%9F%8C%BF%20Ok%C3%AA%20Jupira!" target="_blank" class="whatsapp-float">💬</a>
+
+  <script src="js/produtos.js"></script>
+  <script src="js/cart.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>
