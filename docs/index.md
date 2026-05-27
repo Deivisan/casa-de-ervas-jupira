@@ -13,6 +13,7 @@ Centro de documentação do ecossistema.
 | Instagram       | `src/instagram/`            | Calendário e geração de imagens    |
 | Loja            | `src/loja/`                 | Catálogo, site, checkout           |
 | Catálogo Expandido | `docs/catalogo/`         | Imagens reais, fichas, preços de referência e questionário |
+| NotebookLM      | `notebook.lm/`              | Fonte limpa para prompts, imagens, posts e vídeos |
 | Agentes Detalhe | `src/agents/`               | Configuração de cada agente        |
 | Visão           | `docs/vision/manifesto.md`  | Manifesto — história da Cabocla Jupira |
 | Templates       | `templates/`                | Modelos de post e página           |
