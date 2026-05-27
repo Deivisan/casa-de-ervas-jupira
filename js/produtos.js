@@ -127,8 +127,46 @@ const CATALOGO = [
   { id: 'acess-sino',        nome: 'Sino Ritual',              categoria: 'acessorios', energia: 'Chamado',         preco: 18.00, validade: 'Ilimitada', sku: 'ACE-005', badge: null, img: 'https://images.pexels.com/photos/719496/pexels-photo-719496.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400', desc: 'Sino artesanal para abertura de trabalhos espirituais. Som limpo e vibrante.' },
   { id: 'acess-tigela',      nome: 'Tigela de Barro',          categoria: 'acessorios', energia: 'Utilitário',    preco: 20.00, validade: 'Ilimitada', sku: 'ACE-006', badge: null, img: 'https://images.pexels.com/photos/1853882/pexels-photo-1853882.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400', desc: 'Tigela artesanal de barro. Para oferendas e preparo de banhos.' },
   { id: 'acess-velas-cores', nome: 'Kit Velas Coloridas (5un)', categoria: 'acessorios', energia: 'Variada',       preco: 15.00, validade: '36 meses', sku: 'ACE-007', badge: null, img: 'https://images.pexels.com/photos/2082105/pexels-photo-2082105.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400', desc: '5 velas coloridas (amarela, verde, vermelha, azul, branca). Para seus rituais.' },
-  { id: 'acess-defumador',   nome: 'Defumador de Metal',       categoria: 'acessorios', energia: 'Praticidade',    preco: 28.00, validade: 'Ilimitada', sku: 'ACE-008', badge: null, img: 'https://images.pexels.com/photos/1853882/pexels-photo-1853882.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400', desc: 'Defumador de metal com cabo. Prático e seguro para defumações diárias.' },
+   { id: 'acess-defumador',   nome: 'Defumador de Metal',       categoria: 'acessorios', energia: 'Praticidade',    preco: 28.00, validade: 'Ilimitada', sku: 'ACE-008', badge: null, img: 'https://images.pexels.com/photos/1853882/pexels-photo-1853882.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400', desc: 'Defumador de metal com cabo. Prático e seguro para defumações diárias.' },
+
+  // ==========================================================
+  // 🕯️ VELAS FIGURATIVAS (3 itens) — NOVOS PRODUTOS
+  // ==========================================================
+  { id: 'vela-cifrão',    nome: 'Vela Cifrão',    categoria: 'velas', energia: 'Prosperidade financeira', preco: 12.00, validade: '36 meses', sku: 'VEL-CIF-001', badge: '💰 Atração', img: 'https://images.pexels.com/photos/36256002/pexels-photo-36256002.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400', desc: 'A vela de cifrão é um artefato esotérico moldado no formato do símbolo de dinheiro ($). Utilizada em rituais para atrair prosperidade, abrir caminhos profissionais e desbloquear ganhos financeiros.' },
+  { id: 'vela-sapo',      nome: 'Vela Sapo',      categoria: 'velas', energia: 'Amarração e domínio', preco: 12.00, validade: '36 meses', sku: 'VEL-SAP-001', badge: null, img: 'https://images.pexels.com/photos/1082908/pexels-photo-1082908.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400', desc: 'Vela figurativa utilizada em rituais de religiões de matriz africana. Elemento de magia simpática onde o formato do animal direciona intenções específicas: amarração, domínio, submissão, transformação e limpeza.' },
+  { id: 'vela-caveira',   nome: 'Vela Caveira',   categoria: 'velas', energia: 'Transformação e ancestralidade', preco: 12.00, validade: '36 meses', sku: 'VEL-CAV-001', badge: null, img: 'https://images.pexels.com/photos/1259491/pexels-photo-1259491.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400', desc: 'Vela para rituais esotéricos, Umbanda e Quimbanda. Representa a mente e ancestralidade. Utilizada para influenciar pensamentos, limpezas espirituais, proteção, banimento e trabalhos de domínio.' },
+
+  // ==========================================================
+  // 🕯️ VELAS ANATÔMICAS (2 itens) — NOVOS PRODUTOS
+  // ==========================================================
+  { id: 'vela-pé',        nome: 'Cera formato Pé', categoria: 'velas', energia: 'Movimento e caminho', preco: 20.00, validade: '36 meses', sku: 'VEL-PE-001', badge: null, img: 'https://images.pexels.com/photos/33227173/pexels-photo-33227173.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400', desc: 'Cera anatômica em formato de pé. Utilizada em rituais de amarração, abertura de caminhos e prosperidade. Famosa pelo trabalho "Chora nos meus pés". Muito usada em religiões de matriz africana.' },
+  { id: 'vela-cabeça',    nome: 'Cera cabeça',    categoria: 'velas', energia: 'Cura mental e espiritual', preco: 38.00, validade: '36 meses', sku: 'VEL-CAB-001', badge: null, img: 'https://images.pexels.com/photos/1131487/pexels-photo-1131487.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400', desc: 'Cera anatômica em formato de cabeça. Utilizada para pedir cura de doenças mentais, físicas ou espirituais. Também usada como ex-voto de graça alcançada e em trabalhos de amarração.' },
+
+  // ==========================================================
+  // 🕯️ VELAS ESPECIAIS (1 item) — NOVOS PRODUTOS
+  // ==========================================================
+  { id: 'vela-casa',      nome: 'Casa de cera',   categoria: 'velas', energia: 'Proteção do lar', preco: 20.00, validade: '36 meses', sku: 'VEL-CASA-001', badge: null, img: 'https://images.pexels.com/photos/2082105/pexels-photo-2082105.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400', desc: 'Representação oca de casa em cera branca/amarelada sem pavio. Utilizada para pedir proteção do lar, compra de casa própria ou gratidão por graça alcançada relacionada à moradia.' },
+
+  // ==========================================================
+  // 🕯️ VELAS COLORIDAS SIMPLES (4 itens) — NOVOS PRODUTOS
+  // ==========================================================
+  { id: 'vela-amarela',         nome: 'Vela amarela',         categoria: 'velas', energia: 'Prosperidade financeira', preco: 6.00, validade: '36 meses', sku: 'VEL-AMAR-001', badge: 'Pacote', img: 'https://images.pexels.com/photos/33227173/pexels-photo-33227173.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400', desc: 'Ideal para acender pedindo prosperidade e caminho financeiro. Dedicada a ciganos, caboclos e orixá Oxum.' },
+  { id: 'vela-verde',           nome: 'Vela verde',           categoria: 'velas', energia: 'Saúde e fartura', preco: 6.00, validade: '36 meses', sku: 'VEL-VERDE-001', badge: 'Pacote', img: 'https://images.pexels.com/photos/11583514/pexels-photo-11583514.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400', desc: 'Ideal para saúde, fartura e caminhos de mesa cheia. Dedicada a caboclos, boiadeiros e orixá Oxóssi.' },
+  { id: 'vela-azul',            nome: 'Vela azul',            categoria: 'velas', energia: 'Paz e tranquilidade', preco: 6.00, validade: '36 meses', sku: 'VEL-AZUL-001', badge: 'Pacote', img: 'https://images.pexels.com/photos/33818568/pexels-photo-33818568.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400', desc: 'Ideal para pedir paz e votos a Iemanjá. Pedindo tranquilidade e proteção. Dedicada a Iemanjá, marujos e Ibejis.' },
+  { id: 'vela-preta-vermelha',  nome: 'Vela preta e vermelha', categoria: 'velas', energia: 'Força e transformação', preco: 6.50, validade: '36 meses', sku: 'VEL-PV-001', badge: 'Pacote', img: 'https://images.pexels.com/photos/1082908/pexels-photo-1082908.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400', desc: 'Ideal para Exu e Pomba Gira. Realizar firmeza e trabalhos espirituais. Muito usada em amarração e trabalhos de força.' },
+
+  // ==========================================================
+  // 🌱 ERVAS EXPANDIDAS — Enriquecimento de Descrições (8 itens)
+  // ==========================================================
+  { id: 'hibisco',        nome: 'Hibisco',        categoria: 'ervas', energia: 'Amor-próprio', preco: 5.00, validade: '12 meses', sku: 'ERV-HIB-001', badge: '💕 Nova', img: 'https://images.pexels.com/photos/1131487/pexels-photo-1131487.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400', desc: 'Erva de amor-próprio, sensualidade, autoestima e vitalidade. Banhos para abrir caminhos afetivos. Diurética, ajuda retenção de líquidos, pressão arterial e colesterol. Rico em antioxidantes.' },
 ];
+
+// ==========================================================
+// Comentário: Novos produtos adicionados em 27/05/2026
+// - 10 velas (figurativas + anatômicas + especiais + coloridas)
+// - 1 erva nova (Hibisco)
+// Total de produtos agora: 95 itens
+// ==========================================================
 
 // ==========================================================
 // Helpers
