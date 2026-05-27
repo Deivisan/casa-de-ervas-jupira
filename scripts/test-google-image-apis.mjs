@@ -56,6 +56,32 @@ async function testGeminiApiKey(apiKey) {
   console.log(`modelos disponíveis: ${models.length}`);
   console.log(`candidatos imagem: ${imageCandidates.join(', ') || 'nenhum candidato explícito'}`);
 
+  const imagenModel = 'imagen-4.0-generate-001';
+  const imagenUrl = `https://generativelanguage.googleapis.com/v1beta/models/${imagenModel}:predict`;
+  const imagen = await requestJson(imagenUrl, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json', 'x-goog-api-key': apiKey },
+    body: JSON.stringify({
+      instances: [{ prompt: 'A professional studio photo of a green leaf and a golden candle on natural straw, warm golden light, no text' }],
+      parameters: { sampleCount: 1, aspectRatio: '1:1', personGeneration: 'dont_allow' },
+    }),
+  });
+  console.log(`imagen predict ${imagenModel}: ${imagen.status} ${imagen.statusText}`);
+  if (imagen.ok) {
+    const prediction = imagen.json?.predictions?.[0];
+    const b64 = prediction?.bytesBase64Encoded || prediction?.image?.bytesBase64Encoded;
+    if (b64) {
+      mkdirSync(outDir, { recursive: true });
+      const file = join(outDir, `gemini-${imagenModel}.png`);
+      writeFileSync(file, Buffer.from(b64, 'base64'));
+      console.log(`  imagem gerada: ${file}`);
+      return true;
+    }
+    console.log('  resposta ok, mas sem bytes de imagem reconhecidos');
+  } else {
+    console.log(`  erro: ${imagen.json?.error?.message || imagen.text.slice(0, 220)}`);
+  }
+
   const candidateOrder = [
     'gemini-2.5-flash-image-preview',
     'gemini-2.0-flash-preview-image-generation',
