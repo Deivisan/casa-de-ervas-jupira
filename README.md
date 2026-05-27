@@ -61,12 +61,12 @@ casa-de-ervas-jupira/
 │
 │   🏠 SITE (GitHub Pages — estático)
 ├── 📄 index.html                  # Home — hero, destaques, sobre Jupira
-├── 📄 produtos.html               # Catálogo completo com filtros
-├── 📄 velas.html                  # Velas aromáticas (12 produtos)
-├── 📄 defumadores.html            # Incensos & Defumadores (14 produtos)
-├── 📄 ervas.html                  # Ervas secas (24 produtos)
-├── 📄 kits.html                   # Kits espirituais (12 produtos)
-├── 📄 acessorios.html             # Acessórios espirituais (8 produtos)
+├── 📄 produtos.html               # Catálogo completo com filtros (30 produtos)
+├── 📄 velas.html                  # Velas aromáticas (10 produtos reais)
+├── 📄 defumadores.html            # Defumadores genéricos (1 produto)
+├── 📄 ervas.html                  # Ervas secas (12 produtos reais)
+├── 📄 kits.html                   # Kits espirituais (arquivo legado)
+├── 📄 acessorios.html             # Acessórios espirituais (5 produtos reais)
 ├── 📄 produto.html                # Página dinâmica de cada produto
 ├── 📄 sobre.html                  # História completa da Cabocla Jupira
 ├── 📄 contato.html                # WhatsApp, Instagram, mensagens rápidas
@@ -74,7 +74,7 @@ casa-de-ervas-jupira/
 ├── 📁 css/
 │   └── 📄 style.css               # Estilo completo (cores cabocla)
 ├── 📁 js/
-│   ├── 📄 produtos.js             # Catálogo com 84+ produtos
+│   ├── 📄 produtos.js             # Catálogo com 30 produtos reais (velas, ervas, acessórios)
 │   ├── 📄 cart.js                 # Carrinho + WhatsApp integration
 │   └── 📄 main.js                 # Navegação, filtros, renderização
 ├── 📁 assets/
@@ -183,6 +183,22 @@ xdg-open index.html
 
 ---
 
+## 🗂️ Catálogo (REAL)
+
+**Eliminadas 73 itens mockados.** Apenas produtos verificados com imagens e descrições reais:
+
+| Categoria       | Qtd | Preço Mín | Preço Máx | Detalhes |
+|-----------------|-----|-----------|-----------|----------|
+| 🕯️ Velas        | 10  | R$ 6,00   | R$ 38,00  | Figurativas, anatômicas, coloridas |
+| 🌱 Ervas        | 12  | R$ 5,00   | R$ 12,00  | Fitoenergética + fitoterapia |
+| 🛍️ Acessórios   | 5   | R$ 15,00  | R$ 35,00  | Pembas, pós, guias, bonecos, abanos |
+| 🕯️ Defumadores  | 1   | R$ 5,00   | R$ 5,00   | Conforme embalagem |
+| **TOTAL**       | **30**| **R$ 5,00**| **R$ 38,00**| **Todos verificados** |
+
+**Acesse:** `js/produtos.js` · **Documentação:** `agentes.md`
+
+---
+
 ## 📊 Status do Projeto
 
 | Área              | Status            | Observação                                |
@@ -194,8 +210,8 @@ xdg-open index.html
 | Agentes           | ✅ Concluído      | 4 agentes documentados                    |
 | Logotipo          | ✅ Concluído      | Imagem oficial `jupira.jpeg` (RPA)       |
 | Ilustração        | ❌ Removido       | SVGs removidos para foco no logo central  |
-| Catálogo Digital  | ✅ Concluído      | 84 produtos com carrinho + WhatsApp       |
-| Fotos de Produtos | ✅ Concluído      | Imagens reais de ervas do Pexels          |
+| Catálogo Digital  | ✅ Concluído      | 30 produtos reais verificados + imagens  |
+| Fotos de Produtos | ✅ Concluído      | 12 drive-originals + 18 Pexels           |
 | Domínio Próprio   | ⏳ Futuro         | Se o cliente quiser um domínio .com       |
 
 ---
