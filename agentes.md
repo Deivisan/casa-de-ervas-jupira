@@ -2,7 +2,7 @@
 
 Sistema de agentes autônomos para orquestrar o ecossistema criativo da Casa de Ervas Jupira.
 
-**Última atualização:** 27/05/2026 | Catálogo: 30 produtos reais | Imagens: drive-originals + Pexels
+**Última atualização:** 27/05/2026 | Catálogo: 29 produtos | Imagens: 36 prompts de geração prontos | Status: Aguardando foto das mãos + logo
 
 ---
 
@@ -53,19 +53,19 @@ Sistema de agentes autônomos para orquestrar o ecossistema criativo da Casa de 
 ## 📦 Catálogo de Produtos (REAL)
 
 **Arquivo:** `js/produtos.js`  
-**Total:** 30 produtos verificados  
+**Total:** 29 produtos verificados  
 **Faixa de preço:** R$ 5,00 – R$ 38,00  
-**Imagens:** drive-originals (reais) + Pexels (complementares)
+**Imagens:** drive-originals (reais) + Pexels (complementares) + 36 prompts gerados
 
 ### 📊 Distribuição por Categoria
 
 | Categoria | Quantidade | Preço Mín. | Preço Máx. | Descrição |
 |-----------|-----------|-----------|-----------|-----------|
 | 🕯️ Velas | 10 | R$ 6,00 | R$ 38,00 | Figurativas, anatômicas, coloridas |
-| 🌱 Ervas | 12 | R$ 5,00 | R$ 12,00 | Ervas com fitoenergética + fitoterapia |
+| 🌱 Ervas | 12 | R$ 5,00 | R$ 12,00 | Ervas com fitoenergética + fitoterapia (36 prompts gerados) |
 | 🛍️ Acessórios | 6 | R$ 15,00 | R$ 35,00 | Pembas, pós, guias, bonecos, abanos |
 | 🕯️ Defumadores | 1 | R$ 5,00 | R$ 5,00 | Genéricos (conforme embalagem) |
-| **TOTAL** | **29** | **R$ 5,00** | **R$ 38,00** | |
+| **TOTAL** | **29** | **R$ 5,00** | **R$ 38,00** | 23 com imagens + 12 aguardando geração |
 
 ### 🎯 Produtos Destaque (com imagens reais)
 
@@ -88,6 +88,62 @@ Sistema de agentes autônomos para orquestrar o ecossistema criativo da Casa de 
 5. **Pós Ritualísticos** (R$ 35,00)
    - Imagem: `assets/drive-originals/pos-magicos-7-exu-7-desgraca-7-diabo-po-da-peste-corredeira-preta.jpg`
    - Energia: Trabalhos espirituais
+
+---
+
+## 🌿 Metodologia de Geração de Imagens
+
+**Arquivo:** `PROMPTS-GERACAO-IMAGENS.md`  
+**Status:** ✅ 36 prompts prontos  
+**Foco:** 12 ervas × 3 ângulos cada
+
+### 📐 Os 3 Ângulos Padronizados
+
+| Ângulo | Contexto | Foco | Uso |
+|--------|----------|------|-----|
+| **1** | POV Mãos | Textura, naturalidade | Capa do produto |
+| **2** | Embalagem Frontal | Produto comercial | Galeria principal |
+| **3** | Display Rústico | Estética, abundância | Social media |
+
+### 📋 Estrutura do Prompt
+
+Cada prompt contém:
+- **Contexto Visual:** Tipo de fotografia (POV, still life, flat lay)
+- **Elementos Principais:** Erva + interação (mãos/embalagem/mesa)
+- **Especificidades Botânicas:** Cores, texturas, formas características
+- **Lighting:** Tipo de iluminação (natural, estúdio, ambiente)
+- **Qualidade:** Resolução, fotorealismo, estilo fotográfico
+
+### 🎯 Ativos Base (Próximos)
+
+Aguardando do cliente:
+- ✅ **Logo Oficial:** Indígena + onça + texto "CASA DE ERVAS JUPIRA"
+- ✅ **Foto das Mãos:** Cliente com palmas abertas viradas para frente
+
+### 🔄 Pipeline de Geração
+
+1. **Input:** Logo + Foto das mãos (referências estruturais)
+2. **Geração:** 36 imagens (12 ervas × 3 ângulos)
+3. **Saída:** `/assets/images/produtos/[erva]-[angulo].jpg`
+4. **Upload:** Atualização automática de `js/produtos.js`
+5. **Deploy:** Commit + Push para GitHub Pages
+
+### 📝 Ervas com Prompts Prontos
+
+1. ✅ Hibisco (Ângulos 1-3)
+2. ✅ Jurema Preta (Ângulos 1-3)
+3. ✅ Erva Cidreira (Ângulos 1-3)
+4. ✅ Arruda (Ângulos 1-3)
+5. ✅ Unha de Gato (Ângulos 1-3)
+6. ✅ Bardana (Ângulos 1-3)
+7. ✅ Camomila (Ângulos 1-3)
+8. ✅ Erva Doce (Ângulos 1-3)
+9. ✅ Eucalipto (Ângulos 1-3)
+10. ✅ Sálvia (Ângulos 1-3)
+11. ✅ Hortelã (Ângulos 1-3)
+12. ✅ Aroeira (Ângulos 1-3)
+
+---
 
 ### 🔗 Estrutura de Dados (Produto)
 
