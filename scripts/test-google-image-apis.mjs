@@ -180,7 +180,12 @@ const env = { ...loadEnv(envPath), ...process.env };
 console.log('testador seguro de apis google de imagem');
 console.log(`env: ${envPath}`);
 
-const geminiOk = await testGeminiApiKey(env.GOOGLE_API_KEY);
+const geminiApiKey = env.GOOGLE_API_KEY || env.GEMINI_API_KEY || env.GOOGLE_VERTEX_AI_KEY;
+if (!env.GOOGLE_API_KEY && env.GOOGLE_VERTEX_AI_KEY) {
+  console.log('info: usando GOOGLE_VERTEX_AI_KEY como chave gemini api vinculada a service account.');
+}
+
+const geminiOk = await testGeminiApiKey(geminiApiKey);
 const vertexOk = await testVertexKey(env);
 
 console.log('\n== resumo ==');

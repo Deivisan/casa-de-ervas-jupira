@@ -43,9 +43,9 @@ function buildPrompt({ product, format, style }) {
 
 async function main() {
   const env = loadEnv();
-  const apiKey = env.GOOGLE_API_KEY || env.GEMINI_API_KEY;
+  const apiKey = env.GOOGLE_API_KEY || env.GEMINI_API_KEY || env.GOOGLE_VERTEX_AI_KEY;
   if (!apiKey) {
-    console.error('erro: defina GOOGLE_API_KEY no .env local. não commite o .env.');
+    console.error('erro: defina GOOGLE_API_KEY ou GOOGLE_VERTEX_AI_KEY no .env local. não commite o .env.');
     process.exit(1);
   }
 

@@ -11,7 +11,7 @@ o repositório tem código seguro para testar e gerar imagens, mas as chaves dev
 
 ## endpoint recomendado para imagem por api key
 
-o caminho mais direto com api key é o imagen pela gemini api:
+o caminho mais direto com api key é o imagen pela gemini api. se a chave foi criada no console vertex/google cloud e está vinculada a uma service account com acesso à gemini api, ela também pode ser testada por este caminho usando o header `x-goog-api-key`.
 
 ```http
 POST https://generativelanguage.googleapis.com/v1beta/models/imagen-4.0-generate-001:predict
@@ -67,13 +67,15 @@ tmp/generated-images/
 ## variáveis no .env local
 
 ```env
-GOOGLE_API_KEY=""
-GOOGLE_VERTEX_AI_KEY=""
+GOOGLE_API_KEY=""          # chave gemini ai studio, geralmente começa com aiza
+GOOGLE_VERTEX_AI_KEY=""    # chave aq vinculada a service account no console vertex/google cloud
 GOOGLE_OAUTH_CLIENT_ID=""
 GOOGLE_CLOUD_PROJECT_ID=""
 GOOGLE_CLOUD_LOCATION="us-central1"
 GOOGLE_IMAGE_MODEL="imagen-4.0-generate-001"
 ```
+
+para a chave `aq...` vinculada à service account, preencha `GOOGLE_VERTEX_AI_KEY` ou `GOOGLE_API_KEY`. os scripts tentam os dois nomes.
 
 ## regra de segurança
 

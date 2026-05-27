@@ -44,7 +44,7 @@ o notebooklm deve criar conteúdo como se fosse um diretor criativo da casa de e
 para testar google gemini/vertex sem expor segredo no git:
 
 1. copie `.env.example` para `.env`.
-2. preencha localmente `GOOGLE_API_KEY`, `GOOGLE_VERTEX_AI_KEY`, `GOOGLE_OAUTH_CLIENT_ID` e, para vertex, `GOOGLE_CLOUD_PROJECT_ID`.
+2. preencha localmente `GOOGLE_API_KEY` ou `GOOGLE_VERTEX_AI_KEY`. se a chave `GOOGLE_VERTEX_AI_KEY` for uma api key vinculada a service account no console vertex/google cloud e liberada para gemini api, os scripts também conseguem testá-la como chave de imagem.
 3. rode:
 
 ```bash
