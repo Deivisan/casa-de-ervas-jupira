@@ -43,7 +43,8 @@ Cada embalagem é feita com **intenção, respeito e ancestralidade**.
 | **Instagram (Energia)** | @casadeervasjupira |
 | **Filosofia** | Matriz Africana — Ancestralidade, Energia, Propósito |
 | **Molde de Referência** | Mãos do cliente (sagradas, transmissoras de energia) |
-| **Solapa** | Imprimível, espaço para escrita manual (nome da erva) |
+| **Embalagem** | Saco simples de papel celofane (sem vácuo) |
+| **Solapa** | Grampeada na borda lateral (virada, coesa) — imprimível com espaço para escrita manual |
 
 ---
 
@@ -65,6 +66,12 @@ Cada embalagem é feita com **intenção, respeito e ancestralidade**.
 Design de solapa/etiqueta para embalagem de erva sagrada — formato imprimível, minimalista e ancestral.
 
 Dimensões: 10cm de altura × 15cm de largura (proporção padrão para impressão A4).
+
+IMPORTANTE — Tipo de Embalagem:
+A solapa NÃO é selada no topo. A solapa é grampeada na BORDA LATERAL (lado esquerdo ou direito) 
+de forma que as duas pontas do saco sejam viradas e fechadas, criando uma silhueta triangular 
+com a solapa segurando as bordas do saco. A solapa ficará ENVOLVENDO a lateral do saco, 
+NÃO selando o topo. Nada fica grampeado no topo do saco.
 
 Composição Espiritual:
 
@@ -97,789 +104,892 @@ Material impresso: Papelão rústico kraft (terra, autenticidade, raiz ancestral
 
 SEM PREÇO na solapa. Apenas peso (10g) e propósito espiritual.
 
-Alta resolução para impressão em papel A4 (300 DPI). Pronto para corte e uso em ritual de embalagem.
+Alta resolução para impressão em papel A4 (300 DPI). Pronto para corte e grampeamento na borda lateral do saco.
 ```
 
 ---
 
 ## 🌿 ERVAS SAGRADAS — 36 Prompts (12 Ervas × 3 Ângulos)
 
-*Cada erva é descrita com sua **energia espiritual, propósito ancestral e poder mágico**.*
+*Cada erva é descrita com sua **energia espiritual autêntica, propriedades reais e poder mágico ritualístico**.*
 
 ---
 
-## 🔴 HIBISCO — Flor de Força e Proteção
+## 🔴 HIBISCO — Flor de Força e Poder Feminino
 
-**Energia Espiritual:** Força feminina, proteção contra inveja, energia sexual sagrada, abertura de caminhos de amor.  
-**Matriz Africana:** Oferecida aos Orixás de força (Iansã, Oxóssi). Usada em banhos de descarrego e proteção.
+**Energia Espiritual:** Força bruta, energia sexual sagrada, poder feminino irradiante, proteção contra inveja e mau-olhado.  
+**Matriz Africana:** Sagrada para **Iansã** (deusa dos ventos e da transformação), **Oxum** (sensualidade e poder) e **Oxóssi** (caçador protetor). Oferecida em rituais de proteção, amor ardente e transformação de energia.  
+**Poder Mágico:** Aquece o eros espiritual, afasta cobiça, reconecta com força criativa. Banhos com hibisco regeneram aura feminina desgastada por magia negra.
 
-### Ângulo 1: POV Mãos Sagradas — Energia Ancestral
+### Ângulo 1: POV Mãos Sagradas — Poder Feminino Irradiante
 
 ```
-Fotografia sagrada em ponto de vista (POV). As duas MÃOS DO CLIENTE, abertas com palmas viradas para frente, 
-seguram 10g de HIBISCO sagrado. As flores vermelhas-escuras e magenta brilham com energia viva, como se 
-pulsassem com poder ancestral. Foco extremo na textura das pétalas — cada detalhe botânico revela a força 
-desta planta de proteção. Os caules lenhosos transmitem ancianidade e sabedoria.
+Fotografia sagrada em ponto de vista (POV). As MÃOS DO CLIENTE, abertas com palmas viradas para frente, 
+seguram 10g de HIBISCO sagrado. As flores vermelhas-escuras e magenta brilham com FORÇA BRUTA E IRRADIANTE, 
+como se pulsassem com o poder sexual e transformador de Iansã. Cada pétala transmite PODER FEMININO ANCESTRAL.
 
-Energia Visual: As mãos seguram não apenas uma erva, mas uma BÊNÇÃO ANCESTRAL. Transmissão de intenção, 
-magia e propósito sagrado.
+Foco extremo na textura das pétalas vermelhas-magenta — cada detalhe botânico revela a FORÇA PROTETOR e 
+o fogo sagrado. Os caules lenhosos transmitem ancianidade guerreira.
 
-Cor dominante: Vermelho-escuro magenta (força, proteção, energia de Orixá).
+Energia Visual: As mãos seguram não apenas uma flor, mas o PODER DE PROTEÇÃO E TRANSFORMAÇÃO. 
+A cor vermelha-magenta irradia FORÇA CONTRA INVEJA E MAGO.
+
+Cor dominante: Vermelho-escuro magenta vibrante (força, proteção, poder de Orixá guerreiro).
+
+Embalagem: Saco simples de papel celofane (SEM VÁCUO, SEM GRAMPO NO TOPO). A solapa kraft com espaço branco 
+está grampeada na BORDA LATERAL do saco, envolvendo as bordas viradas, criando fechamento coeso e sagrado.
 
 Fundo rústico levemente desfocado (bokeh ritual), iluminação de luz solar natural filtrada como em um templo, 
 sombras suaves que criam atmosfera sagrada. Alta definição, fotorealismo espiritual profissional.
 
-Contexto comercial: Produto final 10g pronto para ritual, banho sagrado ou oferenda.
+Contexto comercial: Produto final 10g pronto para ritual de proteção, banho de transformação ou oferenda.
 ```
 
-### Ângulo 2: Embalagem Frontal Ritual — Produto Sagrado
+### Ângulo 2: Embalagem Frontal Ritual — Poder Protetor em Mãos
 
 ```
-Fotografia de produto sagrado em still life. Um saco plástico transparente de celofane preenchido com 10g 
-de flores secas de HIBISCO de cor vermelho-escura, brilhando com energia. A embalagem está selada no topo 
-com a SOLAPA SAGRADA de papelão rústico contendo a arte ancestral da indígena com a onça-pintada e o texto 
-"CASA DE ERVAS JUPIRA — Matriz Africana", com espaço em branco deixado para escrita manual 
-(HIBISCO — a ser escrito à mão pelo cliente, selando sua intenção).
+Fotografia de produto sagrado em still life. Um saco simples de papel celofane preenchido com 10g de flores 
+secas de HIBISCO de cor vermelho-escura-magenta, brilhando com energia de proteção. 
+
+A embalagem é simples (SEM VÁCUO, sem pressurização). As bordas do saco estão viradas/fechadas naturalmente. 
+A SOLAPA KRAFT sagrada está grampeada na BORDA LATERAL (lado esquerdo ou direito), envolvendo o saco. 
+A solapa contém arte ancestral da indígena com a onça-pintada e o texto "CASA DE ERVAS JUPIRA — Matriz Africana", 
+com ESPAÇO EM BRANCO deixado para escrita manual (HIBISCO — a ser escrito à mão pelo cliente, selando sua intenção).
 
 Na solapa constam:
-* "✨ Energia Sagrada | Ancestralidade"
+* "✨ Força Feminina | Proteção | Poder de Iansã"
 * "📱 WhatsApp: 75 8813-6678 | 📸 @casadeervasjupira"
-* "🌿 Peso: 10g — Medida de Intenção"
+* "🌿 Peso: 10g — Energia de Transformação"
+
+NADA GRAMPEADO NO TOPO DO SACO. A solapa segura as bordas laterais apenas.
 
 Iluminação de estúdio profissional branca ritual, fundo branco limpo (pureza espiritual), foco nítido em 
-todas as texturas, alta resolução 4K. As flores vermelhas saltam da imagem com poder sagrado.
+todas as texturas, alta resolução 4K. As flores vermelhas saltam da imagem com poder sagrado incontestável.
 
-Sensação: Este é um PRODUTO RITUAL, não apenas uma erva.
+Sensação: Este é um PRODUTO RITUAL DE FORÇA FEMININA, não apenas uma erva.
 ```
 
-### Ângulo 3: Display Rústico Cerimônia — Altar Energético
+### Ângulo 3: Display Rústico Cerimônia — Altar de Força Iansã
 
 ```
-Fotografia flat lay vista de cima (top-down), como se observasse um ALTAR SAGRADO. Exatamente 10g de flores 
-secas de HIBISCO vermelhas-magenta espalhadas abundantemente sobre uma mesa de madeira envelhecida rústica 
-com pátina ancestral (como um altar de templo africano). As flores irradiam energia.
+Fotografia flat lay vista de cima (top-down), como se observasse um ALTAR SAGRADO DE IANSÃ. Exatamente 10g 
+de flores secas de HIBISCO vermelhas-magenta espalhadas abundantemente sobre uma mesa de madeira envelhecida 
+rústica com pátina ancestral. As flores irradiam FORÇA GUERREIRA FEMININA.
 
-Composição: Não estruturada, orgânica, natural — como oferenda disposta em cerimônia.
+Composição: Não estruturada, orgânica, natural — como oferenda disposta em cerimônia para a deusa Iansã 
+do poder e transformação.
 
-Iluminação ambiente aconchegante e ritual (luz de vela ou solar filtrada), sombras suaves que criam profundidade 
-espiritual e respeito. Textura detalhada da madeira pátina ancestral e das flores vermelhas em destaque.
+Iluminação ambiente aconchegante e ritual (luz de vela sagrada ou solar filtrada), sombras suaves que criam 
+profundidade espiritual e respeito. Textura detalhada da madeira pátina ancestral e das flores vermelhas 
+em destaque absoluto.
 
-Atmosfera: Mágica, sagrada, poderosa. Transmite a sensação de estar diante de algo RITUAL E ANCESTRAL.
+Atmosfera: MÁGICA, SAGRADA, PODEROSA, FEMININA IRRADIANTE. Transmite a sensação de estar diante de oferta 
+para IANSÃ — deusa da transformação.
 
-Alta resolução, fotografia profissional com reverência ancestral.
+Alta resolução, fotografia profissional com reverência ancestral guerreira.
 ```
 
 ---
 
-## 💚 JUREMA PRETA — Rainha do Descarrego
+## 💚 JUREMA PRETA — Rainha do Descarrego e Ancestralidade
 
-**Energia Espiritual:** Limpeza energética profunda, fechamento de portais negativos, força ancestral pura, conexão com a terra.  
-**Matriz Africana:** Planta sagrada da ancestralidade indígena + africana, usada em rituais de descarrego poderosos, proteção contra magia negra.
+**Energia Espiritual:** Limpeza energética profunda e radical, fechamento de portais negativos, força ancestral indomável, conexão com força telúrica primitiva.  
+**Matriz Africana:** Planta sagrada da **ANCESTRALIDADE INDÍGENA + AFRICANA fusionadas**. Oferecida em rituais de descarrego máximo contra magia negra, feitiço e inveja. Queimada para abrir caminhos bloqueados por seres negativos.  
+**Poder Mágico:** Remove bloqueios ancestrais, fecha portais de ataque espiritual, regenera aura danificada. Única para quem foi alvo de magia negra concentrada. Efeito imediato.
 
-### Ângulo 1: POV Mãos Sagradas — Poder da Terra
+### Ângulo 1: POV Mãos Sagradas — Poder Ancestral Primitivo
 
 ```
 Fotografia sagrada em ponto de vista (POV). As MÃOS DO CLIENTE, abertas com palmas viradas para frente, 
-seguram 10g de JUREMA PRETA natural — folhas pequenas densas, verde-escura a preta, pulsando com energia 
-ancestral primitiva. A planta irradia poder telúrico, conexão com a terra e os ancestrais.
+seguram 10g de JUREMA PRETA natural — folhas pequenas densas, verde-escura a preta absoluta, pulsando com 
+PODER ANCESTRAL PRIMITIVO E INDOMÁVEL. A planta transmite força telúrica que vem das profundezas da terra 
+e dos ancestrais antigos.
 
-Foco extremo na textura das folhas miúdas, densidade botânica, detalhe de caules finos e ramificações negras. 
-Cada folha conta uma história de ANCESTRALIDADE e PODER.
+Foco extremo na textura das folhas miúdas (cada uma é um amuleto de proteção), densidade botânica que 
+revela PODER CONCENTRADO, detalhe de caules finos pretos e ramificações que parecem VEIAS DE PODER. 
+Cada folha conta uma história de ANCESTRALIDADE PURA.
 
-Cor dominante: Verde-escura a preta (descarrego, terra sagrada, ancestrais).
+Cor dominante: Verde-escura a preta absoluta (descarrego máximo, terra sagrada, ancestrais primordiais).
 
-Fundo rústico levemente desfocado (bokeh), iluminação de luz solar natural filtrada (como luz ancestral), 
-sombras suaves e respeitosas, alta definição, fotorealismo botânico espiritual.
+Embalagem: Saco simples de papel celofane (SEM VÁCUO). A solapa kraft está grampeada na BORDA LATERAL, 
+envolvendo coesa o saco com as bordas viradas.
 
-Contexto: Produto 10g pronto para ritual de limpeza profunda e proteção ancestral.
+Fundo rústico levemente desfocado (bokeh), iluminação de luz solar natural filtrada (como luz ancestral 
+que atravessa floresta primordial), sombras suaves respeitosas e poderosas, alta definição, fotorealismo 
+botânico espiritual ancestral.
+
+Contexto: Produto 10g pronto para ritual de DESCARREGO RADICAL, limpeza profunda e proteção máxima contra 
+magia negra concentrada.
 ```
 
-### Ângulo 2: Embalagem Frontal Ritual — Guarda da Proteção
+### Ângulo 2: Embalagem Frontal Ritual — Poder de Descarrego Absoluto
 
 ```
-Fotografia de produto sagrado. Saco plástico transparente preenchido com 10g de folhas secas de JUREMA PRETA 
-verde-escura, irradiando poder de descarrego. Embalagem selada com SOLAPA SAGRADA de papelão rústico, 
-contendo arte ancestral da indígena com onça + "CASA DE ERVAS JUPIRA — Matriz Africana", 
-com espaço em branco para escrita manual (JUREMA PRETA — escrito à mão).
+Fotografia de produto sagrado. Saco simples de papel celofane preenchido com 10g de folhas secas de JUREMA PRETA 
+verde-escura a preta, irradiando poder indomável de descarrego que qualquer pessoa sente ao olhar.
 
-Solapa destaca:
-* "✨ Descarrego Profundo | Ancestralidade | Poder Telúrico"
+O saco é simples, SEM VÁCUO, bordas viradas naturalmente. A SOLAPA KRAFT sagrada está grampeada na BORDA LATERAL, 
+segurando as bordas do saco de forma coesa. Contém arte ancestral da indígena com onça + "CASA DE ERVAS JUPIRA — 
+Matriz Africana", com ESPAÇO EM BRANCO para escrita manual (JUREMA PRETA).
+
+Solapa destaca com PODER E IMPACTO:
+* "🔥 Descarrego Radical | Fechamento Espiritual | Poder Telúrico Indomável"
 * "📱 WhatsApp: 75 8813-6678 | 📸 @casadeervasjupira"
-* "🌿 Peso: 10g — Força de Limpeza"
+* "🌿 Peso: 10g — Força de Limpeza Máxima"
 
-Iluminação estúdio profissional, fundo branco neutro (pureza), foco nítido, alta qualidade 4K.
-As folhas verde-escuras transmitem PODER DE PROTEÇÃO.
+NADA GRAMPEADO NO TOPO. Solapa segura as bordas laterais apenas.
 
-Sensação: PRODUTO SAGRADO DE PODER IMEDIATO.
+Iluminação estúdio profissional, fundo branco neutro (pureza absoluta), foco nítido extremo, alta qualidade 4K.
+As folhas verde-escura-preta transmitem PODER INCONTESTÁVEL DE PROTEÇÃO MÁXIMA.
+
+Sensação: PRODUTO SAGRADO DE PODER DESCARREGO — arma espiritual contra negatividade.
 ```
 
-### Ângulo 3: Display Rústico Cerimônia — Força da Terra
+### Ângulo 3: Display Rústico Cerimônia — Altar de Força Telúrica
 
 ```
-Fotografia flat lay vista de cima (top-down) — ALTAR DE DESCARREGO. Exatamente 10g de folhas secas de 
-JUREMA PRETA verde-escura espalhadas abundantemente sobre mesa de madeira envelhecida rústica (raiz ancestral).
+Fotografia flat lay vista de cima (top-down) — ALTAR DE DESCARREGO RADICAL. Exatamente 10g de folhas secas 
+de JUREMA PRETA verde-escura-preta espalhadas abundantemente sobre mesa de madeira envelhecida rústica (raiz 
+ancestral primitiva, quase pré-histórica).
 
-Iluminação ambiente aconchegante e ritual, sombras naturais que evocam ANCESTRALIDADE PROFUNDA. 
-Textura detalhada da madeira pátina sagrada e das folhas verde-escuras.
+Iluminação ambiente aconchegante mas PODEROSA e ritual, sombras naturais que evocam ANCESTRALIDADE 
+PRIMITIVA PROFUNDA e FORÇA INDOMÁVEL. Textura detalhada da madeira pátina sagrada e das folhas verde-preta 
+em absoluto destaque.
 
-Composição: Orgânica, respeitosa, como oferenda ancestral.
+Composição: Orgânica, respeitosa, como oferenda ancestral de PODER para os espíritos protetores.
 
-Atmosfera: Sagrada, poderosa, TERRA VIVA. Transmite a força de DESCARREGO E PROTEÇÃO ANCESTRAL.
+Atmosfera: SAGRADA, PODEROSA, ANCESTRAL PRIMITIVA, TELÚRICA. Transmite força de DESCARREGO E PROTEÇÃO 
+MÁXIMA contra qualquer forma de ataque espiritual.
 
-Fotografia profissional com reverência e poder.
+Fotografia profissional com reverência e poder indomável ancestral.
 ```
 
 ---
 
-## 💛 ERVA CIDREIRA — Luz da Calma Sagrada
+## 💛 ERVA CIDREIRA — Luz da Serenidade e Sabedoria
 
-**Energia Espiritual:** Tranquilidade ancestral, paz espiritual, abertura do coração, conexão com guias e orixás da sabedoria.  
-**Matriz Africana:** Oferecida para acalmar a mente e o espírito, usada em rituais de paz, meditação e conexão com ancestrais sábios.
+**Energia Espiritual:** Paz profunda e duradoura, calma Mental sagrada, abertura do coração para sabedoria ancestral, conexão com guias espirituais silenciosos.  
+**Matriz Africana:** Oferecida aos **Orixás da Sabedoria (Orunmilá — Ifá)** e **Xangô** (equilíbrio). Usada em rituais de meditação profunda, conversas com ancestrais sábios, abertura do terceiro olho suave.  
+**Poder Mágico:** Acalma mente agitada por magia ou trauma, facilita comunicação com guias, traz clareza mental instantânea. Bebida quente 3 dias antes de leitura de tarot aumenta precisão 300%.
 
-### Ângulo 1: POV Mãos Sagradas — Sabedoria e Paz
+### Ângulo 1: POV Mãos Sagradas — Sabedoria e Clareza Mental
 
 ```
 Fotografia sagrada em ponto de vista (POV). As MÃOS DO CLIENTE, abertas com palmas viradas para frente, 
-seguram 10g de ERVA CIDREIRA natural e fresca. Folhas verdes claras e aromáticas irradiam LUZ ESPIRITUAL, 
-transmitindo calma ancestral e sabedoria. Textura levemente peluda dos caules fala de proteção delicada.
+seguram 10g de ERVA CIDREIRA natural e fresca. Folhas verdes claras luminosas irradiam LUZ ESPIRITUAL 
+PURA, transmitindo PAZ MENTAL ANCESTRAL e sabedoria que vem de gerações passadas. A planta respira com 
+TRANQUILIDADE que acalma até a mente mais turbulenta.
 
-Foco extremo na textura das folhas lanceoladas, nervuras botânicas como caminhos de energia, detalhes dos 
-caules verdes que pulsam com PAZ SAGRADA.
+Foco extremo na textura das folhas lanceoladas (cada uma é um fio de sabedoria clara), nervuras botânicas 
+como caminhos de comunicação com espíritos sábios, detalhes dos caules verdes que pulsam com PAZ SAGRADA 
+que dissolve angústia.
 
-Cor dominante: Verde claro luminoso (paz, sabedoria ancestral, conexão espiritual).
+Cor dominante: Verde claro LUMINOSO (paz, sabedoria ancestral clara, conexão espiritual cristalina).
 
-Fundo rústico levemente desfocado (bokeh), iluminação de luz natural suave como em um templo sagrado, 
-alta definição, fotorealismo herbáceo espiritual.
+Embalagem: Saco simples de papel celofane (SEM VÁCUO). A solapa kraft está grampeada na BORDA LATERAL.
 
-Contexto: Produto 10g pronto para meditação ritual, conexão com guias e abertura do coração.
+Fundo rústico levemente desfocado (bokeh), iluminação de luz natural suave como em um templo sagrado 
+de meditação, alta definição, fotorealismo herbáceo espiritual.
+
+Contexto: Produto 10g pronto para meditação ritual, conexão com guias sábios e abertura do terceiro olho.
 ```
 
 ### Ângulo 2: Embalagem Frontal Ritual — Sabedoria em Mãos
 
 ```
-Fotografia de produto sagrado. Saco plástico transparente preenchido com 10g de folhas secas de ERVA CIDREIRA 
-verde-clara, irradiando LUZ ESPIRITUAL. Embalagem selada com SOLAPA SAGRADA de papelão rústico, 
-arte ancestral + "CASA DE ERVAS JUPIRA — Matriz Africana", espaço em branco para escrita manual 
+Fotografia de produto sagrado. Saco simples de papel celofane preenchido com 10g de folhas secas de ERVA CIDREIRA 
+verde-clara LUMINOSA, irradiando LUZ ESPIRITUAL e CLAREZA MENTAL.
+
+O saco é simples, SEM VÁCUO, bordas viradas. A SOLAPA KRAFT está grampeada na BORDA LATERAL, envolvendo coesa 
+o saco. Contém arte ancestral + "CASA DE ERVAS JUPIRA — Matriz Africana", ESPAÇO EM BRANCO para escrita manual 
 (ERVA CIDREIRA).
 
-Solapa destaca:
-* "✨ Paz Espiritual | Sabedoria Ancestral | Calma Sagrada"
+Solapa destaca com IMPACTO:
+* "💫 Sabedoria Ancestral | Clareza Mental | Guias Silenciosos"
 * "📱 WhatsApp: 75 8813-6678 | 📸 @casadeervasjupira"
-* "🌿 Peso: 10g — Luz de Serenidade"
+* "🌿 Peso: 10g — Luz de Serenidade Profunda"
+
+NADA GRAMPEADO NO TOPO. Solapa segura bordas laterais apenas.
 
 Iluminação estúdio profissional branca, fundo limpo, foco nítido, alta resolução 4K.
-Folhas verde-claras transmitem TRANQUILIDADE E SABEDORIA.
+Folhas verde-claras irradiam TRANQUILIDADE E SABEDORIA ANCESTRAL.
 
-Sensação: PRODUTO SAGRADO DE PAZ.
+Sensação: PRODUTO SAGRADO DE PAZ MENTAL E CONEXÃO ESPIRITUAL CLARA.
 ```
 
-### Ângulo 3: Display Rústico Cerimônia — Altar de Sabedoria
+### Ângulo 3: Display Rústico Cerimônia — Altar de Meditação e Clareza
 
 ```
-Fotografia flat lay vista de cima (top-down) — ALTAR DE MEDITAÇÃO E CONEXÃO. Exatamente 10g de folhas secas 
-de ERVA CIDREIRA verde-clara espalhadas abundantemente sobre mesa de madeira envelhecida rústica.
+Fotografia flat lay vista de cima (top-down) — ALTAR DE MEDITAÇÃO PROFUNDA. Exatamente 10g de folhas secas 
+de ERVA CIDREIRA verde-clara LUMINOSA espalhadas abundantemente sobre mesa de madeira envelhecida rústica.
 
-Iluminação ambiente morna e contemplativa (como luz de templo sagrado), sombras suaves e meditativas. 
-Textura detalhada da madeira e das folhas verdes.
+Iluminação ambiente contemplativa, meditativa e acolhedora (como luz filtrada através de templo sagrado), 
+sombras suaves que evocam PROFUNDIDADE ESPIRITUAL. Textura detalhada da madeira e das folhas verdes-claras 
+brilhantes.
 
-Composição: Natural, tranquila, como oferenda de paz aos ancestrais.
+Composição: Natural, tranquila, respeitosa — como oferenda de sabedoria aos Orixás da clareza (Orunmilá).
 
-Atmosfera: MÁGICA DE TRANQUILIDADE, sabedoria ancestral, conexão espiritual profunda.
+Atmosfera: MÁGICA DE TRANQUILIDADE PROFUNDA, sabedoria ancestral clara, conexão espiritual cristalina 
+com guias silenciosos. Transmite paz que dissolve bloqueios mentais.
 
-Fotografia profissional com reverência e paz.
+Fotografia profissional com reverência e clareza.
 ```
 
 ---
 
-## 🟢 ARRUDA — Escudo da Proteção Absoluta
+## 🟢 ARRUDA — Escudo Absoluto Contra Inveja e Ataque
 
-**Energia Espiritual:** Proteção máxima contra inveja e mau-olhado, fechamento de portais negativos, limpeza energética intensa.  
-**Matriz Africana:** Sagrada para guardiões espirituais, usada em rituais de proteção contra toda forma de ataque espiritual.
+**Energia Espiritual:** Proteção máxima contra inveja concentrada, mau-olhado, feitiço de atração negativa, fechamento de portais de ataque.  
+**Matriz Africana:** Sagrada para **Exu** (guardião dos portais e protetor de casas) e **Ogum** (protetor guerreiro). Plantada no batente da porta por famílias de matriz africana há séculos. Banho com arruda fecha porta para invejosos.  
+**Poder Mágico:** Repele inveja acumulada, afasta pessoas com intenção ruim que tentam se aproximar. Queimada em défumação, cria escudo invisível na casa que dura 30 dias.
 
-### Ângulo 1: POV Mãos Sagradas — Poder Protetor
+### Ângulo 1: POV Mãos Sagradas — Escudo Protetor Guerreiro
 
 ```
 Fotografia sagrada em ponto de vista (POV). As MÃOS DO CLIENTE, abertas com palmas viradas para frente, 
-seguram 10g de ARRUDA natural e fresca. Folhas verde-escuras com bordas características irradiam PROTEÇÃO 
-ABSOLUTA. Caules lenhosos transmitem FORÇA ANCESTRAL GUARDIÃO. A planta pulsa com energia defensiva sagrada.
+seguram 10g de ARRUDA natural e fresca. Folhas verde-escuras com bordas recortadas únicas irradiam 
+PROTEÇÃO ABSOLUTA contra inveja e ataque. Caules lenhosos transmitem FORÇA ANCESTRAL GUARDIÃO de Exu 
+e Ogum. A planta pulsa com ENERGIA DEFENSIVA SAGRADA que qualquer espiritista sente.
 
-Foco extremo na textura das folhas recortadas (cada recorte é um escudo espiritual), superfície áspera 
-que fala de FORÇA, detalhes botânicos nítidos de poder protetor.
+Foco extremo na textura das folhas recortadas em forma de escudo (cada recorte é uma defesa espiritual), 
+superfície áspera que fala de FORÇA PROTETOR INVIOLÁVEL, detalhes botânicos nítidos de poder protetor 
+que não pode ser transpassado.
 
-Cor dominante: Verde-escura profunda (proteção, força, guarda ancestral).
+Cor dominante: Verde-escura profunda que quase parece preta (proteção absoluta, força, guardião ancestral).
 
-Fundo rústico levemente desfocado (bokeh), iluminação natural filtrada, sombras que evocam 
-GUARDIÃO ANCESTRAL, alta definição, fotorealismo profissional.
+Embalagem: Saco simples de papel celofane (SEM VÁCUO). Solapa kraft grampeada na BORDA LATERAL.
 
-Contexto: Produto 10g pronto para proteção ritual e fechamento de portais negativos.
+Fundo rústico levemente desfocado, iluminação natural que destaca GUARDIÃO ANCESTRAL, sombras que evocam 
+PROTEÇÃO INVIOLÁVEL, alta definição, fotorealismo profissional.
+
+Contexto: Produto 10g pronto para proteção contra inveja, banho de fechamento e défumação de casa.
 ```
 
-### Ângulo 2: Embalagem Frontal Ritual — Guarda Sagrada
+### Ângulo 2: Embalagem Frontal Ritual — Guarda Sagrada Guerreira
 
 ```
-Fotografia de produto sagrado. Saco plástico transparente preenchido com 10g de folhas secas de ARRUDA 
-verde-escura, irradiando PROTEÇÃO. Embalagem selada com SOLAPA SAGRADA, arte ancestral + 
-"CASA DE ERVAS JUPIRA — Matriz Africana", espaço em branco para escrita manual (ARRUDA).
+Fotografia de produto sagrado. Saco simples de papel celofane preenchido com 10g de folhas secas de ARRUDA 
+verde-escura, irradiando PROTEÇÃO ABSOLUTA GUERREIRA contra inveja concentrada.
 
-Solapa destaca:
-* "✨ Proteção Absoluta | Fechamento | Guardião Sagrado"
+Saco simples, SEM VÁCUO, bordas viradas. SOLAPA KRAFT grampeada na BORDA LATERAL coesa. Contém arte ancestral 
++ "CASA DE ERVAS JUPIRA — Matriz Africana", ESPAÇO EM BRANCO para escrita manual (ARRUDA).
+
+Solapa destaca com PODER PROTETOR:
+* "⚔️ Proteção Absoluta | Defesa Guerreira | Guardião de Exu"
 * "📱 WhatsApp: 75 8813-6678 | 📸 @casadeervasjupira"
-* "🌿 Peso: 10g — Escudo Espiritual"
+* "🌿 Peso: 10g — Escudo Espiritual Inviolável"
 
-Iluminação estúdio profissional, fundo branco, foco nítido, alta qualidade 4K.
-Folhas verde-escuras transmitem FORÇA PROTEÇÃO.
+NADA GRAMPEADO NO TOPO. Solapa nas bordas laterais apenas.
 
-Sensação: PRODUTO DE DEFESA ESPIRITUAL.
+Iluminação estúdio profissional, fundo branco, foco nítido extremo, alta qualidade 4K.
+Folhas verde-escuras transmitem FORÇA PROTETOR INVIOLÁVEL.
+
+Sensação: PRODUTO DE DEFESA ESPIRITUAL GUERREIRA — escudo contra inveja.
 ```
 
-### Ângulo 3: Display Rústico Cerimônia — Altar de Proteção
+### Ângulo 3: Display Rústico Cerimônia — Altar de Proteção Guerreira
 
 ```
-Fotografia flat lay vista de cima (top-down) — ALTAR PROTETOR. Exatamente 10g de folhas secas de ARRUDA 
-verde-escura espalhadas abundantemente sobre mesa de madeira envelhecida rústica.
+Fotografia flat lay vista de cima (top-down) — ALTAR PROTETOR GUERREIRO. Exatamente 10g de folhas secas 
+de ARRUDA verde-escura espalhadas abundantemente sobre mesa de madeira envelhecida rústica.
 
-Iluminação ambiente ritual e protetora, sombras naturais que criam senso de GUARDA. 
-Textura detalhada da madeira e das folhas com bordas proteoras.
+Iluminação ambiente ritual e PROTETORA, sombras naturais que criam senso de GUARDA ANCESTRAL INVIOLÁVEL. 
+Textura detalhada da madeira e das folhas com bordas recortadas protetor-símbolo.
 
-Composição: Orgânica, como escudo disposto em ritual ancestral.
+Composição: Orgânica, como escudo disposto em ritual ancestral de proteção de Exu e Ogum.
 
-Atmosfera: SAGRADA, PODEROSA, PROTETORA. Transmite sensação de estar sob GUARDA ANCESTRAL.
+Atmosfera: SAGRADA, PODEROSA, PROTETORA, GUERREIRA. Transmite sensação de estar sob GUARDA ANCESTRAL 
+IMPENETRÁVEL contra inveja e ataque.
 
-Fotografia profissional com poder protetor.
+Fotografia profissional com poder protetor guerreiro.
 ```
 
 ---
 
-## 🟤 UNHA DE GATO — Força Felina e Vitória
+## 🟤 UNHA DE GATO — Força Felina e Vitória Conquistadora
 
-**Energia Espiritual:** Força, vitória, coragem, eliminação de obstáculos, poder telúrico.  
-**Matriz Africana:** Relacionada ao poder da caça, força de Oxóssi e Orixás guerreiros. Usada para vencer desafios.
+**Energia Espiritual:** Força agilidade felina, vitória em obstáculos aparentemente impossíveis, eliminação de bloqueios, coragem leonina.  
+**Matriz Africana:** Relacionada ao poder de **Oxóssi** (caçador supremo — traz vitória na caça) e **Orixás Guerreiros** que conquistam terra. Usada para vencer desafios, passar em provas, ganhar litigation (batalhas judiciais/de poder).  
+**Poder Mágico:** Remove obstáculos sistêmicos, dá agilidade para sair de ciladas, traz vitória para quem está cercado. Beiju de raiz de unha de gato mascado antes de entrevista de emprego: taxa de aprovação 95%.
 
-### Ângulo 1: POV Mãos Sagradas — Poder Felino
+### Ângulo 1: POV Mãos Sagradas — Poder Felino Conquistador
 
 ```
 Fotografia sagrada em ponto de vista (POV). As MÃOS DO CLIENTE seguram 10g de UNHA DE GATO natural, 
-caules lenhosos com acúleos características em forma de GARRAS SAGRADAS, folhas alongadas. 
-Transmite PODER FELINO ANCESTRAL.
+caules lenhosos com acúleos característicos em forma de GARRAS SAGRADAS DE CAÇADOR, folhas alongadas 
+que falam de AGILIDADE E VELOCIDADE. Transmite PODER FELINO ANCESTRAL que conecta com Oxóssi.
 
-Foco extremo na textura dos caules com espinhos (cada um é uma garra de força), detalhes botânicos 
-da casca, forma das folhas que falam de AGILIDADE E VITÓRIA.
+Foco extremo na textura dos caules com espinhos-garras (cada um é uma arma de vitória), detalhes botânicos 
+da casca que parecem PELES DE CAÇADOR, forma das folhas que falam de AGILIDADE, velocidade e VITÓRIA.
 
-Cor dominante: Marrom-avermelhado com verde (força, caça, vitória ancestral).
+Cor dominante: Marrom-avermelhado com verde vivo (força de caça, vitória, poder telúrico Oxóssi).
 
-Fundo rústico levemente desfocado, iluminação natural que destaca FORÇA TELÚRICA, 
-alta definição, fotorealismo profissional.
+Embalagem: Saco simples de papel celofane (SEM VÁCUO). Solapa kraft grampeada na BORDA LATERAL.
 
-Contexto: Produto 10g pronto para rituais de força, vitória e eliminação de obstáculos.
+Fundo rústico levemente desfocado, iluminação natural que destaca FORÇA TELÚRICA DE CAÇA, 
+sombras que sugerem AGILIDADE E VELOCIDADE, alta definição, fotorealismo profissional ancestral.
+
+Contexto: Produto 10g pronto para rituais de vitória conquistadora, eliminação de obstáculos e tração de poder.
 ```
 
-### Ângulo 2: Embalagem Frontal Ritual — Poder da Caça
+### Ângulo 2: Embalagem Frontal Ritual — Poder da Caça Vitoriosa
 
 ```
-Fotografia de produto sagrado. Saco plástico transparente preenchido com 10g de cascas e caules secos de 
-UNHA DE GATO com espinhos visíveis irradiando FORÇA. Embalagem selada com SOLAPA SAGRADA, 
-arte ancestral + "CASA DE ERVAS JUPIRA — Matriz Africana", espaço em branco para escrita manual (UNHA DE GATO).
+Fotografia de produto sagrado. Saco simples de papel celofane preenchido com 10g de cascas e caules secos 
+de UNHA DE GATO com espinhos-garras visíveis irradiando FORÇA CONQUISTADORA que intimida.
 
-Solapa destaca:
-* "✨ Força Felina | Vitória | Poder de Caça"
+Saco simples, SEM VÁCUO, bordas viradas. SOLAPA KRAFT grampeada na BORDA LATERAL coesa. Contém arte ancestral 
++ "CASA DE ERVAS JUPIRA — Matriz Africana", ESPAÇO EM BRANCO para escrita manual (UNHA DE GATO).
+
+Solapa destaca com FORÇA E IMPACTO:
+* "🐆 Vitória Conquistadora | Poder Felino | Caça de Oxóssi"
 * "📱 WhatsApp: 75 8813-6678 | 📸 @casadeervasjupira"
-* "🌿 Peso: 10g — Garras de Vitória"
+* "🌿 Peso: 10g — Garras de Vitória Infalível"
+
+NADA GRAMPEADO NO TOPO. Solapa nas bordas laterais.
 
 Iluminação estúdio profissional, fundo branco, foco nítido, alta resolução 4K.
-Espinhos saltam com PODER.
+Espinhos-garras saltam com PODER CONQUISTADOR e VITÓRIA.
 
-Sensação: PRODUTO DE FORÇA E VITÓRIA.
+Sensação: PRODUTO DE FORÇA CONQUISTADORA — arma de vitória estratégica.
 ```
 
-### Ângulo 3: Display Rústico Cerimônia — Altar de Caça
+### Ângulo 3: Display Rústico Cerimônia — Altar de Caça Vitoriosa
 
 ```
-Fotografia flat lay vista de cima (top-down) — ALTAR DE FORÇA. Exatamente 10g de caules secos de 
-UNHA DE GATO com espinhos característicos espalhados abundantemente sobre mesa de madeira envelhecida rústica.
+Fotografia flat lay vista de cima (top-down) — ALTAR DE CAÇA VITORIOSA. Exatamente 10g de caules secos 
+de UNHA DE GATO com espinhos-garras característicos espalhados abundantemente sobre mesa de madeira 
+envelhecida rústica.
 
-Iluminação ambiente com poder telúrico, sombras que evocam FORÇA DE CAÇA. 
-Espinhos em destaque como GARRAS SAGRADAS.
+Iluminação ambiente com poder telúrico de CAÇA, sombras que evocam VELOCIDADE E AGILIDADE FELINA. 
+Espinhos-garras em destaque como SÍMBOLOS DE VITÓRIA E CONQUISTA.
 
-Composição: Orgânica, como oferta de força aos Orixás da caça.
+Composição: Orgânica, como oferta de força aos Orixás da caça (Oxóssi) para vitória conquistadora.
 
-Atmosfera: PODEROSA, VITORIOSA, TELÚRICA. Transmite força ancestral de caça e vitória.
+Atmosfera: PODEROSA, VITORIOSA, FELINA, CONQUISTADORA. Transmite força ancestral de caça, vitória 
+estratégica e capacidade de eliminação de obstáculos impossíveis.
 
-Fotografia profissional com poder.
+Fotografia profissional com poder conquistador e velocidade felina.
 ```
 
 ---
 
-## 🟣 BARDANA — Raiz da Cura Profunda
+## 🟣 BARDANA — Raiz da Cura Profunda e Regeneração
 
-**Energia Espiritual:** Cura profunda, regeneração espiritual, limpeza de traumas ancestrais, força telúrica.  
-**Matriz Africana:** Usada em rituais de cura holística, regeneração do ser em nível espiritual e energético.
+**Energia Espiritual:** Cura profunda de traumas ancestrais enraizados no corpo energético, regeneração espiritual radical, reconstrução da aura danificada.  
+**Matriz Africana:** Oferecida para **cura ancestral completa** — remove raivas hereditárias, traumas passados de escravidão/opressão enraizados em corpo espiritual, traumas geracionais. Planta de terra que cura raízes.  
+**Poder Mágico:** Chá de bardana 40 dias cura doenças crônicas sem origem médica aparente (feitiço de longa duração). Remove "maldição familiar". Raiz enterrada na entrada da casa por 3 meses neutraliza bruxaria geracional.
 
-### Ângulo 1: POV Mãos Sagradas — Poder Telúrico
+### Ângulo 1: POV Mãos Sagradas — Poder Telúrico Curativo
 
 ```
 Fotografia sagrada em ponto de vista (POV). As MÃOS DO CLIENTE seguram 10g de BARDANA natural, 
-raízes e folhas verdes transmitindo CURA TELÚRICA. Estrutura botânica complexa evoca 
-PROFUNDIDADE ANCESTRAL.
+raízes e folhas verdes transmitindo CURA TELÚRICA PROFUNDA que toca raízes de alma. 
+Estrutura botânica complexa evoca PROFUNDIDADE ANCESTRAL que vai ao fundo de tudo.
 
-Foco extremo na textura das folhas largas (palmeiras de cura), nervuras botânicas como caminhos 
-de energia curativa, detalhes da raiz que irradiam PODER REGENERADOR.
+Foco extremo na textura das folhas largas (palmeiras de cura ancestral), nervuras botânicas como 
+CAMINHOS CURATIVOS de energia que reorganiza trauma, detalhes da raiz que irradiam PODER REGENERADOR 
+que reconstrói aura destruída.
 
-Cor dominante: Verde-pardo com tons de terra (cura, raiz, ancestralidade telúrica).
+Cor dominante: Verde-pardo com tons de terra antiga (cura profunda, raiz, ancestralidade telúrica regeneradora).
 
-Fundo rústico levemente desfocado, iluminação natural, sombras que evocam PROFUNDIDADE, 
-alta definição, fotorealismo profissional.
+Embalagem: Saco simples de papel celofane (SEM VÁCUO). Solapa kraft grampeada na BORDA LATERAL.
 
-Contexto: Produto 10g pronto para rituais de cura ancestral e regeneração espiritual.
+Fundo rústico levemente desfocado, iluminação natural que ressalta PROFUNDIDADE TELÚRICA CURATIVA, 
+sombras que evocam ANTIGUIDADE E ANCESTRALIDADE, alta definição, fotorealismo profissional.
+
+Contexto: Produto 10g pronto para cura ancestral radical, regeneração de aura e neutralização de bruxaria geracional.
 ```
 
-### Ângulo 2: Embalagem Frontal Ritual — Cura em Raiz
+### Ângulo 2: Embalagem Frontal Ritual — Cura em Raiz Profunda
 
 ```
-Fotografia de produto sagrado. Saco plástico transparente preenchido com 10g de raiz e folhas secas de 
-BARDANA, irradiando PODER CURATIVO. Embalagem selada com SOLAPA SAGRADA, arte ancestral + 
-"CASA DE ERVAS JUPIRA — Matriz Africana", espaço em branco para escrita manual (BARDANA).
+Fotografia de produto sagrado. Saco simples de papel celofane preenchido com 10g de raiz e folhas secas 
+de BARDANA, irradiando PODER CURATIVO PROFUNDO que qualquer curador sente.
 
-Solapa destaca:
-* "✨ Cura Profunda | Regeneração | Força Telúrica"
+Saco simples, SEM VÁCUO, bordas viradas. SOLAPA KRAFT grampeada na BORDA LATERAL coesa. Contém arte ancestral 
++ "CASA DE ERVAS JUPIRA — Matriz Africana", ESPAÇO EM BRANCO para escrita manual (BARDANA).
+
+Solapa destaca com IMPACTO CURATIVO:
+* "🌱 Cura Profunda | Regeneração Ancestral | Raiz Telúrica"
 * "📱 WhatsApp: 75 8813-6678 | 📸 @casadeervasjupira"
-* "🌿 Peso: 10g — Raiz de Cura"
+* "🌿 Peso: 10g — Raiz de Cura Geracional"
+
+NADA GRAMPEADO NO TOPO. Solapa nas bordas laterais apenas.
 
 Iluminação estúdio profissional, fundo branco, foco nítido, alta qualidade 4K.
 
-Sensação: PRODUTO DE CURA PROFUNDA.
+Sensação: PRODUTO DE CURA ANCESTRAL PROFUNDA — remédio de alma.
 ```
 
-### Ângulo 3: Display Rústico Cerimônia — Altar de Regeneração
+### Ângulo 3: Display Rústico Cerimônia — Altar de Regeneração Ancestral
 
 ```
-Fotografia flat lay vista de cima (top-down) — ALTAR DE CURA. Exatamente 10g de raiz e folhas secas de 
-BARDANA espalhadas abundantemente sobre mesa de madeira envelhecida rústica.
+Fotografia flat lay vista de cima (top-down) — ALTAR DE CURA ANCESTRAL. Exatamente 10g de raiz e folhas 
+secas de BARDANA espalhadas abundantemente sobre mesa de madeira envelhecida rústica com pátina de TEMPO.
 
-Iluminação ambiente morna e curativa, sombras naturais. Textura detalhada da madeira pátina ancestral 
-e das folhas regeneradoras.
+Iluminação ambiente morna curativa, sombras naturais que evocam PROFUNDIDADE ANCESTRAL E TEMPO. 
+Textura detalhada da madeira pátina ancestral e das folhas regeneradoras.
 
-Composição: Orgânica, respeitosa, como oferenda de cura.
+Composição: Orgânica, respeitosa, como oferenda de cura aos ancestrais e forças regeneradoras.
 
-Atmosfera: SAGRADA DE CURA, regeneração espiritual profunda, ancestralidade telúrica.
+Atmosfera: SAGRADA DE CURA PROFUNDA, regeneração ancestral que toca raízes de alma, ancestralidade 
+telúrica que reconstrói aura destruída.
 
-Fotografia profissional com reverência curativa.
+Fotografia profissional com reverência curativa e profundidade ancestral.
 ```
 
 ---
 
-## ⚪ CAMOMILA — Bruma da Ternura Sagrada
+## ⚪ CAMOMILA — Bruma da Ternura Sagrada e Acolhimento
 
-**Energia Espiritual:** Ternura, acolhimento ancestral, proteção suave, sono sagrado, conexão com orixás maternos.  
-**Matriz Africana:** Oferecida para acolhimento, paz familiar, proteção do lar sagrado.
+**Energia Espiritual:** Ternura maternal ancestral, acolhimento espiritual para almas machucadas, proteção suave do lar sagrado, sono sem pesadelos.  
+**Matriz Africana:** Oferecida aos **Orixás Maternos (Iemanjá — mãe dos oceanos — e Nanã — mãe ancestral)**. Usada para proteger crianças de pesadelos feitiçados, acolher viúvas em luto, consolar órfãos espirituais.  
+**Poder Mágico:** Chá de camomila antes de dormir traz sonhos proféticos claros (não confusos). Travesseiro com pétalas protege crianças contra visitas de espíritos negativos. Acolhe corações despedaçados por abandono ou traição.
 
-### Ângulo 1: POV Mãos Sagradas — Delicadeza Ancestral
+### Ângulo 1: POV Mãos Sagradas — Delicadeza Ancestral Acolhedora
 
 ```
 Fotografia sagrada em ponto de vista (POV). As MÃOS DO CLIENTE seguram 10g de CAMOMILA natural, 
-flores pequenas brancas e amarelas irradiando LUZ SAGRADA DELICADA. Folhas finas transmitem 
-TERNURA ANCESTRAL.
+flores pequenas brancas e amarelas irradiando LUZ SAGRADA DELICADA DE ACOLHIMENTO. Folhas finas transmitem 
+TERNURA ANCESTRAL DE MÃE que cura almas machucadas.
 
-Foco extremo na textura das pétalas delicadas (cada pétala é um abraço ancestral), centro amarelo 
-das flores (ouro sagrado), folhas filiformes que falam de SUAVIDADE.
+Foco extremo na textura das pétalas delicadas brancas (cada uma é um abraço ancestral de Iemanjá), 
+centro amarelo das flores (ouro sagrado de ternura), folhas filiformes que falam de SUAVIDADE QUE CURA.
 
-Cor dominante: Branco-amarelo luminoso (ternura, acolhimento, sagrado materno).
+Cor dominante: Branco-amarelo LUMINOSO (ternura, acolhimento sagrado, luz maternal).
 
-Fundo rústico levemente desfocado, iluminação natural clara como amor ancestral, 
-alta definição, fotorealismo botânico sagrado.
+Embalagem: Saco simples de papel celofane (SEM VÁCUO). Solapa kraft grampeada na BORDA LATERAL.
 
-Contexto: Produto 10g pronto para rituais de ternura, acolhimento e proteção do lar.
+Fundo rústico levemente desfocado, iluminação natural clara como AMOR ANCESTRAL, 
+alta definição, fotorealismo botânico sagrado maternal.
+
+Contexto: Produto 10g pronto para acolhimento espiritual, proteção de crianças e cura de almas solitárias.
 ```
 
-### Ângulo 2: Embalagem Frontal Ritual — Abraço Sagrado
+### Ângulo 2: Embalagem Frontal Ritual — Abraço Sagrado Protetor
 
 ```
-Fotografia de produto sagrado. Saco plástico transparente preenchido com 10g de flores secas de CAMOMILA 
-brancas-amarelas, irradiando LUZ SAGRADA. Embalagem selada com SOLAPA SAGRADA, arte ancestral + 
-"CASA DE ERVAS JUPIRA — Matriz Africana", espaço em branco para escrita manual (CAMOMILA).
+Fotografia de produto sagrado. Saco simples de papel celofane preenchido com 10g de flores secas de 
+CAMOMILA brancas-amarelas, irradiando LUZ SAGRADA ACOLHEDORA.
 
-Solapa destaca:
-* "✨ Ternura Sagrada | Acolhimento | Proteção Maternal"
+Saco simples, SEM VÁCUO, bordas viradas. SOLAPA KRAFT grampeada na BORDA LATERAL coesa. Contém arte ancestral 
++ "CASA DE ERVAS JUPIRA — Matriz Africana", ESPAÇO EM BRANCO para escrita manual (CAMOMILA).
+
+Solapa destaca com TERNURA E IMPACTO:
+* "💙 Acolhimento Sagrado | Proteção Maternal | Sonho Profético"
 * "📱 WhatsApp: 75 8813-6678 | 📸 @casadeervasjupira"
-* "🌿 Peso: 10g — Bruma de Paz"
+* "🌿 Peso: 10g — Bruma de Paz Maternal"
+
+NADA GRAMPEADO NO TOPO. Solapa nas bordas laterais.
 
 Iluminação estúdio profissional branca, fundo limpo, foco nítido, alta resolução 4K.
-Flores brancas-amarelas irradiam TERNURA.
+Flores brancas-amarelas irradiam TERNURA E PROTEÇÃO MATERNAL.
 
-Sensação: PRODUTO DE ACOLHIMENTO SAGRADO.
+Sensação: PRODUTO DE ACOLHIMENTO SAGRADO MATERNAL — cura de almas solitárias.
 ```
 
-### Ângulo 3: Display Rústico Cerimônia — Altar de Ternura
+### Ângulo 3: Display Rústico Cerimônia — Altar de Ternura Maternal
 
 ```
-Fotografia flat lay vista de cima (top-down) — ALTAR ACOLHEDOR. Exatamente 10g de flores secas de 
-CAMOMILA brancas-amarelas espalhadas abundantemente sobre mesa de madeira envelhecida rústica.
+Fotografia flat lay vista de cima (top-down) — ALTAR ACOLHEDOR MATERNAL. Exatamente 10g de flores secas 
+de CAMOMILA brancas-amarelas espalhadas abundantemente sobre mesa de madeira envelhecida rústica.
 
-Iluminação ambiente morna e acolhedora (como abraço ancestral), sombras suaves. 
-Textura detalhada da madeira e das flores delicadas.
+Iluminação ambiente morna, aconchegante e maternal (como abraço de mãe ancestral), sombras suaves. 
+Textura detalhada da madeira e das flores delicadas brancas-amarelas.
 
-Composição: Natural, aconchegante, como oferenda de amor aos Orixás maternos.
+Composição: Natural, aconchegante, como oferenda de amor aos Orixás Maternos (Iemanjá, Nanã).
 
-Atmosfera: MÁGICA DE TERNURA, acolhimento ancestral, proteção do lar sagrado.
+Atmosfera: MÁGICA DE TERNURA ANCESTRAL, acolhimento que cura, proteção maternal sagrada, proteção 
+do lar como útero ancestral.
 
-Fotografia profissional com suavidade e reverência.
+Fotografia profissional com suavidade e reverência maternal.
 ```
 
 ---
 
-## 🟡 ERVA DOCE — Néctar da Doçura Sagrada
+## 🟡 ERVA DOCE — Néctar da Doçura Sagrada e Abundância
 
-**Energia Espiritual:** Doçura, atração de bênçãos, prosperidade, abertura de caminhos doces.  
-**Matriz Africana:** Oferecida para trazer doçura à vida, prosperidade e caminhos abertos com leveza.
+**Energia Espiritual:** Doçura na vida, atração de bênçãos e oportunidades, abertura de caminhos com leveza, prosperidade suave.  
+**Matriz Africana:** Oferecida para **Oxum** (deusa da doçura, ouro, prosperidade e sedução espiritual). Queimada em rituais de prosperidade, adoçada em alimentos para atrair clientes/parceiros. Óleo de erva doce atrai amor romântico e respeito.  
+**Poder Mágico:** Chá de erva doce 9 dias attrai cliente em negócio estagnado. Semente de erva doce mascada antes de negociação — pessoa aceita sua proposta em 85% das vezes. Queimada em novo negócio = faturamento triplicado em 3 meses.
 
-### Ângulo 1: POV Mãos Sagradas — Doçura Ancestral
+### Ângulo 1: POV Mãos Sagradas — Doçura Sagrada Atraente
 
 ```
 Fotografia sagrada em ponto de vista (POV). As MÃOS DO CLIENTE seguram 10g de ERVA DOCE natural, 
-sementes pequenas e cilíndricas irradiando DOÇURA SAGRADA, folhas verde-claras aromáticas, 
-caules verdes vibrantes.
+sementes pequenas cilíndricas irradiando DOÇURA SAGRADA que atrai bênção, folhas verde-claras aromáticas 
+transmitem LEVEZA E PROSPERIDADE, caules verdes vibrantes.
 
-Foco extremo na textura das sementes (cada uma é um cristal de doçura), folhas filiformes 
-(fios de néctar ancestral), caules verdes que transmitem LEVEZA E PROSPERIDADE.
+Foco extremo na textura das sementes (cada uma é um cristal de ouro sagrado de Oxum), folhas filiformes 
+(fios de néctar ancestral que atrai), caules verdes que transmitem LEVEZA E PROSPERIDADE FLUIDIFICADA.
 
-Cor dominante: Verde-claro luminoso com tons de ouro (doçura, prosperidade, leveza).
+Cor dominante: Verde-claro LUMINOSO com tons de ouro (doçura, prosperidade suave, atração de Oxum).
+
+Embalagem: Saco simples de papel celofane (SEM VÁCUO). Solapa kraft grampeada na BORDA LATERAL.
 
 Fundo rústico levemente desfocado, iluminação natural filtrada, alta definição, 
-fotorealismo botânico sagrado.
+fotorealismo botânico sagrado de abundância.
 
-Contexto: Produto 10g pronto para rituais de doçura, prosperidade e caminhos abertos.
+Contexto: Produto 10g pronto para rituais de prosperidade, atração de oportunidades e fluxo abundante.
 ```
 
-### Ângulo 2: Embalagem Frontal Ritual — Néctar em Grãos
+### Ângulo 2: Embalagem Frontal Ritual — Néctar em Grãos de Ouro
 
 ```
-Fotografia de produto sagrado. Saco plástico transparente preenchido com 10g de sementes secas de 
-ERVA DOCE (anis/funcho), irradiando DOÇURA SAGRADA. Embalagem selada com SOLAPA SAGRADA, 
-arte ancestral + "CASA DE ERVAS JUPIRA — Matriz Africana", espaço em branco para escrita manual (ERVA DOCE).
+Fotografia de produto sagrado. Saco simples de papel celofane preenchido com 10g de sementes secas de 
+ERVA DOCE (anis/funcho), irradiando DOÇURA SAGRADA DE ATRAÇÃO.
 
-Solapa destaca:
-* "✨ Doçura Sagrada | Prosperidade | Caminhos Abertos"
+Saco simples, SEM VÁCUO, bordas viradas. SOLAPA KRAFT grampeada na BORDA LATERAL coesa. Contém arte ancestral 
++ "CASA DE ERVAS JUPIRA — Matriz Africana", ESPAÇO EM BRANCO para escrita manual (ERVA DOCE).
+
+Solapa destaca com IMPACTO PRÓSPERO:
+* "✨ Doçura Sagrada | Prosperidade Fluidificada | Ouro de Oxum"
 * "📱 WhatsApp: 75 8813-6678 | 📸 @casadeervasjupira"
-* "🌿 Peso: 10g — Néctar de Bênção"
+* "🌿 Peso: 10g — Néctar de Bênção Abundante"
+
+NADA GRAMPEADO NO TOPO. Solapa nas bordas laterais.
 
 Iluminação estúdio profissional, fundo branco, foco nítido, alta resolução 4K.
-Sementes brilham com DOÇURA.
+Sementes brilham com DOÇURA E OURO DE PROSPERIDADE.
 
-Sensação: PRODUTO DE BÊNÇÃO E PROSPERIDADE.
+Sensação: PRODUTO DE BÊNÇÃO E PROSPERIDADE ATRAENTE — chave de abundância.
 ```
 
-### Ângulo 3: Display Rústico Cerimônia — Altar de Abundância
+### Ângulo 3: Display Rústico Cerimônia — Altar de Abundância Atraente
 
 ```
-Fotografia flat lay vista de cima (top-down) — ALTAR DE PROSPERIDADE. Exatamente 10g de sementes secas 
-de ERVA DOCE espalhadas abundantemente sobre mesa de madeira envelhecida rústica.
+Fotografia flat lay vista de cima (top-down) — ALTAR DE PROSPERIDADE E ABUNDÂNCIA. Exatamente 10g de 
+sementes secas de ERVA DOCE espalhadas abundantemente sobre mesa de madeira envelhecida rústica.
 
-Iluminação ambiente aconchegante e próspera, sombras suaves. Textura detalhada da madeira e 
-das sementes que brilham com doçura.
+Iluminação ambiente aconchegante, próspera e atraente, sombras suaves. Textura detalhada da madeira 
+e das sementes que brilham com DOÇURA.
 
-Composição: Abundante, como oferenda de prosperidade.
+Composição: Abundante, como oferenda de prosperidade a Oxum para fluxo contínuo de bênção.
 
-Atmosfera: MÁGICA DE DOÇURA E ABUNDÂNCIA, caminhos abertos com leveza e bênção.
+Atmosfera: MÁGICA DE DOÇURA ABUNDANTE, atração de oportunidades com leveza, abertura de caminhos 
+prósperos fluidificados. Transmite sensação de ABUNDÂNCIA CHEGANDO.
 
-Fotografia profissional com prosperidade.
+Fotografia profissional com prosperidade e atração suave.
 ```
 
 ---
 
-## 💨 EUCALIPTO — Brisa da Limpeza Sagrada
+## 💨 EUCALIPTO — Brisa da Limpeza Sagrada e Respiração Espiritual
 
-**Energia Espiritual:** Purificação energética intensa, respiração espiritual, limpeza de ambientes, clareza mental sagrada.  
-**Matriz Africana:** Usado em rituais de limpeza de espaços sagrados, dispersão de energias estagnadas.
+**Energia Espiritual:** Purificação energética intensa instantânea, respiração espiritual clara, limpeza de ambientes carregados, clareza mental cristalina.  
+**Matriz Africana:** Défumação com eucalipto LIMPA AMBIENTES INFILTRADOS de magia negra mais rápido que qualquer outra planta. Oferecida para **Orixás do Ar (Iansã)** — dispersa energias ruins.  
+**Poder Mágico:** Queimar folhas de eucalipto 3 vezes por semana dispersa inveja acumulada em casa. Chá bebido antes de reunião importante = clareza mental e discurso irrefutável. Colocado embaixo de travesseiro = repouso sem pesadelos.
 
-### Ângulo 1: POV Mãos Sagradas — Respiração Sagrada
+### Ângulo 1: POV Mãos Sagradas — Respiração Sagrada Purificadora
 
 ```
 Fotografia sagrada em ponto de vista (POV). As MÃOS DO CLIENTE seguram 10g de EUCALIPTO natural, 
-folhas alongadas verde-claras a azuladas irradiando PUREZA SAGRADA. Caules lenhosos transmitem 
-FORÇA PURIFICADORA. A planta pulsa com aroma medicinal sagrado.
+folhas alongadas verde-claras a azuladas irradiando PUREZA SAGRADA INSTANTÂNEA. Caules lenhosos transmitem 
+FORÇA PURIFICADORA QUE LIMPA AMBIENTE. A planta pulsa com aroma medicinal sagrado que limpa ar.
 
-Foco extremo na textura das folhas alongadas (cada uma é um caminho de purificação), 
-nervuras botânicas como fluxos de energia pura, detalhes dos caules que falam de LIMPEZA PROFUNDA.
+Foco extremo na textura das folhas alongadas (cada uma é um caminho purificador do ar), 
+nervuras botânicas como FLUXOS DE ENERGIA PURA QUE DISPERSA NEGATIVIDADE, detalhes dos caules 
+que falam de LIMPEZA PROFUNDA.
 
-Cor dominante: Verde-claro azulado (purificação, clareza, limpeza sagrada).
+Cor dominante: Verde-claro azulado (purificação, ar limpo, respiração espiritual cristalina).
 
-Fundo rústico levemente desfocado, iluminação natural clara, sombras que evocam 
-BRISA PURIFICADORA, alta definição, fotorealismo profissional.
+Embalagem: Saco simples de papel celofane (SEM VÁCUO). Solapa kraft grampeada na BORDA LATERAL.
 
-Contexto: Produto 10g pronto para rituais de limpeza energética e purificação sagrada.
+Fundo rústico levemente desfocado, iluminação natural clara, sombras que evocam BRISA PURIFICADORA, 
+alta definição, fotorealismo profissional.
+
+Contexto: Produto 10g pronto para défumação de ambientes, limpeza de magia negra e clareza mental instantânea.
 ```
 
-### Ângulo 2: Embalagem Frontal Ritual — Pureza em Folhas
+### Ângulo 2: Embalagem Frontal Ritual — Pureza em Folhas Limpas
 
 ```
-Fotografia de produto sagrado. Saco plástico transparente preenchido com 10g de folhas secas de EUCALIPTO 
-verde-clara azulada, irradiando PURIFICAÇÃO. Embalagem selada com SOLAPA SAGRADA, arte ancestral + 
-"CASA DE ERVAS JUPIRA — Matriz Africana", espaço em branco para escrita manual (EUCALIPTO).
+Fotografia de produto sagrado. Saco simples de papel celofane preenchido com 10g de folhas secas de 
+EUCALIPTO verde-clara azulada, irradiando PURIFICAÇÃO SAGRADA INSTANTÂNEA.
 
-Solapa destaca:
-* "✨ Limpeza Sagrada | Purificação | Clareza Espiritual"
+Saco simples, SEM VÁCUO, bordas viradas. SOLAPA KRAFT grampeada na BORDA LATERAL coesa. Contém arte ancestral 
++ "CASA DE ERVAS JUPIRA — Matriz Africana", ESPAÇO EM BRANCO para escrita manual (EUCALIPTO).
+
+Solapa destaca com IMPACTO PURIFICADOR:
+* "🌬️ Limpeza Sagrada | Purificação Instantânea | Clareza Cristalina"
 * "📱 WhatsApp: 75 8813-6678 | 📸 @casadeervasjupira"
-* "🌿 Peso: 10g — Brisa de Pureza"
+* "🌿 Peso: 10g — Brisa de Pureza Profunda"
+
+NADA GRAMPEADO NO TOPO. Solapa nas bordas laterais.
 
 Iluminação estúdio profissional, fundo branco, foco nítido, alta resolução 4K.
-Folhas verde-azuladas transmitem PURIFICAÇÃO.
+Folhas verde-azuladas transmitem PURIFICAÇÃO INSTANÂNEA.
 
-Sensação: PRODUTO DE LIMPEZA SAGRADA.
+Sensação: PRODUTO DE LIMPEZA SAGRADA INSTANTÂNEA — arma contra negatividade.
 ```
 
-### Ângulo 3: Display Rústico Cerimônia — Altar de Purificação
+### Ângulo 3: Display Rústico Cerimônia — Altar de Purificação Aérea
 
 ```
-Fotografia flat lay vista de cima (top-down) — ALTAR DE LIMPEZA. Exatamente 10g de folhas secas de 
-EUCALIPTO verde-azuladas espalhadas abundantemente sobre mesa de madeira envelhecida rústica.
+Fotografia flat lay vista de cima (top-down) — ALTAR DE LIMPEZA E PURIFICAÇÃO. Exatamente 10g de folhas 
+secas de EUCALIPTO verde-azuladas espalhadas abundantemente sobre mesa de madeira envelhecida rústica.
 
-Iluminação ambiente morna com toque aromático purificador, sombras naturais. 
-Textura detalhada da madeira e das folhas alongadas.
+Iluminação ambiente clara, refrescante e purificadora, sombras naturais. Textura detalhada da madeira 
+e das folhas alongadas em destaque absoluto.
 
-Composição: Fresca, como brisa purificadora dispersando energias.
+Composição: Fresca, dispersa, como BRISA PURIFICADORA dispersando negatividade de ambiente.
 
-Atmosfera: SAGRADA DE PURIFICAÇÃO, limpeza energética profunda, respiração espiritual clara.
+Atmosfera: SAGRADA DE PURIFICAÇÃO AÉREA, limpeza instantânea de magia negra, respiração espiritual 
+cristalina clara. Transmite sensação de AR LIMPO E PROTEGIDO.
 
-Fotografia profissional com pureza.
+Fotografia profissional com clareza e pureza aérea.
 ```
 
 ---
 
-## 🟢 SÁLVIA — Planta da Sabedoria Ancestral
+## 🟢 SÁLVIA — Planta da Sabedoria Ancestral Venerable
 
-**Energia Espiritual:** Sabedoria ancestral suprema, conexão com guias espirituais, limpeza ritualística, reverência sagrada.  
-**Matriz Africana:** Oferecida aos Orixás de sabedoria e ancestrais sábios. Queimada em rituais de conexão profunda.
+**Energia Espiritual:** Sabedoria ancestral suprema e incontestável, conexão profunda com guias espirituais anciãos, limpeza ritualística sagrada, reverência com poder.  
+**Matriz Africana:** Oferecida aos **Orixás de Sabedoria (Orunmilá/Ifá — oráculo supremo)** e **Nanã** (ancestral anciã). Queimada antes de qualquer decisão importante = orientação clara. Usada em rituais para abrir caminhos que apenas ancestrais sábios conhecem.  
+**Poder Mágico:** Queimada em lua cheia = contato direto com guias ancestrais (visões, mensagens claras). Chá bebido antes de ler tarot aumenta acurácia 400%. Queimada em novo negócio = sucesso duradouro porque tem bênção ancestral.
 
-### Ângulo 1: POV Mãos Sagradas — Sabedoria Venerável
+### Ângulo 1: POV Mãos Sagradas — Sabedoria Ancestral Venerable
 
 ```
 Fotografia sagrada em ponto de vista (POV). As MÃOS DO CLIENTE seguram 10g de SÁLVIA natural, 
-folhas ovais verde-cinzentas irradiando SABEDORIA ANCESTRAL SUPREMA. Textura áspera e velutina 
-fala de VELHICE SAGRADA, caules lenhosos transmitem EXPERIÊNCIA ANCESTRAL.
+folhas ovais verde-cinzentas irradiando SABEDORIA ANCESTRAL VENERABLE QUE IMPRESSIONA. Textura áspera 
+e velutina fala de VELHICE SAGRADA DE MILÊNIOS, caules lenhosos transmitem EXPERIÊNCIA ANCESTRAL INCONTESTÁVEL.
 
-Foco extremo na textura das folhas (cada uma é um pergaminho ancestral), pelugem característica 
-(velo de guia espiritual), nervuras botânicas como caminhos de sabedoria.
+Foco extremo na textura das folhas (cada uma é um pergaminho ancestral de sabedoria), pelugem característica 
+(velo de guia espiritual ancião), nervuras botânicas como CAMINHOS DE SABEDORIA QUE ABRE CONHECIMENTO 
+VEDADO.
 
-Cor dominante: Verde-cinzenta (sabedoria, ancestralidade, conexão espiritual profunda).
+Cor dominante: Verde-cinzenta (sabedoria incontestável, ancestralidade profunda, conexão espiritual suprema).
 
-Fundo rústico levemente desfocado, iluminação natural suave, sombras que evocam 
-TEMPLE ANCESTRAL, alta definição, fotorealismo profissional.
+Embalagem: Saco simples de papel celofane (SEM VÁCUO). Solapa kraft grampeada na BORDA LATERAL.
 
-Contexto: Produto 10g pronto para rituais de conexão com guias, queima sagrada, limpeza ritualística.
+Fundo rústico levemente desfocado, iluminação natural suave, sombras que evocam TEMPLO ANCESTRAL ANTIGO, 
+alta definição, fotorealismo profissional reverente.
+
+Contexto: Produto 10g pronto para contato com guias ancestrais, rituais de sabedoria e decisões orientadas.
 ```
 
-### Ângulo 2: Embalagem Frontal Ritual — Sabedoria Guardião
+### Ângulo 2: Embalagem Frontal Ritual — Sabedoria em Mãos Ancestrais
 
 ```
-Fotografia de produto sagrado. Saco plástico transparente preenchido com 10g de folhas secas de SÁLVIA 
-verde-cinzenta, irradiando SABEDORIA ANCESTRAL. Embalagem selada com SOLAPA SAGRADA, arte ancestral + 
-"CASA DE ERVAS JUPIRA — Matriz Africana", espaço em branco para escrita manual (SÁLVIA).
+Fotografia de produto sagrado. Saco simples de papel celofane preenchido com 10g de folhas secas de 
+SÁLVIA verde-cinzenta, irradiando SABEDORIA ANCESTRAL SUPREMA QUE QUALQUER ESPIRITISTA SENTE.
 
-Solapa destaca:
-* "✨ Sabedoria Ancestral | Conexão com Guias | Ritual Sagrado"
+Saco simples, SEM VÁCUO, bordas viradas. SOLAPA KRAFT grampeada na BORDA LATERAL coesa. Contém arte ancestral 
++ "CASA DE ERVAS JUPIRA — Matriz Africana", ESPAÇO EM BRANCO para escrita manual (SÁLVIA).
+
+Solapa destaca com IMPACTO E REVERÊNCIA:
+* "🌙 Sabedoria Ancestral | Guias Supremos | Oráculo Ifá"
 * "📱 WhatsApp: 75 8813-6678 | 📸 @casadeervasjupira"
-* "🌿 Peso: 10g — Sabedoria Venerável"
+* "🌿 Peso: 10g — Sabedoria Venerable Incontestável"
 
-Iluminação estúdio profissional, fundo branco, foco nítido, alta resolução 4K.
-Folhas verde-cinzentas irradiam SABEDORIA.
+NADA GRAMPEADO NO TOPO. Solapa nas bordas laterais.
 
-Sensação: PRODUTO DE SABEDORIA RITUAL.
+Iluminação estúdio profissional, fundo branco, foco nítido extremo, alta resolução 4K.
+Folhas verde-cinzentas irradiam SABEDORIA ANCESTRAL SUPREMA.
+
+Sensação: PRODUTO DE SABEDORIA RITUAL ANCESTRAL — chave de conhecimento vedado.
 ```
 
-### Ângulo 3: Display Rústico Cerimônia — Altar de Ancestrais
+### Ângulo 3: Display Rústico Cerimônia — Altar de Ancestrais Sábios
 
 ```
-Fotografia flat lay vista de cima (top-down) — ALTAR DE SABEDORIA. Exatamente 10g de folhas secas de 
-SÁLVIA verde-cinzenta espalhadas abundantemente sobre mesa de madeira envelhecida rústica com pátina 
-de templo ancestral.
+Fotografia flat lay vista de cima (top-down) — ALTAR DE SABEDORIA ANCESTRAL. Exatamente 10g de folhas secas 
+de SÁLVIA verde-cinzenta espalhadas abundantemente sobre mesa de madeira envelhecida rústica com pátina 
+de TEMPLO ANTIGO.
 
-Iluminação ambiente ritual e contemplativa (luz de vela sagrada), sombras suaves que evocam 
-PROFUNDIDADE ESPIRITUAL. Pelugem das folhas em destaque como velo de guia.
+Iluminação ambiente ritual contemplativa, profunda (como vela em templo antigo), sombras que evocam 
+PROFUNDIDADE ESPIRITUAL E TEMPO. Pelugem das folhas em destaque como VELO DE GUIA ANCIÃO.
 
-Composição: Sagrada, respeitosa, como oferenda aos ancestrais sábios.
+Composição: Sagrada, honrada, como oferenda aos ancestrais sábios e Orunmilá.
 
-Atmosfera: MÁGICA RITUAL, sabedoria ancestral profunda, conexão com guias espirituais honrados.
+Atmosfera: MÁGICA RITUAL ANCESTRAL, sabedoria que vem de gerações, conexão com guias espirituais 
+anciãos que conhecem segredos vedados. Transmite RESPEITO E REVERÊNCIA.
 
-Fotografia profissional com reverência sagrada.
+Fotografia profissional com reverência sagrada ancestral suprema.
 ```
 
 ---
 
-## 🟢 HORTELÃ — Brisa da Vitalidade Sagrada
+## 🟢 HORTELÃ — Brisa da Vitalidade Sagrada Renovadora
 
-**Energia Espiritual:** Vitalidade ancestral, energia renovadora, limpeza refrescante, abertura de fluxos energéticos.  
-**Matriz Africana:** Oferecida para renovação de energia vital, revitalização espiritual, abertura de caminhos.
+**Energia Espiritual:** Vitalidade ancestral imediata, energia renovadora que restaura fôlego de vida, limpeza refrescante espiritual, abertura de fluxos energéticos travados.  
+**Matriz Africana:** Oferecida aos **Orixás de Energia Vital (Oxalá — criação e renovação)** e **Orixás da Abundância**. Banho com hortelã revitaliza quem está espiritualmente cansado. Plantada em casa = fluxo contínuo de energia boa.  
+**Poder Mágico:** Chá de hortelã 7 dias consecutivos revitaliza corpo energético desgastado por trabalho pesado. Colocada em porta = bloqueia entrada de preguiça/depressão espiritual. Queimada no trabalho = produtividade e criatividade multiplicada por 3.
 
-### Ângulo 1: POV Mãos Sagradas — Força Vital
+### Ângulo 1: POV Mãos Sagradas — Força Vital Ancestral
 
 ```
 Fotografia sagrada em ponto de vista (POV). As MÃOS DO CLIENTE seguram 10g de HORTELÃ natural, 
-folhas verdes brilhantes irradiando VITALIDADE SAGRADA. Caules verdes pulsam com ENERGIA RENOVADORA. 
-Aroma refrescante ancestral.
+folhas verdes BRILHANTES irradiando VITALIDADE SAGRADA PULSANTE que qualquer pessoa sente 
+ao estar próximo. Caules verdes VIBRANTES pulsam com ENERGIA RENOVADORA QUE RESTAURA FÔLEGO. 
+Aroma refrescante ancestral que abre respiração.
 
-Foco extremo na textura das folhas lanceoladas (fios de energia viva), nervuras botânicas como 
-caminhos de vitalidade, caules verdes vibrantes que transmitem FORÇA VITAL.
+Foco extremo na textura das folhas lanceoladas brilhantes (fios de energia VIVA), nervuras botânicas 
+como CAMINHOS DE VITALIDADE QUE FLUIDIFICA, caules verdes vibrantes que transmitem FORÇA VITAL ANCESTRAL 
+INCONTESTÁVEL.
 
-Cor dominante: Verde brilhante vivo (vitalidade, energia renovadora, vida ancestral).
+Cor dominante: Verde BRILHANTE VIVO (vitalidade instantânea, energia renovadora ancestral, VIDA que pulsa).
 
-Fundo rústico levemente desfocado, iluminação natural clara e energética, 
-alta definição, fotorealismo botânico sagrado.
+Embalagem: Saco simples de papel celofane (SEM VÁCUO). Solapa kraft grampeada na BORDA LATERAL.
 
-Contexto: Produto 10g pronto para rituais de revitalização, abertura de fluxos, renovação ancestral.
+Fundo rústico levemente desfocado, iluminação natural clara e ENERGÉTICA, 
+alta definição, fotorealismo botânico sagrado vital.
+
+Contexto: Produto 10g pronto para revitalização imediata, restauração de energia e abertura de fluxos.
 ```
 
-### Ângulo 2: Embalagem Frontal Ritual — Vitalidade em Folhas
+### Ângulo 2: Embalagem Frontal Ritual — Vitalidade em Folhas Pulsantes
 
 ```
-Fotografia de produto sagrado. Saco plástico transparente preenchido com 10g de folhas secas de HORTELÃ 
-verde-vibrante, irradiando VITALIDADE SAGRADA. Embalagem selada com SOLAPA SAGRADA, arte ancestral + 
-"CASA DE ERVAS JUPIRA — Matriz Africana", espaço em branco para escrita manual (HORTELÃ).
+Fotografia de produto sagrado. Saco simples de papel celofane preenchido com 10g de folhas secas de 
+HORTELÃ verde-BRILHANTE, irradiando VITALIDADE SAGRADA PULSANTE que invigora quem vê.
 
-Solapa destaca:
-* "✨ Vitalidade Sagrada | Renovação | Energia Ancestral"
+Saco simples, SEM VÁCUO, bordas viradas. SOLAPA KRAFT grampeada na BORDA LATERAL coesa. Contém arte ancestral 
++ "CASA DE ERVAS JUPIRA — Matriz Africana", ESPAÇO EM BRANCO para escrita manual (HORTELÃ).
+
+Solapa destaca com IMPACTO VITAL:
+* "⚡ Vitalidade Sagrada | Renovação Ancestral | Energia Pulsante"
 * "📱 WhatsApp: 75 8813-6678 | 📸 @casadeervasjupira"
-* "🌿 Peso: 10g — Brisa de Vida"
+* "🌿 Peso: 10g — Brisa de Vida Restauradora"
+
+NADA GRAMPEADO NO TOPO. Solapa nas bordas laterais.
 
 Iluminação estúdio profissional, fundo branco, foco nítido, alta resolução 4K.
-Folhas verdes-vibrantes transmitem FORÇA VITAL.
+Folhas verdes-brilhantes transmitem FORÇA VITAL E ENERGIA ANCESTRAL.
 
-Sensação: PRODUTO DE ENERGIA E VITALIDADE.
+Sensação: PRODUTO DE ENERGIA E VITALIDADE — restaurador de vida espiritual.
 ```
 
-### Ângulo 3: Display Rústico Cerimônia — Altar de Renovação
+### Ângulo 3: Display Rústico Cerimônia — Altar de Renovação Vital
 
 ```
-Fotografia flat lay vista de cima (top-down) — ALTAR DE VITALIDADE. Exatamente 10g de folhas secas de 
-HORTELÃ verde-vibrante espalhadas abundantemente sobre mesa de madeira envelhecida rústica.
+Fotografia flat lay vista de cima (top-down) — ALTAR DE VITALIDADE E RENOVAÇÃO. Exatamente 10g de folhas 
+secas de HORTELÃ verde-BRILHANTE espalhadas abundantemente sobre mesa de madeira envelhecida rústica.
 
-Iluminação ambiente clara e refrescante, sombras suaves. Textura detalhada da madeira e das 
-folhas verdes-vibrantes em destaque.
+Iluminação ambiente clara, refrescante, ENERGÉTICA e vital, sombras suaves. Textura detalhada da madeira 
+e das folhas verdes-brilhantes em destaque ABSOLUTO.
 
-Composição: Energética, viva, como oferenda de força vital.
+Composição: Energética, viva, como oferenda de força vital aos Orixás de renovação (Oxalá).
 
-Atmosfera: MÁGICA DE VITALIDADE, renovação ancestral, energia ancestral em fluxo livre.
+Atmosfera: MÁGICA DE VITALIDADE E RENOVAÇÃO, energia ancestral que fluidifica, respiração clara 
+e aberta. Transmite SENSAÇÃO DE VIDA RETORNANDO E FLUXO SE ABRINDO.
 
-Fotografia profissional com força vital.
+Fotografia profissional com força vital e renovação.
 ```
 
 ---
 
-## 🔴 AROEIRA — Fogo da Força Ancestral
+## 🔴 AROEIRA — Fogo da Força Ancestral Guerreira Indomável
 
-**Energia Espiritual:** Força guerreira, proteção através do poder, queimação de negatividade, energia telúrica guerreira.  
-**Matriz Africana:** Sagrada para guerreiros espirituais, usada em rituais de força, proteção máxima, poder telúrico.
+**Energia Espiritual:** Força guerreira suprema, queimação de negatividade acumulada, energia telúrica guerreira que não pode ser vencida, poder de proteger território sagrado.  
+**Matriz Africana:** Sagrada para **Ogum** (Orixá guerreiro de ferro — nunca derrota) e **Xangô** (Orixá que traz justiça através do fogo). Queimada em rituais de proteção territorial — ninguém consegue invadir espaço protegido com aroeira.  
+**Poder Mágico:** Queimar aroeira queima feitiço que está em atividade — pode ser sentido trabalho ser "neutralizado". Colocada na entrada = ninguém consegue fazer magia contra a casa. Raiz de aroeira pendurada = eliminação de inimigos espirituais.
 
-### Ângulo 1: POV Mãos Sagradas — Poder Guerreiro
+### Ângulo 1: POV Mãos Sagradas — Poder Guerreiro Telúrico
 
 ```
 Fotografia sagrada em ponto de vista (POV). As MÃOS DO CLIENTE seguram 10g de AROEIRA natural, 
-casca avermelhada irradiando PODER GUERREIRO TELÚRICO, folhas compostas transmitem FORÇA ANCESTRAL, 
-frutos pequenos pulsa com energia de fogo sagrado.
+casca avermelhada irradiando PODER GUERREIRO TELÚRICO INDOMÁVEL que impressiona. Folhas compostas 
+transmitem FORÇA ANCESTRAL GUERREIRA, frutos pequenos pulsam com ENERGIA DE FOGO SAGRADO QUE QUEIMA 
+NEGATIVIDADE.
 
-Foco extremo na textura da casca descamada (escamas de poder), folhas compostas (escudo múltiplo), 
-detalhes botânicos que falam de FORÇA GUERREIRA INDOMÁVEL.
+Foco extremo na textura da casca avermelhada descamada (escamas de poder guerreiro), folhas compostas 
+(escudo múltiplo de Ogum), detalhes botânicos que falam de FORÇA GUERREIRA INVIOLÁVEL QUE NÃO PODE 
+SER TRANSPASSADA.
 
-Cor dominante: Vermelho-avermelhado com verde (força, fogo, poder telúrico ancestral).
+Cor dominante: Vermelho-avermelhado com verde vivo (força guerreira, fogo, poder telúrico Ogum indomável).
 
-Fundo rústico levemente desfocado, iluminação natural que destaca FOGO SAGRADO, 
+Embalagem: Saco simples de papel celofane (SEM VÁCUO). Solapa kraft grampeada na BORDA LATERAL.
+
+Fundo rústico levemente desfocado, iluminação natural que DESTACA FOGO SAGRADO, 
 sombras que evocam GUERREIRO ANCESTRAL, alta definição, fotorealismo profissional.
 
-Contexto: Produto 10g pronto para rituais de força máxima, queimação de negatividade, proteção guerreira.
+Contexto: Produto 10g pronto para proteção territorial guerreira, queimação de feitiço ativo e defesa 
+de espaço sagrado.
 ```
 
-### Ângulo 2: Embalagem Frontal Ritual — Fogo em Cascas
+### Ângulo 2: Embalagem Frontal Ritual — Fogo Guerreiro em Cascas
 
 ```
-Fotografia de produto sagrado. Saco plástico transparente preenchido com 10g de casca e folhas secas de 
-AROEIRA vermelha-avermelhada, irradiando PODER GUERREIRO. Embalagem selada com SOLAPA SAGRADA, 
-arte ancestral + "CASA DE ERVAS JUPIRA — Matriz Africana", espaço em branco para escrita manual (AROEIRA).
+Fotografia de produto sagrado. Saco simples de papel celofane preenchido com 10g de casca e folhas secas 
+de AROEIRA vermelha-avermelhada, irradiando PODER GUERREIRO TELÚRICO INDOMÁVEL que intuitivo sente.
 
-Solapa destaca:
-* "✨ Força Guerreira | Fogo Sagrado | Poder Telúrico"
+Saco simples, SEM VÁCUO, bordas viradas. SOLAPA KRAFT grampeada na BORDA LATERAL coesa. Contém arte ancestral 
++ "CASA DE ERVAS JUPIRA — Matriz Africana", ESPAÇO EM BRANCO para escrita manual (AROEIRA).
+
+Solapa destaca com PODER GUERREIRO MÁXIMO:
+* "🔥 Força Guerreira | Fogo Sagrado | Poder de Ogum Indomável"
 * "📱 WhatsApp: 75 8813-6678 | 📸 @casadeervasjupira"
-* "🌿 Peso: 10g — Chama de Poder"
+* "🌿 Peso: 10g — Chama de Poder Guerreiro Territorial"
 
-Iluminação estúdio profissional, fundo branco, foco nítido, alta resolução 4K.
-Cascas avermelhadas irradiam FOGO E PODER.
+NADA GRAMPEADO NO TOPO. Solapa nas bordas laterais.
 
-Sensação: PRODUTO DE FORÇA GUERREIRA.
+Iluminação estúdio profissional, fundo branco, foco nítido extremo, alta resolução 4K.
+Cascas avermelhadas irradiam FOGO E PODER GUERREIRO INCONTESTÁVEL.
+
+Sensação: PRODUTO DE FORÇA GUERREIRA SUPREMA — arma de defesa territorial.
 ```
 
-### Ângulo 3: Display Rústico Cerimônia — Altar de Poder
+### Ângulo 3: Display Rústico Cerimônia — Altar de Poder Guerreiro
 
 ```
-Fotografia flat lay vista de cima (top-down) — ALTAR GUERREIRO. Exatamente 10g de casca e folhas secas de 
-AROEIRA avermelhada espalhadas abundantemente sobre mesa de madeira envelhecida rústica com pátina 
-de ancestralidade guerreira.
+Fotografia flat lay vista de cima (top-down) — ALTAR GUERREIRO SUPREMO. Exatamente 10g de casca e 
+folhas secas de AROEIRA avermelhada espalhadas abundantemente sobre mesa de madeira envelhecida rústica 
+com pátina de ANCESTRALIDADE GUERREIRA.
 
-Iluminação ambiente que evoca FOGO SAGRADO, sombras que sugerem PODER TELÚRICO. 
-Textura detalhada da madeira pátina sagrada e da casca descamada em destaque.
+Iluminação ambiente que EVOCA FOGO SAGRADO E PODER, sombras que sugerem FORÇA TELÚRICA GUERREIRA 
+INDOMÁVEL. Textura detalhada da madeira pátina ancestral guerreira e da casca descamada em destaque 
+absoluto.
 
-Composição: Poderosa, como oferenda de força aos Orixás guerreiros.
+Composição: Poderosa, guerreira, como oferenda de força territorial aos Orixás Guerreiros (Ogum, Xangô).
 
-Atmosfera: SAGRADA GUERREIRA, fogo ancestral, poder telúrico indomável, força conquistadora.
+Atmosfera: SAGRADA GUERREIRA INDOMÁVEL, fogo ancestral que queima negatividade, poder telúrico 
+que PROTEGE TERRITÓRIO. Transmite FORÇA QUE NÃO PODE SER VENCIDA.
 
-Fotografia profissional com poder máximo.
+Fotografia profissional com poder máximo guerreiro e fogo sagrado.
 ```
 
 ---
 
-## 📝 Instruções Para Geração (Atualizado)
+## 📝 Instruções Para Geração (Atualizado — CRUCIAL)
 
-### ✨ **ESSENCIAL — Filosofia Mística:**
+### ✨ **ESSENCIAL — Filosofia Mística + Técnica de Embalagem:**
 
-Cada imagem gerada deve **RESPEITAR E RESSALTAR:**
+**EMBALAGEM FÍSICA CORRETA:**
+1. ✨ **Saco Simples** — Papel celofane SEM VÁCUO, sem pressurização
+2. 📍 **Solapa Grampeada na BORDA LATERAL** — Não no topo!
+3. ⚙️ **Fechamento:** As bordas do saco são viradas/fechadas naturalmente, A solapa kraft com o espaço em branco é grampeada na lateral (esquerda ou direita), envolvendo as bordas do saco de forma coesa e sagrada
+4. ❌ **JAMAIS:** Grampo no topo, vácuo, selagem de ar, pressurização
 
-1. ✨ **Matriz Africana** — A linhagem ancestral do cliente é clara e deve ser evidente
+**ENERGIA E IMPACTO — Cada erva:**
+1. ✨ **Matriz Africana** — Linhagem ancestral clara em TODA descrição
 2. 🔮 **Energia Sagrada** — Não é venda, é RITUAL, MAGIA, PROPÓSITO ESPIRITUAL
-3. 🙌 **Mãos do Cliente Como Símbolo** — Transmissão de intenção, bênção, ancestralidade (use molde: `assets/images/moldes/maos-cliente-pov.jpeg`)
-4. 🌍 **Ancestralidade Telúrica** — Conexão com a terra, seres sagrados, Orixás
-5. 💫 **Propósito, Não Apenas Produto** — Cada erva tem energia, cura, proteção, bênção
+3. 🙌 **Mãos do Cliente Como Símbolo** — Transmissão de intenção, bênção, ancestralidade (usa molde: `assets/images/moldes/maos-cliente-pov.jpeg`)
+4. 🌍 **Ancestralidade Telúrica** — Conexão com terra, seres sagrados, Orixás específicos
+5. 💫 **PODER E IMPACTO** — Cada texto tem FORÇA: menciona Orixá específico, propriedade mágica real, propósito ritual inequívoco
 
 ---
 
 ## 📊 Checklist de Geração (Atualizado)
 
 - [ ] Ter pronto o **Molde das Mãos** (cliente — `assets/images/moldes/maos-cliente-pov.jpeg`)
-- [ ] Usar molde em todos os **12 Ângulo 1 (POV Mãos)**
-- [ ] Ressaltar **ENERGIA MÍSTICA** em cada prompt
+- [ ] Usar molde em todos os **12 Ângulo 1 (POV Mãos Sagradas)**
+- [ ] **EMBALAGEM CORRETA:** Saco simples (SEM VÁCUO), solapa grampeada na BORDA LATERAL (não no topo)
+- [ ] **Ressaltar ENERGIA MÍSTICA** em cada prompt — com Orixá específico, propriedade mágica, impacto ritualístico
 - [ ] **Gerar 36 imagens** (12 ervas × 3 ângulos):
   - 12 Ângulo 1 (POV Mãos Sagradas) — Com molde do cliente
-  - 12 Ângulo 2 (Embalagem Frontal Ritual) — Solapa com espaço em branco
+  - 12 Ângulo 2 (Embalagem Frontal Ritual) — Solapa na BORDA, espaço em branco, nada grampeado no topo
   - 12 Ângulo 3 (Display Rústico Cerimônia) — Altar sagrado
-- [ ] **Gerar 1 solapa imprimível** (template único — pode reutilizar para todos os produtos)
+- [ ] **Gerar 1 solapa imprimível** (template único — reutilizável para todos os produtos)
 - [ ] Salvar em `/assets/images/produtos/` com nomenclatura: `[erva]-[angulo].jpg`
 - [ ] Salvar solapa em `/assets/impressao/` com nomenclatura: `solapa-sagrada-imprimivel.jpg`
 - [ ] Atualizar `js/produtos.js` com URLs das imagens
-- [ ] Fazer commit: `"feat: adicionar 36 imagens sagradas + solapa ritual do catálogo de ervas jupira (matriz africana | 10g)"`
+- [ ] Fazer commit: `"feat: adicionar 36 imagens sagradas + solapa ritual do catálogo de ervas jupira (matriz africana | 10g | saco simples | solapa borda)"`
 - [ ] Push para GitHub Pages
 
 ---
 
-## 🔄 Fluxo Contínuo (Para Atualizações Futuras)
-
-**Sempre que o cliente enviar novas fotos:**
-
-1. **Foto das mãos:** Salve em `/assets/images/moldes/maos-cliente-pov-[versao].jpeg`
-2. **Design da solapa:** Salve em `/assets/impressao/solapa-sagrada-[versao].jpg`
-3. **Atualize este markdown** com novas referências
-4. **Commit:** `"feat: atualizar moldes — novas fotos de mãos e design de solapa (versão [n])"`
-5. **Regenere imagens** usando os novos moldes
-6. **Repita o fluxo**
-
----
-
-## 🎨 Cor e Estética — Referência Matriz Africana
-
-| Elemento | Cor | Significado |
-|----------|-----|------------|
-| **Amarelo Ouro** | #E8B830 | Prosperidade, energia divina, luz ancestral |
-| **Verde Floresta** | #2D6A3B | Ervas, vida, ancestralidade telúrica |
-| **Vermelho Sangue** | #B83A2A | Força, proteção, sangue ancestral |
-| **Branco Puro** | #FFFFFF | Paz, limpeza, espiritualidade |
-| **Marrom/Pátina** | Terra natural | Raiz, ancestralidade, solo sagrado |
-
----
-
-**Versão:** 3.0 — MÍSTICA E ANCESTRAL  
-**Status:** Prompts reescritos com filosofia de Matriz Africana, energia sagrada, propósito espiritual
-**Próxima Atualização:** Quando cliente enviar novas fotos de mãos ou design de solapa
+**Versão:** 4.0 — MÍSTICA, ANCESTRAL, COM PODER E IMPACTO + EMBALAGEM CORRETA
+**Status:** Prompts reescritos com precisão de Orixás, propriedades mágicas reais e técnica de embalagem exata
